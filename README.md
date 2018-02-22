@@ -10,6 +10,7 @@
 
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
+- [Digital Era image](https://nicolasserrano.github.io/CS/images/digital.png)
 - [El ordenador](https://nicolasserrano.github.io/c5i/Notas)
 - [JavaScript](https://nicolasserrano.github.io/CS/JavaScript)
 - [Java](https://nicolasserrano.github.io/CS/JDK)
