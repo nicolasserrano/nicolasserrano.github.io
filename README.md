@@ -3,8 +3,8 @@
 ## Computer Science [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
 
 ## Courses
-- [Tecnologia Digital](http://www.unav.es/asignatura/infor2oi/) [Material](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_648544_1&course_id=_15909_1)
-- [Software Engineering](http://www.unav.es/asignatura/isoftwareing/) [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_651897_1&course_id=_15958_1)
+- [Tecnologia Digital](http://www.unav.es/asignatura/infor2oi/) - [Material](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_648544_1&course_id=_15909_1)
+- [Software Engineering](http://www.unav.es/asignatura/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_651897_1&course_id=_15958_1)
 - [Comunicación Visual](http://www.unav.es/asignatura/viscom/)
 - [Games](https://nicolasserrano.github.io/Games/)
 
