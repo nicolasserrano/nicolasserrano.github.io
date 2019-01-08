@@ -10,6 +10,12 @@
 - [Internet de las cosas & Inteligencia Artificial](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/) [MERC](https://www.unav.edu/en/web/master-ejecutivo-en-reputacion-corporativa/plan-de-estudios)
 - [Games](https://nicolasserrano.github.io/Games/) 
 
+## Personal Web Pages
+- [Web page](http://www.nicolasserrano.es/)  
+- [GitHub page](https://nicolasserrano.github.io/)  
+- [Tecnun page](http://www.tecnun.es/departamentos/personal/ficha/-/journal_content/56_INSTANCE_izKAh02mizKD/10229/31161)  
+- [LinkedIn](linkedin.com/in/nicolás-serrano-493a146) 
+
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
 - [Digital Era image](https://nicolasserrano.github.io/CS/images/digital.png)
