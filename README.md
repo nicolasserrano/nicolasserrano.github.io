@@ -14,7 +14,7 @@
 - [Web page](http://www.nicolasserrano.es/)  
 - [GitHub page](https://nicolasserrano.github.io/)  
 - [Tecnun page](http://www.tecnun.es/departamentos/personal/ficha/-/journal_content/56_INSTANCE_izKAh02mizKD/10229/31161)  
-- [LinkedIn](linkedin.com/in/nicolás-serrano-493a146) 
+- [LinkedIn](https://www.linkedin.com/in/nicolás-serrano-493a146) 
 
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
