@@ -17,8 +17,8 @@
 - [LinkedIn](https://www.linkedin.com/in/nicolás-serrano-493a146) 
 
 ## Web Pages
-- [Tecnun](http://www.tecnun.es/) [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) [Profesores](https://www.tecnun.es/profesores-pas)
-- [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
+- [Tecnun](http://www.tecnun.es/) - [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) - [Profesores](https://www.tecnun.es/profesores-pas)
+- [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H) - [PFM](https://nicolasserrano.github.io/ProyectosOI/)
 - [Codex](https://q-server.tecnun.es/codex/)
 
 ## Main pages
