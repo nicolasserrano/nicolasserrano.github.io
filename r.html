@@ -25,7 +25,8 @@
             str = str.replace(/^#/gm, "---\n#");
             document.getElementById("source").innerHTML = "class: center, middle" + str;
             //slideshow = remark.create();
-            slideshow = remark.create({ratio: '4:3'});
+            //slideshow = remark.create({ratio: '4:3'});
+            slideshow = remark.create({ratio: '16:9'});
             
             // change target of links
             var links = document.getElementsByTagName('a');
