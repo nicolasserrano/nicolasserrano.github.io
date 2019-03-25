@@ -45,13 +45,17 @@
             images=document.getElementsByTagName('img');
             for (i=0;i<images.length;i++) {
               el = images[i];
-              el.src =el.src.replace(initialUrl,finalUrl)
+              if (el.getAttribute('data-fixed-url') != "1") { // don't replace with data-fixed-url="1"
+                el.src =el.src.replace(initialUrl,finalUrl);
+              }
             }
             //change src of iframes
             iframes=document.getElementsByTagName('iframe');
             for (i=0;i<iframes.length;i++) {
               el = iframes[i];
-              el.src =el.src.replace(initialUrl,finalUrl)
+              if (el.getAttribute('data-fixed-url') != "1") { // don't replace with data-fixed-url="1"
+                el.src =el.src.replace(initialUrl,finalUrl);
+              }
             }
           }
       }
