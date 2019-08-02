@@ -3,10 +3,11 @@
 ## Computer Science [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
 
 ## Courses
+- [Hojas de cálculo](http://www.unav.edu/asignatura/hojas-calculo-resolucion-problemas-y-aplicaciones-ing-gr/)
+- [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605)
+- [Comunicación Visual](http://www.unav.es/asignatura/viscom/)
 - [Tecnologia Digital](http://www.unav.es/asignatura/infor2oi/) - [Material](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_916022_1&course_id=_19856_1)
 - [Software Engineering](http://www.unav.es/asignatura/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_651897_1&course_id=_15958_1)
-- [Comunicación Visual](http://www.unav.es/asignatura/viscom/)
-- [Estadística Industrial](https://tserver.tecnun.es/plan/asignatura?id=1000025608) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
 - [Internet de las cosas & Inteligencia Artificial](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/) [MERC](https://www.unav.edu/en/web/master-ejecutivo-en-reputacion-corporativa/plan-de-estudios)
 - [Games](https://nicolasserrano.github.io/Games/) 
 
@@ -32,3 +33,6 @@
 - [Session in Servlets](https://nicolasserrano.github.io/CS/Servlets)
 - [JDBC](https://nicolasserrano.github.io/CS/JDBC)
 - [CSS](https://nicolasserrano.github.io/CS/CSS/CSS.pdf)
+
+## Previous courses
+- [Estadística Industrial](https://tserver.tecnun.es/plan/asignatura?id=1000025608) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
