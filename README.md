@@ -1,4 +1,4 @@
-<link rel="dns-prefetch" href="style.cc">
+<link href="style.css">
 
 ### This [https://nicolasserrano.github.io](https://nicolasserrano.github.io)
 ![](images/web.png)
