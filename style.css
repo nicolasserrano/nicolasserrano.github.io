@@ -1,0 +1,6 @@
+  h2 {
+    break-before: column;
+  }
+  article.markdown-body {
+    column-count: 3;
+  }
