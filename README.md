@@ -1,3 +1,5 @@
+<link rel="dns-prefetch" href="style.cc">
+
 ### This [https://nicolasserrano.github.io](https://nicolasserrano.github.io)
 ![](images/web.png)
 
@@ -38,11 +40,4 @@
 ### Previous courses
 - [Estadística Industrial](https://tserver.tecnun.es/plan/asignatura?id=1000025608) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
 
-<style>
-  h2 {
-    break-before: column;
-  }
-  article.markdown-body {
-    column-count: 3;
-  }
-</style>
+
