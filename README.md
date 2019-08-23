@@ -1,6 +1,7 @@
-## This [https://nicolasserrano.github.io](https://nicolasserrano.github.io)
+### This [https://nicolasserrano.github.io](https://nicolasserrano.github.io)
+![](images/web.png)
 
-## Computer Science [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
+### Computer Science [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
 
 ## Courses
 - [Hojas de cálculo](http://www.unav.edu/asignatura/hojas-calculo-resolucion-problemas-y-aplicaciones-ing-gr/)
@@ -34,5 +35,14 @@
 - [JDBC](https://nicolasserrano.github.io/CS/JDBC)
 - [CSS](https://nicolasserrano.github.io/CS/CSS/CSS.pdf)
 
-## Previous courses
+### Previous courses
 - [Estadística Industrial](https://tserver.tecnun.es/plan/asignatura?id=1000025608) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
+
+<style>
+  h2 {
+    break-before: column;
+  }
+  article.markdown-body {
+    column-count: 3;
+  }
+</style>
