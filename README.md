@@ -1,4 +1,4 @@
-<link href="style.css">
+<link  rel="stylesheet" href="style.css">
 
 ### This [https://nicolasserrano.github.io](https://nicolasserrano.github.io)
 ![](images/web.png)
@@ -20,7 +20,7 @@
 - [Tecnun page](http://www.tecnun.es/departamentos/personal/ficha/-/journal_content/56_INSTANCE_izKAh02mizKD/10229/31161)  
 - [LinkedIn](https://www.linkedin.com/in/nicolás-serrano-493a146) 
 
-## Web Pages
+### Web Pages
 - [Tecnun](http://www.tecnun.es/) - [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) - [Profesores](https://www.tecnun.es/profesores-pas)
 - [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H) - [PFM](https://nicolasserrano.github.io/ProyectosOI/)
 - [Codex](https://q-server.tecnun.es/codex/)
