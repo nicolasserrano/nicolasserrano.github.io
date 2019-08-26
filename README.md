@@ -2,11 +2,11 @@
 <title>NicolasSerrano.es</title>
 
 ![](images/web.png)
-[Universidad de Navarra](https://www.unav.edu/)
-[Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)
-[Departamento de Organización Industrial](http://tecnun.org)
-[Grupo de investigación MENTOR](http://mentor.tecnun.es)
-[Codex](https://q-server.tecnun.es/codex/)
+- [Universidad de Navarra](https://www.unav.edu/)
+- [Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)
+- [Departamento de Organización Industrial](http://tecnun.org)
+- [Grupo de investigación MENTOR](http://mentor.tecnun.es)
+- [Codex](https://q-server.tecnun.es/codex/)
 
 ### Computer Science [https://nicolasserrano.com/CS](/CS) [files](https://github.com/nicolasserrano/CS)
 
