@@ -1,6 +1,9 @@
   h2 {
     break-before: column;
   }
-  article.markdown-body {
-    column-count: 3;
+  .markdown-body {
+    column-count: 4;
+  }
+  h1.markdown-body, h2.markdown-body, h3.markdown-body {
+    margin-top: 0;
   }
