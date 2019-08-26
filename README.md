@@ -1,9 +1,9 @@
 <link  rel="stylesheet" href="style.css">
+<title>NicolasSerrano.es</title>
 
-### This [https://nicolasserrano.github.io](https://nicolasserrano.github.io)
 ![](images/web.png)
 
-### Computer Science [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
+### Computer Science [https://nicolasserrano.com/CS](/CS) [files](https://github.com/nicolasserrano/CS)
 
 ## Courses
 - [Hojas de cálculo](http://www.unav.edu/asignatura/hojas-calculo-resolucion-problemas-y-aplicaciones-ing-gr/)
