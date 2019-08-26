@@ -2,18 +2,22 @@
 <title>NicolasSerrano.es</title>
 
 ![](images/web.png)
-[https://www.unav.edu/](Universidad de Navarra)
-[https://tecnun.unav.edu/](Tecnun. Escuela de Ingenieros)
-[http://tecnun.org](Departamento de Organización Industrial)
-[http://mentor.tecnun.es](Grupo de investigación MENTOR)
-[https://q-server.tecnun.es/codex/](Codex)
+[Universidad de Navarra](https://www.unav.edu/)
+[Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)
+[Departamento de Organización Industrial](http://tecnun.org)
+[Grupo de investigación MENTOR](http://mentor.tecnun.es)
+[Codex](https://q-server.tecnun.es/codex/)
 
 ### Computer Science [https://nicolasserrano.com/CS](/CS) [files](https://github.com/nicolasserrano/CS)
 
 ## Courses
+### 1<sup>st</sup> semester
 - [Hojas de cálculo](http://www.unav.edu/asignatura/hojas-calculo-resolucion-problemas-y-aplicaciones-ing-gr/)
 - [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605)
 - [Comunicación Visual](http://www.unav.es/asignatura/viscom/)
+- [Dirección de operaciones (MII)](https://tserver.tecnun.es/plan/asignatura?id=1000024856)
+- [Administración de empresas y proyectos de telecomunicación (MIT)](https://tserver.tecnun.es/plan/asignatura?id=1000024856)
+### 2<sup>nd</sup> semester
 - [Tecnologia Digital](http://www.unav.es/asignatura/infor2oi/) - [Material](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_916022_1&course_id=_19856_1)
 - [Software Engineering](http://www.unav.es/asignatura/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_651897_1&course_id=_15958_1)
 - [Internet de las cosas & Inteligencia Artificial](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/) [MERC](https://www.unav.edu/en/web/master-ejecutivo-en-reputacion-corporativa/plan-de-estudios)
