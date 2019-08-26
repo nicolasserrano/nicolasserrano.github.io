@@ -2,6 +2,11 @@
 <title>NicolasSerrano.es</title>
 
 ![](images/web.png)
+[https://www.unav.edu/](Universidad de Navarra)
+[https://tecnun.unav.edu/](Tecnun. Escuela de Ingenieros)
+[http://tecnun.org](Departamento de Organización Industrial)
+[http://mentor.tecnun.es](Grupo de investigación MENTOR)
+[https://q-server.tecnun.es/codex/](Codex)
 
 ### Computer Science [https://nicolasserrano.com/CS](/CS) [files](https://github.com/nicolasserrano/CS)
 
