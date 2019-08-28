@@ -35,8 +35,14 @@
 
 ### Web Pages
 - [Tecnun](http://www.tecnun.es/) - [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) - [Profesores](https://www.tecnun.es/profesores-pas)
-- [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H) - [PFM](https://nicolasserrano.github.io/ProyectosOI/)
+- [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
 - [Codex](https://q-server.tecnun.es/codex/)
+
+### Personal Sites
+- [Evernote](https://www.evernote.com/)
+- [OneDrive](https://portal.office.com)
+- [Drive](https://drive.google.com/drive/my-drive)
+- [DropBox](https://www.dropbox.com/)
 
 ### Tools
 - [White](http://www.nicolasserrano.com/viscom/white.html) 
@@ -57,8 +63,6 @@
 
 ### Previous courses
 - [Estadística Industrial](https://tserver.tecnun.es/plan/asignatura?id=1000025608) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
-- [Finanzas de la Empresa(https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18382_1&url=)]
-
-
+- [Finanzas de la Empresa](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18382_1&url=)
 
 
