@@ -57,5 +57,8 @@
 
 ### Previous courses
 - [Estadística Industrial](https://tserver.tecnun.es/plan/asignatura?id=1000025608) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
+- [Finanzas de la Empresa(https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18382_1&url=)]
+
+
 
 
