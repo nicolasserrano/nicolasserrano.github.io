@@ -16,12 +16,16 @@
 - [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605)
 - [Comunicación Visual](http://www.unav.es/asignatura/viscom/)
 - [Dirección de operaciones (MII)](https://tserver.tecnun.es/plan/asignatura?id=1000024856)
-- [Administración de empresas y proyectos de telecomunicación (MIT)](https://tserver.tecnun.es/plan/asignatura?id=1000024856)
+- [Administración de empresas y proyectos de telecomunicación (MIT)](https://tserver.tecnun.es/plan/asignatura?id=1000024834)  
+
 ### 2<sup>nd</sup> semester
 - [Tecnologia Digital](http://www.unav.es/asignatura/infor2oi/) - [Material](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_916022_1&course_id=_19856_1)
 - [Software Engineering](http://www.unav.es/asignatura/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_651897_1&course_id=_15958_1)
 - [Internet de las cosas & Inteligencia Artificial](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/) [MERC](https://www.unav.edu/en/web/master-ejecutivo-en-reputacion-corporativa/plan-de-estudios)
 - [Games](https://nicolasserrano.github.io/Games/) 
+
+### Annual
+- [PFG](http://www.nicolasserrano.com/ProyectosOI/PFG) - [PFM](http://www.nicolasserrano.com/ProyectosOI/PFM)
 
 ## Personal Web Pages
 - [Web page](http://www.nicolasserrano.es/)  
@@ -33,6 +37,11 @@
 - [Tecnun](http://www.tecnun.es/) - [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) - [Profesores](https://www.tecnun.es/profesores-pas)
 - [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H) - [PFM](https://nicolasserrano.github.io/ProyectosOI/)
 - [Codex](https://q-server.tecnun.es/codex/)
+
+### Tools
+- [White](http://www.nicolasserrano.com/viscom/white.html) 
+- [Translation](https://translate.google.es/) [Speach notes](https://speechnotes.co/) [Grammar](https://www.grammarcheck.net/editor/)
+- [Custom print](https://www.printwhatyoulike.com/)
 
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
