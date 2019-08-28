@@ -20,22 +20,23 @@
 
 ### 2<sup>nd</sup> semester
 - [Tecnologia Digital](http://www.unav.es/asignatura/infor2oi/) - [Material](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_916022_1&course_id=_19856_1)
-- [Software Engineering](http://www.unav.es/asignatura/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_651897_1&course_id=_15958_1)
-- [Internet de las cosas & Inteligencia Artificial](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/) [MERC](https://www.unav.edu/en/web/master-ejecutivo-en-reputacion-corporativa/plan-de-estudios)
+- [Software Engineering](http://www.unav.es/asignatura/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1130042_1&course_id=_22124_1)
+- [Internet de las cosas & Inteligencia Artificial](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/) [MERC](https://www.unav.edu/en/web/master-en-reputacion-corporativa/plan-de-estudios) - [Recursos](http://www.nicolasserrano.com/digital/)
 - [Games](https://nicolasserrano.github.io/Games/) 
 
 ### Annual
 - [PFG](http://www.nicolasserrano.com/ProyectosOI/PFG) - [PFM](http://www.nicolasserrano.com/ProyectosOI/PFM)
 
 ## Personal Web Pages
-- [Web page](http://www.nicolasserrano.es/)  
+- [Blog (no activo)](http://www.nicolasserrano.es/)  
 - [GitHub page](https://nicolasserrano.github.io/)  
-- [Tecnun page](http://www.tecnun.es/departamentos/personal/ficha/-/journal_content/56_INSTANCE_izKAh02mizKD/10229/31161)  
+- [Unav page](https://www.unav.edu/web/investigacion/nuestros-investigadores/detalle-investigadores-cv?investigadorId=31161&investigador=Serrano%20Barcena,%20Nicolas)  
 - [LinkedIn](https://www.linkedin.com/in/nicolás-serrano-493a146) 
 
 ### Web Pages
 - [Tecnun](http://www.tecnun.es/) - [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) - [Profesores](https://www.tecnun.es/profesores-pas)
 - [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
+- [HAL](https://tecnunhal.github.io/)
 - [Codex](https://q-server.tecnun.es/codex/)
 
 ### Personal Sites
