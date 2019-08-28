@@ -1,5 +1,5 @@
 <link  rel="stylesheet" href="style.css">
-<title>NicolasSerrano.es</title>
+<script>document.title = "NicolasSerrano.es"</script>
 
 <a href='http://nicolasserrano.com'><img src='images/web.png'></a>
 - [Universidad de Navarra](https://www.unav.edu/)
