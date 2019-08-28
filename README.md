@@ -12,6 +12,7 @@
 ### Computer Science [https://nicolasserrano.com/CS](https://nicolasserrano.com/CS) [files](https://github.com/nicolasserrano/CS)
 
 ## Courses
+
 ### 1<sup>st</sup> semester
 - [Hojas de cálculo](http://www.unav.edu/asignatura/hojas-calculo-resolucion-problemas-y-aplicaciones-ing-gr/)
 - [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605)
@@ -19,7 +20,7 @@
 - [Dirección de operaciones (MII)](https://tserver.tecnun.es/plan/asignatura?id=1000024856)
 - [Administración de empresas y proyectos de telecomunicación (MIT)](https://tserver.tecnun.es/plan/asignatura?id=1000024834)  
 
-### 2<sup>nd</sup> semester
+### 2<sup>nd</sup> semester  
 - [Tecnologia Digital](http://www.unav.es/asignatura/infor2oi/) - [Material](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_916022_1&course_id=_19856_1)
 - [Software Engineering](http://www.unav.es/asignatura/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1130042_1&course_id=_22124_1)
 - [Internet de las cosas & Inteligencia Artificial](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/) [MERC](https://www.unav.edu/en/web/master-en-reputacion-corporativa/plan-de-estudios) - [Recursos](http://www.nicolasserrano.com/digital/)
