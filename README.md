@@ -39,22 +39,6 @@
 ### Annual
 - [PFG](http://www.nicolasserrano.com/ProyectosOI/PFG) - [PFM](http://www.nicolasserrano.com/ProyectosOI/PFM)
 
-## Web Pages
-- [Tecnun](http://www.tecnun.es/) - [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) - [Profesores](https://tecnun.unav.edu/profesores-pas)
-- [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
-- [HAL](https://tecnunhal.github.io/)
-- [Codex](https://q-server.tecnun.es/codex/)
-
-
-### Tools
-- [White](http://www.nicolasserrano.com/viscom/white.html) 
-- [Translation](https://translate.google.es/) [Speach notes](https://speechnotes.co/) [Grammar](https://www.grammarcheck.net/editor/)
-- [Custom print](https://www.printwhatyoulike.com/)
-- [Evernote](https://www.evernote.com/)
-- [OneDrive](https://portal.office.com)
-- [Drive](https://drive.google.com/drive/my-drive)
-- [DropBox](https://www.dropbox.com/)
-
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
 - [Digital Era image](https://nicolasserrano.github.io/CS/images/digital.png) [url: http://tiny.cc/ictimage](http://tiny.cc/ictimage)
@@ -70,6 +54,22 @@
 ### Previous courses
 - [Estadística Industrial](https://tserver.tecnun.es/plan/asignatura?id=1000025608) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
 - [Finanzas de la Empresa](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18382_1&url=)
+
+## Web Pages
+- [Tecnun](http://www.tecnun.es/) - [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) - [Profesores](https://tecnun.unav.edu/profesores-pas)
+- [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
+- [HAL](https://tecnunhal.github.io/)
+- [Codex](https://q-server.tecnun.es/codex/)
+
+
+### Tools
+- [White](http://www.nicolasserrano.com/viscom/white.html) 
+- [Translation](https://translate.google.es/) [Speach notes](https://speechnotes.co/) [Grammar](https://www.grammarcheck.net/editor/)
+- [Custom print](https://www.printwhatyoulike.com/)
+- [Evernote](https://www.evernote.com/)
+- [OneDrive](https://portal.office.com)
+- [Drive](https://drive.google.com/drive/my-drive)
+- [DropBox](https://www.dropbox.com/)
 
 [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md)
 
