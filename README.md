@@ -9,7 +9,7 @@
 - [Codex](https://q-server.tecnun.es/codex/)
 - [NicolasSerrano.com](http://nicolasserrano.com)
 
-### Computer Science [http://nicolasserrano.com/CS](https://nicolasserrano.com/CS) [files](https://github.com/nicolasserrano/CS)
+### Computer Science [http://nicolasserrano.com/CS](http://nicolasserrano.com/CS) [files](https://github.com/nicolasserrano/CS)
 
 ## Courses
 
