@@ -11,6 +11,16 @@
 
 ### Computer Science [http://nicolasserrano.com/CS](http://nicolasserrano.com/CS) [files](https://github.com/nicolasserrano/CS)
 
+### Personal Web Pages
+- [ResearcherId (Publosn)](https://publons.com/researcher/1997529/nicolas-serrano/)
+- [ORCID ID](http://orcid.org/0000-0001-6926-6331)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=Z0ZKrBIAAAAJ)
+- [Research Gate](https://www.researchgate.net/profile/Nicolas_Serrano)
+- [Unav page](https://www.unav.edu/web/investigacion/nuestros-investigadores/detalle-investigadores-cv?investigadorId=31161&investigador=Serrano%20Barcena,%20Nicolas)  
+- [LinkedIn](https://www.linkedin.com/in/nicolás-serrano-493a146) 
+- [GitHub page](https://nicolasserrano.github.io/)  
+- [Blog (no activo)](http://www.nicolasserrano.es/)  
+
 ## Courses
 
 ### 1<sup>st</sup> semester
@@ -29,28 +39,21 @@
 ### Annual
 - [PFG](http://www.nicolasserrano.com/ProyectosOI/PFG) - [PFM](http://www.nicolasserrano.com/ProyectosOI/PFM)
 
-## Personal Web Pages
-- [Blog (no activo)](http://www.nicolasserrano.es/)  
-- [GitHub page](https://nicolasserrano.github.io/)  
-- [Unav page](https://www.unav.edu/web/investigacion/nuestros-investigadores/detalle-investigadores-cv?investigadorId=31161&investigador=Serrano%20Barcena,%20Nicolas)  
-- [LinkedIn](https://www.linkedin.com/in/nicolás-serrano-493a146) 
-
-### Web Pages
+## Web Pages
 - [Tecnun](http://www.tecnun.es/) - [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) - [Profesores](https://tecnun.unav.edu/profesores-pas)
 - [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
 - [HAL](https://tecnunhal.github.io/)
 - [Codex](https://q-server.tecnun.es/codex/)
 
-### Personal Sites
-- [Evernote](https://www.evernote.com/)
-- [OneDrive](https://portal.office.com)
-- [Drive](https://drive.google.com/drive/my-drive)
-- [DropBox](https://www.dropbox.com/)
 
 ### Tools
 - [White](http://www.nicolasserrano.com/viscom/white.html) 
 - [Translation](https://translate.google.es/) [Speach notes](https://speechnotes.co/) [Grammar](https://www.grammarcheck.net/editor/)
 - [Custom print](https://www.printwhatyoulike.com/)
+- [Evernote](https://www.evernote.com/)
+- [OneDrive](https://portal.office.com)
+- [Drive](https://drive.google.com/drive/my-drive)
+- [DropBox](https://www.dropbox.com/)
 
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
