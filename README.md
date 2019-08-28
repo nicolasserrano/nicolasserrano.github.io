@@ -8,7 +8,7 @@
 - [Grupo de investigación MENTOR](http://mentor.tecnun.es)
 - [Codex](https://q-server.tecnun.es/codex/)
 
-### Computer Science [https://nicolasserrano.com/CS](/CS) [files](https://github.com/nicolasserrano/CS)
+### Computer Science [https://nicolasserrano.com/CS](https://nicolasserrano.com/CS) [files](https://github.com/nicolasserrano/CS)
 
 ## Courses
 ### 1<sup>st</sup> semester
@@ -65,5 +65,7 @@
 ### Previous courses
 - [Estadística Industrial](https://tserver.tecnun.es/plan/asignatura?id=1000025608) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
 - [Finanzas de la Empresa](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18382_1&url=)
+
+[Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md)
 
 
