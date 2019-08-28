@@ -7,9 +7,9 @@
 - [Departamento de Organización Industrial](http://tecnun.org)
 - [Grupo de investigación MENTOR](http://mentor.tecnun.es)
 - [Codex](https://q-server.tecnun.es/codex/)
-- [https://NicolasSerrano.com](https://nicolasserrano.com)
+- [NicolasSerrano.com](http://nicolasserrano.com)
 
-### Computer Science [https://nicolasserrano.com/CS](https://nicolasserrano.com/CS) [files](https://github.com/nicolasserrano/CS)
+### Computer Science [http://nicolasserrano.com/CS](https://nicolasserrano.com/CS) [files](https://github.com/nicolasserrano/CS)
 
 ## Courses
 
