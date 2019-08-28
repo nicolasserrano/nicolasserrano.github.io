@@ -7,11 +7,9 @@
 - [Departamento de Organización Industrial](http://tecnun.org)
 - [Grupo de investigación MENTOR](http://mentor.tecnun.es)
 - [Codex](https://q-server.tecnun.es/codex/)
-- [NicolasSerrano.com](http://nicolasserrano.com)
-
-### Computer Science [http://nicolasserrano.com/CS](http://nicolasserrano.com/CS) [files](https://github.com/nicolasserrano/CS)
 
 ### Personal Web Pages
+- [NicolasSerrano.com](http://nicolasserrano.com)
 - [ResearcherId (Publosn)](https://publons.com/researcher/1997529/nicolas-serrano/)
 - [ORCID ID](http://orcid.org/0000-0001-6926-6331)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=Z0ZKrBIAAAAJ)
