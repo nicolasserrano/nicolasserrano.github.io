@@ -7,6 +7,7 @@
 - [Departamento de Organización Industrial](http://tecnun.org)
 - [Grupo de investigación MENTOR](http://mentor.tecnun.es)
 - [Codex](https://q-server.tecnun.es/codex/)
+- [https://NicolasSerrano.com](https://nicolasserrano.com)
 
 ### Computer Science [https://nicolasserrano.com/CS](https://nicolasserrano.com/CS) [files](https://github.com/nicolasserrano/CS)
 
@@ -34,7 +35,7 @@
 - [LinkedIn](https://www.linkedin.com/in/nicolás-serrano-493a146) 
 
 ### Web Pages
-- [Tecnun](http://www.tecnun.es/) - [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) - [Profesores](https://www.tecnun.es/profesores-pas)
+- [Tecnun](http://www.tecnun.es/) - [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) - [Profesores](https://tecnun.unav.edu/profesores-pas)
 - [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
 - [HAL](https://tecnunhal.github.io/)
 - [Codex](https://q-server.tecnun.es/codex/)
