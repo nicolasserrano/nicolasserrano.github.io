@@ -1,7 +1,7 @@
 <link  rel="stylesheet" href="style.css">
 <title>NicolasSerrano.es</title>
 
-![](images/web.png)
+<a href='http://nicolasserrano.com'><img src='images/web.png'></a>
 - [Universidad de Navarra](https://www.unav.edu/)
 - [Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)
 - [Departamento de Organización Industrial](http://tecnun.org)
