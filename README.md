@@ -1,6 +1,3 @@
-<link  rel="stylesheet" href="style.css">
-<script>document.title = "NicolasSerrano.es"</script>
-
 <a href='http://nicolasserrano.com'><img src='images/web.png'></a>
 - [Universidad de Navarra](https://www.unav.edu/)
 - [Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)
@@ -68,6 +65,9 @@
 - [OneDrive](https://portal.office.com)
 - [Drive](https://drive.google.com/drive/my-drive)
 - [DropBox](https://www.dropbox.com/)
+
+<link  rel="stylesheet" href="style.css">
+<script>document.title = "NicolasSerrano.es"</script>
 
 [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md)
 
