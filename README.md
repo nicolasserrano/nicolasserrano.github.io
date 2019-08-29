@@ -17,7 +17,7 @@
 - [PFG](http://www.nicolasserrano.com/ProyectosOI/PFG) - [PFM](http://www.nicolasserrano.com/ProyectosOI/PFM)
 - [Games](https://nicolasserrano.github.io/Games/) 
 
-## <a href='http://nicolasserrano.com'><img src='images/web.png'></a> <small>v1.05</small>
+## <a href='http://nicolasserrano.com'><img src='images/web.png'></a>
 - [Universidad de Navarra](https://www.unav.edu/)
 - [Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)
 - [Departamento de Organización Industrial](http://tecnun.org)
@@ -72,5 +72,3 @@
 <script>document.title = "NicolasSerrano.es"</script>
 
 <small>v1.05</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md)
-
-
