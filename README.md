@@ -1,20 +1,3 @@
-<a href='http://nicolasserrano.com'><img src='images/web.png'></a>
-- [Universidad de Navarra](https://www.unav.edu/)
-- [Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)
-- [Departamento de Organización Industrial](http://tecnun.org)
-- [Grupo de investigación MENTOR](http://mentor.tecnun.es)
-- [Codex](https://q-server.tecnun.es/codex/) - [SMR](http://smr-project.eu/home/) - [EIMA](http://eimakatalogoa.eus/vufind/Record/46898)
-
-### Personal Web Pages
-- [NicolasSerrano.com](http://nicolasserrano.com)
-- [ResearcherId (Publons)](https://publons.com/researcher/1997529/nicolas-serrano/)
-- [ORCID ID](http://orcid.org/0000-0001-6926-6331)
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=Z0ZKrBIAAAAJ)
-- [Research Gate](https://www.researchgate.net/profile/Nicolas_Serrano)
-- [Unav page](https://www.unav.edu/web/investigacion/nuestros-investigadores/detalle-investigadores-cv?investigadorId=31161&investigador=Serrano%20Barcena,%20Nicolas)  
-- [LinkedIn](https://www.linkedin.com/in/nicolás-serrano-493a146) 
-- [GitHub page](https://github.com/nicolasserrano) - [Repositories](https://github.com/nicolasserrano?tab=repositories)
-- [Blog (no activo)](http://www.nicolasserrano.es/)  
 
 ## Courses
 
@@ -33,6 +16,24 @@
 ### Others
 - [PFG](http://www.nicolasserrano.com/ProyectosOI/PFG) - [PFM](http://www.nicolasserrano.com/ProyectosOI/PFM)
 - [Games](https://nicolasserrano.github.io/Games/) 
+
+<a href='http://nicolasserrano.com'><img src='images/web.png'></a>
+- [Universidad de Navarra](https://www.unav.edu/)
+- [Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)
+- [Departamento de Organización Industrial](http://tecnun.org)
+- [Grupo de investigación MENTOR](http://mentor.tecnun.es)
+- [Codex](https://q-server.tecnun.es/codex/) - [SMR](http://smr-project.eu/home/) - [EIMA](http://eimakatalogoa.eus/vufind/Record/46898)
+
+### Personal Web Pages
+- [NicolasSerrano.com](http://nicolasserrano.com)
+- [ResearcherId (Publons)](https://publons.com/researcher/1997529/nicolas-serrano/)
+- [ORCID ID](http://orcid.org/0000-0001-6926-6331)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=Z0ZKrBIAAAAJ)
+- [Research Gate](https://www.researchgate.net/profile/Nicolas_Serrano)
+- [Unav page](https://www.unav.edu/web/investigacion/nuestros-investigadores/detalle-investigadores-cv?investigadorId=31161&investigador=Serrano%20Barcena,%20Nicolas)  
+- [LinkedIn](https://www.linkedin.com/in/nicolás-serrano-493a146) 
+- [GitHub page](https://github.com/nicolasserrano) - [Repositories](https://github.com/nicolasserrano?tab=repositories)
+- [Blog (no activo)](http://www.nicolasserrano.es/)  
 
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
