@@ -3,7 +3,7 @@
 - [Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)
 - [Departamento de Organización Industrial](http://tecnun.org)
 - [Grupo de investigación MENTOR](http://mentor.tecnun.es)
-- [Codex](https://q-server.tecnun.es/codex/)
+- [Codex](https://q-server.tecnun.es/codex/) - [SMR](http://smr-project.eu/home/)
 
 ### Personal Web Pages
 - [NicolasSerrano.com](http://nicolasserrano.com)
@@ -13,7 +13,7 @@
 - [Research Gate](https://www.researchgate.net/profile/Nicolas_Serrano)
 - [Unav page](https://www.unav.edu/web/investigacion/nuestros-investigadores/detalle-investigadores-cv?investigadorId=31161&investigador=Serrano%20Barcena,%20Nicolas)  
 - [LinkedIn](https://www.linkedin.com/in/nicolás-serrano-493a146) 
-- [GitHub page](https://nicolasserrano.github.io/) - [Repositories](https://github.com/nicolasserrano?tab=repositories)
+- [GitHub page](https://github.com/nicolasserrano) - [Repositories](https://github.com/nicolasserrano?tab=repositories)
 - [Blog (no activo)](http://www.nicolasserrano.es/)  
 
 ## Courses
