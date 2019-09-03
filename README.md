@@ -67,6 +67,7 @@
 - [Drive](https://drive.google.com/drive/my-drive)
 - [DropBox](https://www.dropbox.com/)
 - [Other tools](webtools)
+- [Resources](resources)
 
 <link  rel="stylesheet" href="style.css">
 <script>document.title = "NicolasSerrano.es"</script>
