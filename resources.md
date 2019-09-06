@@ -1,8 +1,13 @@
+# Class resources
+- [Codex](https://q-server.tecnun.es/codex/)
+- [Socrative](https://b.socrative.com/login/teacher/)
 # Resources of ADSI
 - Video Babbage Difference Engine: [video](https://www.youtube.com/watch?v=KBuJqUfO4-w&feature=youtu.be&t=51)
 - Video Magnetism: Data Storage [video](https://www.youtube.com/watch?v=f3BNHhfTsvk&feature=youtu.be&t=41)
 - Hexadecimal editor [editor](https://hexed.it/?hl=en)
 - XML tutorial [w3schools](https://www.w3schools.com/xml/default.asp)
+- JSON tutorial [w3schools](https://www.w3schools.com/js/js_json_intro.asp)
+- Practica ficheos [github](http://www.nicolasserrano.com/practicaDatos/)
 
 # Resources of Spreadsheets
 - Visicalc [simulator](https://www.pcjs.org/apps/pcx86/1981/visicalc/)
