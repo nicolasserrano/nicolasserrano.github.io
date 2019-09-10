@@ -19,7 +19,8 @@
 
 ## <a href='http://nicolasserrano.com'><img src='images/web.png'></a>
 - [Universidad de Navarra](https://www.unav.edu/)
-- [Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)
+- [Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)  
+  &#9742; 943 219 877 / Ext. 2487. Despacho O-105. Edificio Urdaneta
 - [Departamento de Organización Industrial](http://tecnun.org)
 - [Grupo de investigación MENTOR](http://mentor.tecnun.es)
 - [Codex](https://q-server.tecnun.es/codex/) - [SMR](http://smr-project.eu/home/) - [EIMA](http://eimakatalogoa.eus/vufind/Record/46898)
