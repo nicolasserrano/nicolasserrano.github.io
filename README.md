@@ -14,7 +14,7 @@
 - [Internet de las cosas & Inteligencia Artificial](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/) [MERC](https://www.unav.edu/en/web/master-en-reputacion-corporativa/plan-de-estudios) - [Recursos](http://www.nicolasserrano.com/digital/)
 
 ### Others
-- [PFG](http://www.nicolasserrano.com/ProyectosOI/PFG) - [PFM](http://www.nicolasserrano.com/ProyectosOI/PFM)
+- [PFG](http://www.nicolasserrano.com/ProyectosOI/PFG) - [Asignatura ADI](https://tserver.tecnun.es/plan/asignatura?id=1000025725) - [PFM](http://www.nicolasserrano.com/ProyectosOI/PFM)
 - [Games](https://nicolasserrano.github.io/Games/) 
 
 ## <a href='http://nicolasserrano.com'><img src='images/web.png'></a>
