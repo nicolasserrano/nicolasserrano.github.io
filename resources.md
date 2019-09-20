@@ -7,7 +7,7 @@
 - Hexadecimal editor [editor](https://hexed.it/?hl=en)
 - XML tutorial [w3schools](https://www.w3schools.com/xml/default.asp)
 - JSON tutorial [w3schools](https://www.w3schools.com/js/js_json_intro.asp)
-- Practica ficheos [github](http://www.nicolasserrano.com/practicaDatos/)
+- Practica ficheros [github](http://www.nicolasserrano.com/practicaDatos/)
 
 # Resources of Spreadsheets
 - Visicalc [simulator](https://www.pcjs.org/apps/pcx86/1981/visicalc/)
