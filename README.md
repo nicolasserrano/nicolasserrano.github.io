@@ -53,7 +53,7 @@
 - [Finanzas de la Empresa](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18382_1&url=)
 
 ## Reference Web Pages
-- [Tecnun](http://www.tecnun.es/) - [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) - [Profesores](https://tecnun.unav.edu/profesores-pas) - [Aulas]() - [Actas](https://www.unav.es/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html)
+- [Tecnun](http://www.tecnun.es/) - [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) - [Profesores](https://tecnun.unav.edu/profesores-pas) - [Aulas](https://tecnun.unav.edu/profesores-pas/reserva-de-aulas) - [Actas](https://www.unav.es/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html)
 - [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
 - [HAL](https://tecnunhal.github.io/)
 - [Codex](https://q-server.tecnun.es/codex/)
