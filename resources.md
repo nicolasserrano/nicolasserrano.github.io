@@ -8,6 +8,7 @@
 - XML tutorial [w3schools](https://www.w3schools.com/xml/default.asp)
 - JSON tutorial [w3schools](https://www.w3schools.com/js/js_json_intro.asp)
 - Practica ficheros [github](http://www.nicolasserrano.com/practicaDatos/)
+- Instrucciones para [comandos de Práctica 2 de Access (Queries)](http://www.nicolasserrano.com/ADSI/ComandosPractica2Access.html)
 
 # Resources of Spreadsheets
 - Visicalc [simulator](https://www.pcjs.org/apps/pcx86/1981/visicalc/)
