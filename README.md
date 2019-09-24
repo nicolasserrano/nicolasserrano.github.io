@@ -23,7 +23,7 @@
   <span style="font-size: small;"><span style="font-family: initial;">&#9742;</span> 943 219 877 / Ext. 2487. Despacho O-105. Edificio Urdaneta</span>
 - [Departamento de Organización Industrial](http://tecnun.org)
 - [Grupo de investigación MENTOR](http://mentor.tecnun.es)
-- [Codex](https://q-server.tecnun.es/codex/) - [SMR](http://smr-project.eu/home/) - [EIMA](http://eimakatalogoa.eus/vufind/Record/46898)
+- [Codex](https://q-server.tecnun.es/codex/) - [SMR](http://smr-project.eu/home/) - [EIMA](http://eimakatalogoa.eus/vufind/Author/Home?author=B%C3%A1rcena+Serrano%2C+Nicol%C3%A1s)
 
 ### Personal Web Pages
 - [NicolasSerrano.com](http://nicolasserrano.com)
