@@ -8,8 +8,10 @@
 - [Filters](https://www.befunky.com/create/photo-to-cartoon/)
 
 ### Image search
-- https://unsplash.com/
-- https://www.pexels.com/
-- https://pixabay.com/
-- https://www.vectorstock.com/
-- https://images.google.com/
+- [unsplash](https://unsplash.com/)
+- [pexels](https://www.pexels.com/)
+- [pixabay](https://pixabay.com/)
+- [vectorstock](https://www.vectorstock.com/)
+- [google](https://images.google.com/)
+- [freepik](https://www.freepik.com/search?dates=any&format=search&page=1&selection=1&sort=popular)
+- [flaticon](https://www.flaticon.com/)
