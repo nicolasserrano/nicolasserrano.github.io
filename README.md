@@ -1,4 +1,4 @@
-<div class='main'>
+<div class='main'></div>
 
 ## Courses
 
@@ -73,9 +73,8 @@
 - [Socrative](https://b.socrative.com/login/teacher/)
 - [Other tools](webtools)
 - [Resources](resources)
-</div>
 
-<div class='resources'>
+<div class='resources'></div>
 
 ## Class resources
 - [Codex](https://q-server.tecnun.es/codex/)
@@ -100,8 +99,6 @@
 ## Learning
 - [Teaching Skills (HBSP)](https://hbsp.harvard.edu/teaching-skills/)
 - [15th International CDIO Conference](https://ebooks.au.dk/aul/catalog/book/347)
-
-</div>
 
 <link  rel="stylesheet" href="style.css">
 <script>document.title = "NicolasSerrano.es"</script>
