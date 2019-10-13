@@ -3,7 +3,7 @@
 
 ### 1<sup>st</sup> semester
 - [Hojas de cálculo](http://www.unav.edu/asignatura/hojas-calculo-resolucion-problemas-y-aplicaciones-ing-gr/)
-- [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605) - [Recursos](resources#resources-of-adsi)
+- [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605) - [Recursos](#resources-of-adsi)
 - [Comunicación Visual](http://www.unav.es/asignatura/viscom/)
 - [Dirección de operaciones (MII)](https://tserver.tecnun.es/plan/asignatura?id=1000024856)
 - [Administración de empresas y proyectos de telecomunicación (MIT)](https://tserver.tecnun.es/plan/asignatura?id=1000024834)  
@@ -69,8 +69,6 @@
 - [OneDrive](https://portal.office.com)
 - [Drive](https://drive.google.com/drive/my-drive)
 - [DropBox](https://www.dropbox.com/)
-- [Socrative](https://b.socrative.com/login/teacher/)
-- [Other tools](webtools)
 - [Resources](resources)
 
 <div class='resources'><hr></div>
@@ -78,6 +76,8 @@
 ## Courses
 - [Codex](https://q-server.tecnun.es/codex/)
 - [Socrative](https://b.socrative.com/login/teacher/)
+
+<span id='#resources-of-adsi'></span>
 
 ### Resources of ADSI
 - Video Babbage Difference Engine: [video](https://www.youtube.com/watch?v=KBuJqUfO4-w&feature=youtu.be&t=51)
