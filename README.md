@@ -69,7 +69,6 @@
 - [OneDrive](https://portal.office.com)
 - [Drive](https://drive.google.com/drive/my-drive)
 - [DropBox](https://www.dropbox.com/)
-- [Resources](resources)
 
 <div class='resources'><hr></div>
 
