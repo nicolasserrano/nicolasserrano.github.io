@@ -61,7 +61,7 @@
 - [Blog (no activo)](http://www.nicolasserrano.es/)  
 
 
-<div class='resources'><hr></div>
+<div id='r' class='resources'><hr></div>
 
 ## Courses
 - [Codex](https://q-server.tecnun.es/codex/)
