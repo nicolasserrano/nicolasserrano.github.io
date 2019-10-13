@@ -5,10 +5,10 @@ div.markdown-body:first-child h1 {
   h2 {
     break-before: column;
   }
-  .markdown-body+div.main {
+  .markdown-body div.main~* {
     column-count: 4;
   }
-  .markdown-body+div.resources {
+  .markdown-body div.resources~* {
     column-count: 3;
   }
 
