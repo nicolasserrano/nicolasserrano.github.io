@@ -1,4 +1,3 @@
-<div class='main'></div>
 
 ## Courses
 
@@ -74,13 +73,13 @@
 - [Other tools](webtools)
 - [Resources](resources)
 
-<div class='resources'>Resources</div>
+<div class='resources'><hr></div>
 
-## Class resources
+## Courses
 - [Codex](https://q-server.tecnun.es/codex/)
 - [Socrative](https://b.socrative.com/login/teacher/)
 
-## Resources of ADSI
+### Resources of ADSI
 - Video Babbage Difference Engine: [video](https://www.youtube.com/watch?v=KBuJqUfO4-w&feature=youtu.be&t=51)
 - Video Magnetism: Data Storage [video](https://www.youtube.com/watch?v=f3BNHhfTsvk&feature=youtu.be&t=41)
 - Hexadecimal editor [editor](https://hexed.it/?hl=en)
@@ -89,16 +88,30 @@
 - Practica ficheros [github](http://www.nicolasserrano.com/practicaDatos/)
 - Instrucciones para [comandos de Prácticas 2 a 4 de Access](http://www.nicolasserrano.com/ADSI/ComandosPracticas2-4Access.pdf)
 
-## Resources of Spreadsheets
+### Resources of Spreadsheets
 - Visicalc [simulator](https://www.pcjs.org/apps/pcx86/1981/visicalc/)
 - Popular electronics [cover](https://en.wikipedia.org/wiki/Altair_8800#/media/File:Popular_Electronics_Cover_Jan_1975.jpg)
-
-<small>v1.05</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/resources.md)
-
 
 ## Learning
 - [Teaching Skills (HBSP)](https://hbsp.harvard.edu/teaching-skills/)
 - [15th International CDIO Conference](https://ebooks.au.dk/aul/catalog/book/347)
+
+## Images
+
+### Image edition
+
+- [Pixlr editor](https://pixlr.com/x/)
+- [Filters](https://www.befunky.com/create/photo-to-cartoon/)
+
+### Image search
+- [unsplash](https://unsplash.com/)
+- [pexels](https://www.pexels.com/)
+- [pixabay](https://pixabay.com/)
+- [vectorstock](https://www.vectorstock.com/)
+- [google](https://images.google.com/)
+- [freepik](https://www.freepik.com/search?dates=any&format=search&page=1&selection=1&sort=popular)
+- [flaticon](https://www.flaticon.com/)
+
 
 <link  rel="stylesheet" href="style.css">
 <script>document.title = "NicolasSerrano.es"</script>
