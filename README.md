@@ -74,7 +74,7 @@
 - [Other tools](webtools)
 - [Resources](resources)
 
-<div class='resources'></div>
+<div class='resources'>Resources</div>
 
 ## Class resources
 - [Codex](https://q-server.tecnun.es/codex/)
