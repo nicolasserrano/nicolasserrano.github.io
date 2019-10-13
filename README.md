@@ -13,10 +13,34 @@
 - [Software Engineering](http://www.unav.es/asignatura/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1130042_1&course_id=_22124_1)
 - [Internet de las cosas & Inteligencia Artificial](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/) [MERC](https://www.unav.edu/en/web/master-en-reputacion-corporativa/plan-de-estudios) - [Recursos](http://www.nicolasserrano.com/digital/)
 
-### Others
+## Others
 - [PFG](http://www.nicolasserrano.com/ProyectosOI/PFG) - [Asignatura ADI](https://tserver.tecnun.es/plan/asignatura?id=1000025725) - [PFM](http://www.nicolasserrano.com/ProyectosOI/PFM) - [Asignatura ADI](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1020053_1&course_id=_20696_1)
 - [Winter program](https://tecnun.unav.edu/winter-program/course-description)
 - [Games](https://nicolasserrano.github.io/Games/) 
+
+### Previous courses
+- [Estadística Industrial](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18539_1&url=) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
+- [Finanzas de la Empresa](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18382_1&url=)
+- [Computer Graphics](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1078884_1&course_id=_21325_1&mode=reset)
+
+## Main pages
+- [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
+- [Digital Era image](https://nicolasserrano.github.io/CS/images/digital.png) [url: http://tiny.cc/ictimage](http://tiny.cc/ictimage)
+- [El ordenador](https://nicolasserrano.github.io/c5i/Notas)
+- [JavaScript](https://nicolasserrano.github.io/CS/JavaScript) [Execise JavaScript and JSON](https://nicolasserrano.github.io/CS/Java/JavaScriptJSON)
+- [Command Prompt](https://nicolasserrano.github.io/CS/Cmd)
+- [Java JDK](https://nicolasserrano.github.io/CS/JDK)
+- [Tomcat server](https://nicolasserrano.github.io/CS/Tomcat) [Web applications](https://nicolasserrano.github.io/CS/Java/WebApplicationExercises)
+- [Session in Servlets](https://nicolasserrano.github.io/CS/Servlets)
+- [JDBC](https://nicolasserrano.github.io/CS/JDBC)
+- [CSS](https://nicolasserrano.github.io/CS/CSS/CSS.pdf)
+
+### Reference Web Pages
+- [Tecnun](http://www.tecnun.es/) - [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) - [Profesores](https://tecnun.unav.edu/profesores-pas) - [Aulas](https://tecnun.unav.edu/profesores-pas/reserva-de-aulas) - [Actas](https://www.unav.es/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html)
+- [ADI](https://aula-virtual.unav.edu/) - [Panopto](https://unav.cloud.panopto.eu)
+- [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
+- [HAL](https://tecnunhal.github.io/)
+- [Codex](https://q-server.tecnun.es/codex/)
 
 ## <a href='http://nicolasserrano.com'><img src='images/web.png'></a>
 - [Universidad de Navarra](https://www.unav.edu/)
@@ -37,38 +61,6 @@
 - [GitHub page](https://github.com/nicolasserrano) - [Repositories](https://github.com/nicolasserrano?tab=repositories) - [Artículos de opinión](opinion)
 - [Blog (no activo)](http://www.nicolasserrano.es/)  
 
-## Main pages
-- [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
-- [Digital Era image](https://nicolasserrano.github.io/CS/images/digital.png) [url: http://tiny.cc/ictimage](http://tiny.cc/ictimage)
-- [El ordenador](https://nicolasserrano.github.io/c5i/Notas)
-- [JavaScript](https://nicolasserrano.github.io/CS/JavaScript) [Execise JavaScript and JSON](https://nicolasserrano.github.io/CS/Java/JavaScriptJSON)
-- [Command Prompt](https://nicolasserrano.github.io/CS/Cmd)
-- [Java JDK](https://nicolasserrano.github.io/CS/JDK)
-- [Tomcat server](https://nicolasserrano.github.io/CS/Tomcat) [Web applications](https://nicolasserrano.github.io/CS/Java/WebApplicationExercises)
-- [Session in Servlets](https://nicolasserrano.github.io/CS/Servlets)
-- [JDBC](https://nicolasserrano.github.io/CS/JDBC)
-- [CSS](https://nicolasserrano.github.io/CS/CSS/CSS.pdf)
-
-### Previous courses
-- [Estadística Industrial](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18539_1&url=) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
-- [Finanzas de la Empresa](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18382_1&url=)
-
-## Reference Web Pages
-- [Tecnun](http://www.tecnun.es/) - [Información curso](http://www.tecnun.es/alumnos/informacion-para-el-curso) - [Profesores](https://tecnun.unav.edu/profesores-pas) - [Aulas](https://tecnun.unav.edu/profesores-pas/reserva-de-aulas) - [Actas](https://www.unav.es/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html)
-- [ADI](https://aula-virtual.unav.edu/) - [Panopto](https://unav.cloud.panopto.eu)
-- [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
-- [HAL](https://tecnunhal.github.io/)
-- [Codex](https://q-server.tecnun.es/codex/)
-
-
-### Tools
-- [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) 
-- [Translation](https://translate.google.es/) [Speach notes](https://speechnotes.co/) [Grammar](https://www.grammarcheck.net/editor/)
-- [Custom print](https://www.printwhatyoulike.com/)
-- [Evernote](https://www.evernote.com/)
-- [OneDrive](https://portal.office.com)
-- [Drive](https://drive.google.com/drive/my-drive)
-- [DropBox](https://www.dropbox.com/)
 
 <div class='resources'><hr></div>
 
@@ -111,6 +103,14 @@
 - [freepik](https://www.freepik.com/search?dates=any&format=search&page=1&selection=1&sort=popular)
 - [flaticon](https://www.flaticon.com/)
 
+## Tools
+- [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) 
+- [Translation](https://translate.google.es/) [Speach notes](https://speechnotes.co/) [Grammar](https://www.grammarcheck.net/editor/)
+- [Custom print](https://www.printwhatyoulike.com/)
+- [Evernote](https://www.evernote.com/)
+- [OneDrive](https://portal.office.com)
+- [Drive](https://drive.google.com/drive/my-drive)
+- [DropBox](https://www.dropbox.com/)
 
 <link  rel="stylesheet" href="style.css">
 <script>document.title = "NicolasSerrano.es"</script>
