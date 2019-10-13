@@ -8,8 +8,8 @@ div.markdown-body:first-child h1 {
   .markdown-body {
     column-count: 4;
   }
-  .markdown-body div.resources+h1 {
-    column-count: 3;
+  .markdown-body div.resources {
+    column-span: all;
   }
 
   div.markdown-body h1, div.markdown-body h2, div.markdown-body h3 {
