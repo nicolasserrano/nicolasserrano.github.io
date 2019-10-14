@@ -85,6 +85,7 @@
 ## Learning
 - [Teaching Skills (HBSP)](https://hbsp.harvard.edu/teaching-skills/)
 - [15th International CDIO Conference](https://ebooks.au.dk/aul/catalog/book/347)
+- [The Flipped Classroom](https://www.theflippedclassroom.es/tecnun/)
 
 ## Images
 
