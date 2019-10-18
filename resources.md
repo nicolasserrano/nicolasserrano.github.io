@@ -2,6 +2,7 @@
 - [Codex](https://q-server.tecnun.es/codex/)
 - [Socrative](https://b.socrative.com/login/teacher/)
 # Resources of ADSI
+[Digital Era image](https://nicolasserrano.github.io/CS/images/digital.png)
 ## Data
 - Video Babbage Difference Engine: [video](https://www.youtube.com/watch?v=KBuJqUfO4-w&feature=youtu.be&t=51)
 - Video Magnetism: Data Storage [video](https://www.youtube.com/watch?v=f3BNHhfTsvk&feature=youtu.be&t=41)
