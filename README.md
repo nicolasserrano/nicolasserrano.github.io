@@ -3,7 +3,7 @@
 
 ### 1<sup>st</sup> semester
 - [Hojas de cálculo](http://www.unav.edu/asignatura/hojas-calculo-resolucion-problemas-y-aplicaciones-ing-gr/)
-- [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605) - [Recursos](#resources-of-adsi)
+- [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605) - [Recursos](resources)
 - [Comunicación Visual](http://www.unav.es/asignatura/viscom/)
 - [Dirección de operaciones (MII)](https://tserver.tecnun.es/plan/asignatura?id=1000024856)
 - [Administración de empresas y proyectos de telecomunicación (MIT)](https://tserver.tecnun.es/plan/asignatura?id=1000024834)  
@@ -70,13 +70,7 @@
 <span id='#resources-of-adsi'></span>
 
 ### Resources of ADSI
-- Video Babbage Difference Engine: [video](https://www.youtube.com/watch?v=KBuJqUfO4-w&feature=youtu.be&t=51)
-- Video Magnetism: Data Storage [video](https://www.youtube.com/watch?v=f3BNHhfTsvk&feature=youtu.be&t=41)
-- Hexadecimal editor [editor](https://hexed.it/?hl=en)
-- XML tutorial [w3schools](https://www.w3schools.com/xml/default.asp)
-- JSON tutorial [w3schools](https://www.w3schools.com/js/js_json_intro.asp)
-- Practica ficheros [github](http://www.nicolasserrano.com/practicaDatos/)
-- Instrucciones para [comandos de Prácticas 2 a 4 de Access](http://www.nicolasserrano.com/ADSI/ComandosPracticas2-4Access.pdf)
+- [Recursos](resources)
 
 ### Resources of Spreadsheets
 - Visicalc [simulator](https://www.pcjs.org/apps/pcx86/1981/visicalc/)
