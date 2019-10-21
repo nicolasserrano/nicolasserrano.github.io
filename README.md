@@ -55,7 +55,7 @@
 - [ORCID ID](http://orcid.org/0000-0001-6926-6331)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=Z0ZKrBIAAAAJ)
 - [Research Gate](https://www.researchgate.net/profile/Nicolas_Serrano)
-- [Unav page](https://www.unav.edu/web/investigacion/nuestros-investigadores/detalle-investigadores-cv?investigadorId=31161&investigador=Serrano%20Barcena,%20Nicolas)  
+- [Unav page](https://www.unav.edu/web/investigacion/nuestros-investigadores/detalle-investigadores-cv?investigadorId=31161&investigador=Serrano Barcena, Nicolas)  
 - [LinkedIn](https://www.linkedin.com/in/nicolás-serrano-493a146) 
 - [GitHub page](https://github.com/nicolasserrano) - [Repositories](https://github.com/nicolasserrano?tab=repositories) - [Artículos de opinión](opinion)
 - [Blog (no activo)](http://www.nicolasserrano.es/)  
