@@ -111,5 +111,6 @@
 <script>document.title = "NicolasSerrano.es"</script>
 
 - [Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)  
-  <span style="font-size: small;"><span style="font-family: initial;">&#9742;</span> 943 219 877 / Ext. 2487. Despacho O-105. Edificio Urdaneta</span>
+  <span style="font-size: small;"><span style="font-family: initial;">&#9742;</span> 943 219 877 / Ext. 2487.  
+  Despacho O-105. Edificio Urdaneta</span>
 <small>v1.05</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md)
