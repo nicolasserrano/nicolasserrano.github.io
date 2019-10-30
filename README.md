@@ -108,7 +108,7 @@
 - [DropBox](https://www.dropbox.com/)
 
 <link  rel="stylesheet" href="style.css">
-<script>document.title = "NicolasSerrano.es"</script>
+<script>document.title = "NicolasSerrano.com"</script>
 
 - [Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)  
   <span style="font-size: small;"><span style="font-family: initial;">&#9742;</span> 943 219 877 / Ext. 2487.  
