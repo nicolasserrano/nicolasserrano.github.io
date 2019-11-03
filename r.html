@@ -82,5 +82,13 @@
     <script>
       createDocument();
     </script>
+    <script>
+      function reloadIframes() {
+        iframes = document.getElementsByTagName("iframe")
+        for (i=0;i<iframes.length;i++){
+          iframes[i].src = iframes[i].src;
+        }
+      }
+    </script>
   </body>
 </html>
