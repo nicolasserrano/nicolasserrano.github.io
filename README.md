@@ -24,8 +24,9 @@
 - [Computer Graphics](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1078884_1&course_id=_21325_1&mode=reset)
 
 ## Main pages
-- [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) [files](https://github.com/nicolasserrano/CS)
-- [Digital Era image](https://nicolasserrano.github.io/CS/images/digital.png) [url: http://tiny.cc/ictimage](http://tiny.cc/ictimage)
+- [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS)
+- [Digital Era image](https://nicolasserrano.github.io/CS/images/digital.png)
+- [AI](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md)
 - [El ordenador](https://nicolasserrano.github.io/c5i/Notas)
 - [JavaScript](https://nicolasserrano.github.io/CS/JavaScript) [Execise JavaScript and JSON](https://nicolasserrano.github.io/CS/Java/JavaScriptJSON)
 - [Command Prompt](https://nicolasserrano.github.io/CS/Cmd)
