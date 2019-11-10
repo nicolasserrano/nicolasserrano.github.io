@@ -98,6 +98,12 @@
 - [google](https://images.google.com/)
 - [freepik](https://www.freepik.com/search?dates=any&format=search&page=1&selection=1&sort=popular)
 - [flaticon](https://www.flaticon.com/)
+### Videos
+- [pexels](https://www.pexels.com/es-es/videos/)
+- [pixabay]https://pixabay.com/videos/
+- [videezy](https://www.videezy.com/)
+- [videvo](https://www.videvo.net/stock-video-footage/)
+- [Others](https://www.oberlo.com/blog/free-stock-video-websites)
 
 ## Tools
 - [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) 
