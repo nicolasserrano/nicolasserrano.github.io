@@ -22,7 +22,9 @@
       xmlhttp.onreadystatechange=function() {
           if (xmlhttp.readyState==4 && xmlhttp.status==200) {
             str =  xmlhttp.responseText;
-            str = str.replace(/^#/gm, "---\n#");
+            if (str.search("breakTitlesWith#") != -1) {
+              str = str.replace(/^#/gm, "---\n#");
+            }
             document.getElementById("source").innerHTML = "class: center, middle" + str;
             //slideshow = remark.create();
             //slideshow = remark.create({ratio: '4:3'});
