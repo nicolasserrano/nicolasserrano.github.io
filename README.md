@@ -26,7 +26,7 @@
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS)
 - [Digital Era image](https://nicolasserrano.github.io/CS/images/digital.png)
-- [AI](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md) -[VBA](https://www.nicolasserrano.com/tools/hojas/Excel_VBA.pdf)
+- [AI](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md) -[VBA](https://www.nicolasserrano.com/tools/hojas/Excel_VBA.pdf) - [Presentations](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/pres.md#1)
 - [El ordenador](https://nicolasserrano.github.io/c5i/Notas)
 - [JavaScript](https://nicolasserrano.github.io/CS/JavaScript) [Execise JavaScript and JSON](https://nicolasserrano.github.io/CS/Java/JavaScriptJSON)
 - [Command Prompt](https://nicolasserrano.github.io/CS/Cmd)
