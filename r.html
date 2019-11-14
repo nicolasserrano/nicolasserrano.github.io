@@ -22,7 +22,7 @@
       xmlhttp.onreadystatechange=function() {
           if (xmlhttp.readyState==4 && xmlhttp.status==200) {
             str =  xmlhttp.responseText;
-            if (str.search("breakTitlesWith#") != -1) {
+            if (str.search("breakTitlesWith#") != -1 || window.location.href.search("breakTitlesWith#") != -1) {
               str = str.replace(/^#/gm, "---\n#");
             }
             document.getElementById("source").innerHTML = "class: center, middle" + str;
