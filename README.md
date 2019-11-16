@@ -83,16 +83,17 @@
 - [Teaching Skills (HBSP)](https://hbsp.harvard.edu/teaching-skills/)
 - [15th International CDIO Conference](https://ebooks.au.dk/aul/catalog/book/347)
 - [The Flipped Classroom](https://www.theflippedclassroom.es/tecnun/)
+
 ### Technology
 #### Channels
-[ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A)
-[Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
-[Bernard Marr](https://www.youtube.com/channel/UCWstLaT61QUc-TvfxOjNpFw)
+- [ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A)
+- [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
+- [Bernard Marr](https://www.youtube.com/channel/UCWstLaT61QUc-TvfxOjNpFw)
 #### Newsletters
-[MIT Technology Review](https://forms.technologyreview.com/the-download/)
-[WIRED](https://www.wired.com/newsletter/)
-[The New York Times](https://www.nytimes.com/newsletters/bits)
-[deeplearning.ai](https://www.deeplearning.ai/#text-5)
+- [MIT Technology Review](https://forms.technologyreview.com/the-download/)
+- [WIRED](https://www.wired.com/newsletter/)
+- [The New York Times](https://www.nytimes.com/newsletters/bits)
+- [deeplearning.ai](https://www.deeplearning.ai/#text-5)
 
 ## Images
 
