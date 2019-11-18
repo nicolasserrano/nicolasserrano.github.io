@@ -22,6 +22,7 @@
 - [Estadística Industrial](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18539_1&url=) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
 - [Finanzas de la Empresa](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18382_1&url=)
 - [Computer Graphics](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1078884_1&course_id=_21325_1&mode=reset)
+- [Time Management](TimeManagement/)
 
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS)
