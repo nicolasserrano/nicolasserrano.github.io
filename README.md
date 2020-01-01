@@ -113,7 +113,7 @@
 - [flaticon](https://www.flaticon.com/)
 ### Videos
 - [pexels](https://www.pexels.com/es-es/videos/)
-- [pixabay]https://pixabay.com/videos/
+- [pixabay](https://pixabay.com/videos/)
 - [videezy](https://www.videezy.com/)
 - [videvo](https://www.videvo.net/stock-video-footage/)
 - [Others](https://www.oberlo.com/blog/free-stock-video-websites)
