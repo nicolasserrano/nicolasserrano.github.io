@@ -133,4 +133,7 @@
 - [Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)  
   <span style="font-size: small;"><span style="font-family: initial;">&#9742;</span> 943 219 877 / Ext. 2487.  
   Despacho O-105. Edificio Urdaneta</span>
+  
+  <iframe src="http://free.timeanddate.com/clock/i73vju9d/n31/tles4/fn6/fs16/fc9ff/tc000/bas2/bat0/bacfff/pa8/tt0/tw1/tm2/th1/tb4" frameborder="0" width="147" height="56"></iframe>
+
 <small>v1.05</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md)
