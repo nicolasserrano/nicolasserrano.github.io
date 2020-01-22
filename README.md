@@ -69,6 +69,7 @@
 ## Courses
 - [Codex](https://q-server.tecnun.es/codex/)
 - [Socrative](https://b.socrative.com/login/teacher/)
+- [Piazza (SE 302)](https://piazza.com/tecnun.es/spring2020/se302)
 
 <span id='#resources-of-adsi'></span>
 
