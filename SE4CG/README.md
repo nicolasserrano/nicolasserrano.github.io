@@ -77,7 +77,6 @@ Complete the project and wrap up of the course.
 - [Render 3D Star Wars](http://www.smartjava.org/content/render-3d-star-wars-force-awakens-models-blender-and-threejs) - [demo](http://www.smartjava.org/examples/threejs-starwars/src/html/)
 - [Integration Basics by Glenn Fiedler](https://thenetworkprotocolcompany.com/post/integration_basics/)
 
-!!!
 ### Other Books
 - [O'Reilly](https://ssearch.oreilly.com/?i=1;q=game+programming;q1=Books;x1=t1&act=fc_contenttype_Books)
 - [Apress](https://www.apress.com/us/search?facet-type=type__book&query=game+programming)
@@ -87,7 +86,5 @@ Complete the project and wrap up of the course.
 ### MOOCs
 - [HTML5 Game Development (Udacity)](https://eu.udacity.com/course/html5-game-development--cs255)
 - [Design and Development of Games for Learning (edX)](https://www.edx.org/course/design-development-games-learning-mitx-11-127x-0)
-
-!!!
 
 [Edit](https://github.com/nicolasserrano/SE4CG/edit/master/README.md)
