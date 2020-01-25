@@ -1,4 +1,4 @@
-# [Software Engineering for Computer Graphics (https://nicolasserrano.com/SE4CG)](http://www.nicolasserrano.com/SE4CG)
+# [Software Engineering for Computer Graphics](http://www.nicolasserrano.com/SE4CG)
 
 Software Engineering for Computer Graphics - Winter 2020
 
