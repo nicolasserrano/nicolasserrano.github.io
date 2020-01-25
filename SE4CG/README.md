@@ -88,3 +88,8 @@ Complete the project and wrap up of the course.
 - [Design and Development of Games for Learning (edX)](https://www.edx.org/course/design-development-games-learning-mitx-11-127x-0)
 
 [Edit](https://github.com/nicolasserrano/SE4CG/edit/master/README.md)
+<style>
+img {
+  vertical-align: text-top;
+}
+</style>
