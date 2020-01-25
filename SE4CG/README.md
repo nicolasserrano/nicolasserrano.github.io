@@ -6,19 +6,42 @@ Software Engineering for Computer Graphics - Winter 2020
 - [SE4CG in github](https://github.com/nicolasserrano/SE4CG)
 - [List of canvas files](https://github.com/nicolasserrano/Games/tree/master/canvas) 
 
-## Session 1 
-- [Canvas1](https://nicolasserrano.github.io/Games/canvas/canvas1.html) - [Example drawing on canvas](https://nicolasserrano.github.io/pro-html5-games-17/9781484229095/9781484229095_Ch01/chapter1.html)
+## Session 1. Drawing in the browser
+[HTML](http://philip.greenspun.com/seia/html), the language to create web pages. [Canvas](https://www.w3schools.com/html/html5_canvas.asp), the element to draw. [JavaScript](http://www.nicolasserrano.com/CS/JavaScript/JavascriptOnePage.pdf), the language to draw.
+- [Canvas1](https://nicolasserrano.github.io/Games/canvas/canvas1.html)
+- [Example drawing on canvas](https://nicolasserrano.github.io/pro-html5-games-17/9781484229095/9781484229095_Ch01/chapter1.html)
 
-## Session 2 
+## Session 2. Animation 
+Loops to draw animations. Time in animation. Animated images.
 - [Canvas2](https://nicolasserrano.github.io/Games/canvas/canvas2.html) 
 - [Canvas3](https://nicolasserrano.github.io/Games/canvas/canvas3.html) 
 
-## Session 3 
+## Session 3. Interaction 
+Include the user in the loop. Interaction with the mouse. Interaction with the keyboard.
 - [Events](https://nicolasserrano.github.io/Games/canvas/events.html) 
 - [Real coordinates (in stackoverflow)](https://stackoverflow.com/questions/17130395/real-mouse-position-in-canvas)
 
-## Session 4 
+## Session 4. Drawing in 3D
+Adding the third dimension. Transforming in 3D. Libraries for 3D drawing.
 - [3D scene (Earth)](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/examples/chapter15/earth.html)
+
+## Session 5: Modeling objects
+Defining objects. Using warehouses and stores.
+
+## Session 6: Importing objects
+Include 3D objects in our application. Lighting.
+
+## Session 7: Animation in 3D
+Movement in 3D. Translations, rotations and animations.
+
+## Session 8: Interaction in 3D
+Integrating the different elements to develop an interactive 3D application.
+
+## Session 9: Project
+Define, design and build a project.
+
+## Session 10: Project and Wrap Up
+Complete the project and wrap up of the course.
 
 ## Reference
 - [JavaScript in One Page (http://tiny.cc/javascript)](https://nicolasserrano.github.io/CS/JavaScript/JavascriptOnePage.pdf)
