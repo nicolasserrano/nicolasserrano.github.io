@@ -3,7 +3,7 @@
 Software Engineering for Computer Graphics - Winter 2020
 
 ## List 
-- [SE4CG in github](https://github.com/nicolasserrano/SE4CG)
+- [SE4CG in github](https://github.com/nicolasserrano/nicolasserrano.github.io/tree/master/SE4CG)
 - [List of canvas files](https://github.com/nicolasserrano/Games/tree/master/canvas) 
 
 ## Session 1. Drawing in the browser
@@ -27,9 +27,13 @@ Adding the third dimension. Transforming in 3D. Libraries for 3D drawing.
 
 ## Session 5: Modeling objects
 Defining objects. Using warehouses and stores.
+- [SketchUp](https://www.sketchup.com/plans-and-pricing/sketchup-free)
+- [Sketchfab](https://sketchfab.com/)
+- [3D Warehouse](https://3dwarehouse.sketchup.com/)
 
 ## Session 6: Importing objects
 Include 3D objects in our application. Lighting.
+- [Load obj in three.js](https://threejsfundamentals.org/threejs/lessons/threejs-load-obj.html)
 
 ## Session 7: Animation in 3D
 Movement in 3D. Translations, rotations and animations.
