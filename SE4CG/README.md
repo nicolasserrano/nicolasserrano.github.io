@@ -62,10 +62,10 @@ Complete the project and wrap up of the course.
 ### Books source code
 ![HTML5 Canvas](https://raw.githubusercontent.com/nicolasserrano/Games/master/images/coverHTML5Canvas.png) ![Physics for JavaScript Games, Animation, and Simulations](https://raw.githubusercontent.com/nicolasserrano/Games/master/images/cover_PhysicsForJavaScript.png)
 - [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654) - [source code](https://resources.oreilly.com/examples/0636920026266)
-- [Programe Juegos con HTML5](http://libroweb.alfaomega.com.mx/book/programe_juegos_con_html5)
 - [Pro HTML5 Games (2017)](https://github.com/nicolasserrano/pro-html5-games-17)
 - [Physics for JavaScript Games, Animation, and Simulations](https://github.com/nicolasserrano/Physics-for-JavaScript-Games-Animation-Simulations) - [Run examples](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/ExamplesList.html) - [Google Books preview](https://books.google.es/books?id=pXi7AwAAQBAJ&lpg=PP3&pg=PA35#v=twopage&q&f=true) - [Springer](https://link.springer.com/book/10.1007%2F978-1-4302-6338-8)
 - [Learning HTML5 Game Programming](https://github.com/nicolasserrano/html5-game-book)  
+
 #### Three.js  
 - [Learning Three.js: The JavaScript 3D Library for WebGL](https://github.com/nicolasserrano/learning-threejs) - [Book in Tecnun library](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&AN=653073)  
 - [Essential Three.js](https://github.com/nicolasserrano/essential-threejs)  - [Book in Tecnun library](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&AN=810875)
@@ -84,6 +84,7 @@ Complete the project and wrap up of the course.
 - [Amazon](https://www.amazon.es/s/ref=nb_sb_noss_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=game+programming)
 
 ### MOOCs
+- [Animation and CGI Motion (Columbia University)](https://www.edx.org/course/animation-and-cgi-motion-2)
 - [HTML5 Game Development (Udacity)](https://eu.udacity.com/course/html5-game-development--cs255)
 - [Design and Development of Games for Learning (edX)](https://www.edx.org/course/design-development-games-learning-mitx-11-127x-0)
 
