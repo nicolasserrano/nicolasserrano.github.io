@@ -40,7 +40,7 @@ Include 3D objects in our application. Lighting.
 
 ## Session 7: Animation in 3D
 Movement in 3D. Translations, rotations and animations.
-- [Computer Graphics (8 Mb)]https://www.nicolasserrano.com/viscom/CG.pdf)
+- [Computer Graphics (8 Mb)](https://www.nicolasserrano.com/viscom/CG.pdf)
 
 ## Session 8: Interaction in 3D
 Integrating the different elements to develop an interactive 3D application.
