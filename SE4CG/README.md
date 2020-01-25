@@ -40,17 +40,18 @@ Include 3D objects in our application. Lighting.
 
 ## Session 7: Animation in 3D
 Movement in 3D. Translations, rotations and animations.
+- [Computer Graphics (8 Mb)]https://www.nicolasserrano.com/viscom/CG.pdf)
 
 ## Session 8: Interaction in 3D
 Integrating the different elements to develop an interactive 3D application.
+- Software Engineering
 
 ## Session 9: Project
 Define, design and build a project.
-Software Engineering
+- Portfolio in GitHub
 
 ## Session 10: Project and Wrap Up
 Complete the project and wrap up of the course.
-Portfolio in GitHub
 
 ## Reference
 - [JavaScript in One Page (http://tiny.cc/javascript)](https://nicolasserrano.github.io/CS/JavaScript/JavascriptOnePage.pdf)
