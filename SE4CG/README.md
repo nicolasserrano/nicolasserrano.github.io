@@ -15,15 +15,18 @@ Software Engineering for Computer Graphics - Winter 2020
 Loops to draw animations. Time in animation. Animated images.
 - [Canvas2](https://nicolasserrano.github.io/Games/canvas/canvas2.html) 
 - [Canvas3](https://nicolasserrano.github.io/Games/canvas/canvas3.html) 
+- Developer tools in Google Chrome
 
 ## Session 3. Interaction 
 Include the user in the loop. Interaction with the mouse. Interaction with the keyboard.
 - [Events](https://nicolasserrano.github.io/Games/canvas/events.html) 
 - [Real coordinates (in stackoverflow)](https://stackoverflow.com/questions/17130395/real-mouse-position-in-canvas)
+- GitHub for publishing web pages
 
 ## Session 4. Drawing in 3D
 Adding the third dimension. Transforming in 3D. Libraries for 3D drawing.
 - [3D scene (Earth)](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/examples/chapter15/earth.html)
+- User Interface
 
 ## Session 5: Modeling objects
 Defining objects. Using warehouses and stores.
@@ -43,9 +46,11 @@ Integrating the different elements to develop an interactive 3D application.
 
 ## Session 9: Project
 Define, design and build a project.
+Software Engineering
 
 ## Session 10: Project and Wrap Up
 Complete the project and wrap up of the course.
+Portfolio in GitHub
 
 ## Reference
 - [JavaScript in One Page (http://tiny.cc/javascript)](https://nicolasserrano.github.io/CS/JavaScript/JavascriptOnePage.pdf)
