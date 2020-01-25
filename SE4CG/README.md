@@ -93,7 +93,7 @@ Portfolio in GitHub
 - [HTML5 Game Development (Udacity)](https://eu.udacity.com/course/html5-game-development--cs255)
 - [Design and Development of Games for Learning (edX)](https://www.edx.org/course/design-development-games-learning-mitx-11-127x-0)
 
-[Edit](https://github.com/nicolasserrano/SE4CG/edit/master/README.md)
+[Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/SE4CG/README.md)
 <style>
 img {
   vertical-align: text-top;
