@@ -1,14 +1,11 @@
-# [Software Engineering for Computer Graphics](http://www.nicolasserrano.com/SE4CG)
+# [Software Engineering for Computer Graphics - Winter 2020](http://www.nicolasserrano.com/SE4CG)
+- [SE4CG files](https://github.com/nicolasserrano/nicolasserrano.github.io/tree/master/SE4CG)
 
-Software Engineering for Computer Graphics - Winter 2020
-
-## List 
-- [SE4CG in github](https://github.com/nicolasserrano/nicolasserrano.github.io/tree/master/SE4CG)
-- [List of canvas files](https://github.com/nicolasserrano/Games/tree/master/canvas) 
+[Shanghai Jiao Tong University]() - [Tecnun. University of Navarra](www.tecnun.es)
 
 ## Session 1. Drawing in the browser
-[HTML](http://philip.greenspun.com/seia/html), the language to create web pages. [Canvas](https://www.w3schools.com/html/html5_canvas.asp), the element to draw. [JavaScript](http://www.nicolasserrano.com/CS/JavaScript/JavascriptOnePage.pdf), the language to draw.
-- [Canvas1](https://nicolasserrano.github.io/Games/canvas/canvas1.html)
+[HTML](http://philip.greenspun.com/seia/html), the language to create web pages. [Canvas](https://www.w3schools.com/html/html5_canvas.asp), the element to draw. [JavaScript](https://nicolasserrano.github.io/CS/JavaScript/JavascriptOnePage.pdf), the language to draw.
+- [Canvas1](https://nicolasserrano.github.io/Games/canvas/canvas1.html) - [List of canvas files](https://github.com/nicolasserrano/Games/tree/master/canvas) 
 - [Example drawing on canvas](https://nicolasserrano.github.io/pro-html5-games-17/9781484229095/9781484229095_Ch01/chapter1.html)
 
 ## Session 2. Animation 
@@ -21,7 +18,7 @@ Loops to draw animations. Time in animation. Animated images.
 Include the user in the loop. Interaction with the mouse. Interaction with the keyboard.
 - [Events](https://nicolasserrano.github.io/Games/canvas/events.html) 
 - [Real coordinates (in stackoverflow)](https://stackoverflow.com/questions/17130395/real-mouse-position-in-canvas)
-- GitHub for publishing web pages
+- [GitHub for publishing web pages](https://nicolasserrano.github.io/CS/WebGitHub_en)
 
 ## Session 4. Drawing in 3D
 Adding the third dimension. Transforming in 3D. Libraries for 3D drawing.
@@ -41,7 +38,7 @@ Include 3D objects in our application. Lighting.
 
 ## Session 7: Animation in 3D
 Movement in 3D. Translations, rotations and animations.
-- [Computer Graphics (8 Mb)](https://www.nicolasserrano.com/viscom/CG.pdf)
+- [Computer Graphics (8 Mb)](https://nicolasserrano.github.io/viscom/CG.pdf)
 
 ## Session 8: Interaction in 3D
 Integrating the different elements to develop an interactive 3D application.
