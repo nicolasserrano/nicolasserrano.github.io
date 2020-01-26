@@ -1,7 +1,6 @@
 # [Software Engineering for Computer Graphics - Winter 2020](http://www.nicolasserrano.com/SE4CG)
 - [SE4CG files](https://github.com/nicolasserrano/nicolasserrano.github.io/tree/master/SE4CG)
 
-| | |
 | --- | --- |
 | ![](http://en.sjtu.edu.cn/assets/512/logo.jpg)<br>[Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) | ![](https://tecnun.unav.edu/Facultadv2-theme/images/unav-transp.png)<br>[Tecnun. University of Navarra](https://tecnun.unav.edu/) |
 
