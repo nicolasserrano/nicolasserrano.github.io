@@ -2,8 +2,7 @@
 - [SE4CG files](https://github.com/nicolasserrano/nicolasserrano.github.io/tree/master/SE4CG)
 
 |---|---|
-|![](http://en.sjtu.edu.cn/assets/512/logo.jpg)<br>
-[Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) | ![](https://tecnun.unav.edu/Facultadv2-theme/images/unav-transp.png)<br>[Tecnun. University of Navarra](https://tecnun.unav.edu/) |
+|![](http://en.sjtu.edu.cn/assets/512/logo.jpg)<br>[Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) | ![](https://tecnun.unav.edu/Facultadv2-theme/images/unav-transp.png)<br>[Tecnun. University of Navarra](https://tecnun.unav.edu/) |
 
 ## Session 1. Drawing in the browser
 [HTML](http://philip.greenspun.com/seia/html), the language to create web pages. [Canvas](https://www.w3schools.com/html/html5_canvas.asp), the element to draw. [JavaScript](https://nicolasserrano.github.io/CS/JavaScript/JavascriptOnePage.pdf), the language to draw.
