@@ -14,6 +14,7 @@
 Loops to draw animations. Time in animation. Animated images.
 - [Canvas2](https://nicolasserrano.github.io/Games/canvas/canvas2.html) 
 - [Canvas3](https://nicolasserrano.github.io/Games/canvas/canvas3.html) 
+- [Bouncing ball](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/examples/chapter1/bouncing-ball.html)
 - Developer tools in Google Chrome
 
 ## Session 3. Interaction 
