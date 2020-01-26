@@ -2,6 +2,7 @@
 - [SE4CG files](https://github.com/nicolasserrano/nicolasserrano.github.io/tree/master/SE4CG)
 
 |  |  |
+| --- | --- |
 | ![](http://en.sjtu.edu.cn/assets/512/logo.jpg)<br>[Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tecnun_logo.svg/200px-Tecnun_logo.svg.png)<br>[Tecnun. University of Navarra](https://tecnun.unav.edu/) |
 
 ## Session 1. Drawing in the browser
