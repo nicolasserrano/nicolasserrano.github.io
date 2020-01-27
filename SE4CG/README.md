@@ -37,11 +37,13 @@ Defining objects. Using warehouses and stores.
 
 ## Session 6: Importing objects
 Include 3D objects in our application. Lighting.
+- [Load glTF models](https://discoverthreejs.com/book/first-steps/load-models/)
 - [Load obj in three.js](https://threejsfundamentals.org/threejs/lessons/threejs-load-obj.html)
 
 ## Session 7: Animation in 3D
 Movement in 3D. Translations, rotations and animations.
 - [Computer Graphics (8 Mb)](https://nicolasserrano.github.io/viscom/CG.pdf)
+- [Threejs fundamentals glTF](https://threejsfundamentals.org/threejs/lessons/threejs-load-gltf.html)
 
 ## Session 8: Interaction in 3D
 Integrating the different elements to develop an interactive 3D application.
