@@ -7,6 +7,7 @@
 
 ## Session 1. Drawing in the browser
 [HTML](http://philip.greenspun.com/seia/html), the language to create web pages. [Canvas](https://www.w3schools.com/html/html5_canvas.asp), the element to draw. [JavaScript](https://nicolasserrano.github.io/CS/JavaScript/JavascriptOnePage.pdf), the language to draw.
+- [Canvas0](https://nicolasserrano.github.io/Games/canvas/canvas0.html)
 - [Canvas1](https://nicolasserrano.github.io/Games/canvas/canvas1.html) - [List of canvas files](https://github.com/nicolasserrano/Games/tree/master/canvas) 
 - [Example drawing on canvas](https://nicolasserrano.github.io/pro-html5-games-17/9781484229095/9781484229095_Ch01/chapter1.html)
 
