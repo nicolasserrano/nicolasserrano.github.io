@@ -16,7 +16,7 @@ Loops to draw animations. Time in animation. Animated images.
 - [Canvas2](https://nicolasserrano.github.io/Games/canvas/canvas2.html) 
 - [Canvas3](https://nicolasserrano.github.io/Games/canvas/canvas3.html) 
 - [Bouncing ball](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/examples/chapter1/bouncing-ball.html)
-- Developer Tools in Google Chrome
+- Developer Tools in Google Chrome (F12)
 <div style="display: inline">
 <svg xmlns="http://www.w3.org/2000/svg" style="position: relative; top: 7px;" width="24" height="24" viewBox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none"/><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"/></svg> -> Settings | Preferences | Network | "Disable cache (while DevTools is open)"</div>
 
