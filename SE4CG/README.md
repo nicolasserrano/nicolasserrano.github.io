@@ -31,8 +31,7 @@ Include the user in the loop. Interaction with the mouse. Interaction with the k
 Adding the third dimension. Transforming in 3D. Libraries for 3D drawing.
 - [3D scene (Earth)](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/examples/chapter15/earth.html)
 - User Interface
-- [Apache Tomcat server](https://nicolasserrano.github.io/CS/Tomcat)
-  [Download](https://we.tl/t-qVOfEbpudu)
+- [Apache Tomcat server](https://nicolasserrano.github.io/CS/Tomcat) - [Download 1](https://we.tl/t-qVOfEbpudu) - [Download 2](https://we.tl/t-PgqFvmyMqR)
 
 ## Session 5: Modeling objects
 Defining objects. Using warehouses and stores.
