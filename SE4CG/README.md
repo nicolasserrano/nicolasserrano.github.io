@@ -49,6 +49,7 @@ Include 3D objects in our application. Lighting.
 Movement in 3D. Translations, rotations and animations.
 - [Computer Graphics (8 Mb)](https://nicolasserrano.github.io/viscom/CG.pdf)
 - [Threejs fundamentals glTF](https://threejsfundamentals.org/threejs/lessons/threejs-load-gltf.html)
+- <a href='https://threejsfundamentals.org/threejs/threejs-load-gltf-shadows.html' class='iframe'>Example load-gltf-shadows</a>
 
 ## Session 8: Interaction in 3D
 Integrating the different elements to develop an interactive 3D application.
