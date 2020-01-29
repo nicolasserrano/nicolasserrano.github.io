@@ -115,6 +115,12 @@ img {
   var len = links.length;
   for(var i=0; i<len; i++) {
     links[i].target = "_blank";
+    if (links[i].classList.contains('iframe')) {
+      ifr = document.createElement('iframe');
+      ifr.src = links[i].href;
+      clH2 = links[i].closest("ul");  
+      clH2.previousElementSibling.appendChild(ifr);
+    }
   }
 </script>
   
