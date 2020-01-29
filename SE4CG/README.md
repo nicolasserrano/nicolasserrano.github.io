@@ -109,6 +109,9 @@ Complete the project and wrap up of the course.
 img {
   vertical-align: text-top;
 }
+iframe {
+    float: right;
+}
 </style>
 <script>
   var links = document.getElementsByTagName('a');
