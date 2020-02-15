@@ -122,7 +122,7 @@ Current: [SE4CG](SE4CG/) - [TD](http://www.unav.es/asignatura/infor2oi/) - [SE](
 
 ## Tools
 - [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) 
-- [Translation](https://translate.google.es/) [Speach notes](https://speechnotes.co/) [Grammar](https://www.grammarcheck.net/editor/)
+- [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [Speach notes](https://speechnotes.co/) [Grammar](https://www.grammarcheck.net/editor/)
 - [Custom print](https://www.printwhatyoulike.com/)
 - [Evernote](https://www.evernote.com/)
 - [OneDrive](https://portal.office.com)
