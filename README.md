@@ -18,6 +18,7 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 - [PFG](http://www.nicolasserrano.com/ProyectosOI/PFG) - [Asignatura ADI](https://tserver.tecnun.es/plan/asignatura?id=1000025725) - [PFM](http://www.nicolasserrano.com/ProyectosOI/PFM) - [Asignatura ADI](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1020053_1&course_id=_20696_1)
 - [Winter program](https://tecnun.unav.edu/winter-program/course-description) - [Content](SE4CG/)
 - [Games](https://nicolasserrano.github.io/Games/) 
+- [Creación de videos con Panopto en Tencun](http://www.nicolasserrano.com/Panopto/)
 
 ### Previous courses
 - [Estadística Industrial](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18539_1&url=) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
