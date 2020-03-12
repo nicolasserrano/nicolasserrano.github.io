@@ -20,7 +20,7 @@
 <tr>
 
 <td>
-  a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f8246d24-f64e-4bd2-8cc5-ab7c009cef97"></a>1. Introducción Panopto<BR>
+  <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f8246d24-f64e-4bd2-8cc5-ab7c009cef97"></a>1. Introducción Panopto<BR>
 <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=54efa5bb-8a80-41b1-b9d2-ab7c00a74975"></a><BR>
 <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=54efa5bb-8a80-41b1-b9d2-ab7c00a74975"></a>2. Acceso a Panopto<BR>
 <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=48d8b62c-c46a-441a-af82-ab7c00a85e96"></a>3. Permisos<BR>
