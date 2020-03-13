@@ -1,4 +1,4 @@
-# Creación de videos con Panopto en Tencun
+# Creación de videos con Panopto en Tecnun
 
 <script type="text/javascript" src="https://www.nicolasserrano.com/tools/libraries/setIframesForPanopto.js"></script>
 <link rel="stylesheet" type="text/css" href="https://www.nicolasserrano.com/tools/libraries/material.css" />
