@@ -87,6 +87,7 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 - [Teaching Skills (HBSP)](https://hbsp.harvard.edu/teaching-skills/)
 - [15th International CDIO Conference](https://ebooks.au.dk/aul/catalog/book/347)
 - [The Flipped Classroom](https://www.theflippedclassroom.es/tecnun/)
+- [Resources](onlineLearning)
 
 ### Technology
 #### Channels
