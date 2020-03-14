@@ -1,7 +1,9 @@
-# Creación de videos con Panopto en Tecnun
+# Creación de videos con Panopto en Tecnun <img src="https://www.nicolasserrano.com/CS/HTML/Tecnun_logo.png">
 
 <script type="text/javascript" src="https://www.nicolasserrano.com/tools/libraries/setIframesForPanopto.js"></script>
 <link rel="stylesheet" type="text/css" href="https://www.nicolasserrano.com/tools/libraries/material.css" />
+
+<div id="5e68b0c175ef8e0fc17b3e4c" data-genially-id="5e689ce945d9ae0fc61263d4" class="genially-view-text uppercase text-align-center" style="position: absolute; z-index: 82; font-family: YbPrjBSBWuW2d58OqFku6fmH_customgenially; font-size: 36.6765px; width: 279.391px; height: 37px; color: rgb(116, 116, 116); opacity: 1; line-height: 1.03; overflow-wrap: break-word;"><span style="font-weight: bold; color: rgb(170, 13, 15);">PANOPTO</span></div> <img id="5e68b12275ef8e0fc17b4167" alt="" data-title="" data-genially-id="5e689ce945d9ae0fc61263d4" data-disable-titles="0" class="genially-view-image " src="https://s3.eu-west-1.amazonaws.com/genial.ly/5c618bb6850ce21affa93343/a6313bec-cf9b-441c-b7e2-3545d1e9c6be.png" style="width: 32px; height: 32px; opacity: 1;">
 
 <table>
 <tr>
