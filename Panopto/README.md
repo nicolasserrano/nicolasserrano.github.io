@@ -59,5 +59,5 @@ html body div.container-lg.px-3.my-5.markdown-body {
 </style>
 <script>document.title = "Videos con Panopto"</script>
 
-<small>v1.10</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/Panopto/README.md)
+<small>v1.11</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/Panopto/README.md)
 
