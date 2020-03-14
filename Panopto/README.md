@@ -1,4 +1,4 @@
-# Creación de videos con Panopto <img id="5e68b12275ef8e0fc17b4167" alt="" data-title="" data-genially-id="5e689ce945d9ae0fc61263d4" data-disable-titles="0" class="genially-view-image " src="https://s3.eu-west-1.amazonaws.com/genial.ly/5c618bb6850ce21affa93343/a6313bec-cf9b-441c-b7e2-3545d1e9c6be.png" style="width: 32px; height: 32px; opacity: 1;"> en Tecnun <img style="vertical-align: middle; width: 200px" src="https://www.nicolasserrano.com/CS/HTML/Tecnun_logo.png">
+# Creación de videos con Panopto <img id="5e68b12275ef8e0fc17b4167" alt="" data-title="" data-genially-id="5e689ce945d9ae0fc61263d4" data-disable-titles="0" class="genially-view-image " src="https://s3.eu-west-1.amazonaws.com/genial.ly/5c618bb6850ce21affa93343/a6313bec-cf9b-441c-b7e2-3545d1e9c6be.png" width=32 height=32 style="opacity: 1;"> en Tecnun <img style="vertical-align: middle; width: 200px" src="https://www.nicolasserrano.com/CS/HTML/Tecnun_logo.png">
 
 <script type="text/javascript" src="https://www.nicolasserrano.com/tools/libraries/setIframesForPanopto.js"></script>
 <link rel="stylesheet" type="text/css" href="https://www.nicolasserrano.com/tools/libraries/material.css" />
