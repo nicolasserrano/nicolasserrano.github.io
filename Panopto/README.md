@@ -37,9 +37,16 @@
 </table>
   
 ## Recursos
+### Universidad de Navarra
 - [ADI](https://aula-virtual.unav.edu/?_ga=2.223989851.1937972574.1584181306-76330474.1566228283)
 - [Panopto url: https://unav.cloud.panopto.eu/](https://unav.cloud.panopto.eu/)
 - [Docencia online UNAV](https://www.unav.edu/docencia-online)
+### Herramientas
+- [Prueba de micrófono](https://www.onlinemictest.com/)
+- [Prueba de sonido](https://www.youtube.com/watch?v=OPC92IIkrpU)
+- [VLC](https://www.videolan.org/)
+- [OBS Open Broadcaster Software](https://obsproject.com/) - [Version portable de OBS](https://portableapps.com/apps/music_video/obs-studio-portable)
+- [Editor de video Shotcut](https://shotcut.org/)
 
 <link  rel="stylesheet" href="style.css">
 <style>
