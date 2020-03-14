@@ -1,9 +1,9 @@
-# Creación de videos con Panopto en Tecnun <img src="https://www.nicolasserrano.com/CS/HTML/Tecnun_logo.png">
+# Creación de videos con Panopto en Tecnun <img style="vertical-align: middle; width=172px" src="https://www.nicolasserrano.com/CS/HTML/Tecnun_logo.png">
 
 <script type="text/javascript" src="https://www.nicolasserrano.com/tools/libraries/setIframesForPanopto.js"></script>
 <link rel="stylesheet" type="text/css" href="https://www.nicolasserrano.com/tools/libraries/material.css" />
 
-<div id="5e68b0c175ef8e0fc17b3e4c" data-genially-id="5e689ce945d9ae0fc61263d4" class="genially-view-text uppercase text-align-center" style="position: absolute; z-index: 82; font-family: YbPrjBSBWuW2d58OqFku6fmH_customgenially; font-size: 36.6765px; width: 279.391px; height: 37px; color: rgb(116, 116, 116); opacity: 1; line-height: 1.03; overflow-wrap: break-word;"><span style="font-weight: bold; color: rgb(170, 13, 15);">PANOPTO</span></div> <img id="5e68b12275ef8e0fc17b4167" alt="" data-title="" data-genially-id="5e689ce945d9ae0fc61263d4" data-disable-titles="0" class="genially-view-image " src="https://s3.eu-west-1.amazonaws.com/genial.ly/5c618bb6850ce21affa93343/a6313bec-cf9b-441c-b7e2-3545d1e9c6be.png" style="width: 32px; height: 32px; opacity: 1;">
+<span font-size: 36.6765px; width: 279.391px; height: 37px; line-height: 1.03; color: rgb(170, 13, 15);">PANOPTO</span><img id="5e68b12275ef8e0fc17b4167" alt="" data-title="" data-genially-id="5e689ce945d9ae0fc61263d4" data-disable-titles="0" class="genially-view-image " src="https://s3.eu-west-1.amazonaws.com/genial.ly/5c618bb6850ce21affa93343/a6313bec-cf9b-441c-b7e2-3545d1e9c6be.png" style="width: 32px; height: 32px; opacity: 1;"></img>
 
 <table>
 <tr>
@@ -13,6 +13,7 @@
 <option value="200">200</option>
 <option value="400" selected="selected">400</option>
 <option value="600">600</option>
+<option value="720">720</option>
 <option value="800">800</option>
 <option value="1080">1080</option>
 </select>
@@ -30,7 +31,8 @@
 <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3c2c1072-7da0-4a62-99f0-ab7b00b767a5">5. Grabación  (Calidad e Innovación UNAV)</a><BR>
 <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0acf667b-3d4b-4882-957b-ab7c00aa11ca">6. Creación de carpeta y grabación 2 pantallas</a><BR>
 <a href="">7. (Edición)</a><BR>
-<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ab5aedd7-b642-40c3-90d5-ab7b00b767fc">8. Compartir (Calidad e Innovación UNAV)</a><BR>
+<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ab5aedd7-b642-40c3-90d5-ab7b00b767fc">8. Compartir (Calidad e Innovación UNAV)</a><BR>  
+### Avanzados
 <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e0d525ef-a60a-4004-b878-ab7c009e11ef">9. Grabación con Lightboard</a><BR>
 </td>
 </tr>
