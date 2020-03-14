@@ -41,8 +41,8 @@
 - [Panopto url: https://unav.cloud.panopto.eu/](https://unav.cloud.panopto.eu/)
 - [Docencia online UNAV](https://www.unav.edu/docencia-online)
 
-<link  rel="stylesheet" href="/style.css">
+<link  rel="stylesheet" href="style.css">
 <script>document.title = "Videos con Panopto"</script>
 
-<small>v1.07</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/Panopto/README.md)
+<small>v1.08</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/Panopto/README.md)
 
