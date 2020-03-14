@@ -39,7 +39,7 @@
 ## Recursos
 ### Universidad de Navarra
 - [ADI](https://aula-virtual.unav.edu/?_ga=2.223989851.1937972574.1584181306-76330474.1566228283)
-- [Panopto](https://unav.cloud.panopto.eu/) url: <input size=35 value="https://unav.cloud.panopto.eu/">
+- [Panopto](https://unav.cloud.panopto.eu/) url: <input type="text" size="35" value="https://unav.cloud.panopto.eu/" />
 - [Docencia online UNAV](https://www.unav.edu/docencia-online)
 ### Herramientas
 - [Prueba de micrófono](https://www.onlinemictest.com/)
@@ -59,5 +59,5 @@ html body div.container-lg.px-3.my-5.markdown-body {
 </style>
 <script>document.title = "Videos con Panopto"</script>
 
-<small>v1.13</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/Panopto/README.md)
+<small>v1.14</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/Panopto/README.md)
 
