@@ -34,5 +34,15 @@
 <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e0d525ef-a60a-4004-b878-ab7c009e11ef">9. Grabación con Lightboard</a><BR>
 </td>
 </tr>
+</table>
+  
+## Recursos
+- [ADI](https://aula-virtual.unav.edu/?_ga=2.223989851.1937972574.1584181306-76330474.1566228283)
+- [Panopto url: https://unav.cloud.panopto.eu/](https://unav.cloud.panopto.eu/)
+- [Docencia online UNAV](https://www.unav.edu/docencia-online)
 
+<link  rel="stylesheet" href="style.css">
+<script>document.title = "Videos con Panopto"</script>
+
+<small>v1.06</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/Panopto/README.md)
 
