@@ -46,8 +46,11 @@
 div.markdown-body:first-child h1:first-child{
     display: none;
 }
+html body div.container-lg.px-3.my-5.markdown-body {
+    margin-top: 0px;
+}
 </style>
 <script>document.title = "Videos con Panopto"</script>
 
-<small>v1.09</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/Panopto/README.md)
+<small>v1.10</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/Panopto/README.md)
 
