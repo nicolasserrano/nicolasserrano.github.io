@@ -42,6 +42,7 @@
 - [Panopto](https://unav.cloud.panopto.eu/) url: <input type="text" size="30" value="https://unav.cloud.panopto.eu/" />
 - [Docencia online UNAV](https://www.unav.edu/docencia-online)
 ### Herramientas
+- [Scripts de utilidad para gestionar los videos](Scripts)
 - [Prueba de micrófono](https://www.onlinemictest.com/)
 - [Prueba de sonido](https://www.youtube.com/watch?v=OPC92IIkrpU)
 - [VLC](https://www.videolan.org/)
