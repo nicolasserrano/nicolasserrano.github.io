@@ -1,0 +1,7 @@
+- Paper and video of Bill Gates about University of Central Florida: https://www.gatesnotes.com/Education/UCF-Digital-Learning
+- Active learning in Toronto: https://hbsp.harvard.edu/inspiring-minds/goodbye-lecture-halls-hello-active-learning-spaces
+- 8 tips for teaching online: https://hbsp.harvard.edu/inspiring-minds/8-tips-for-teaching-online 
+- How to Quickly Adapt to Teaching Online: https://hbsp.harvard.edu/inspiring-minds/how-to-quickly-adapt-to-teaching-online
+- Resources for online teaching (google spreadsheet): https://docs.google.com/spreadsheets/d/1VT9oiNYPyiEsGHBoDKlwLlWAsWP58sGV7A3oIuEUG3k/htmlview?usp=sharing&sle=true
+- Teaching with Cases Online: https://s3.amazonaws.com/he-product-images/docs/Article_Teaching_With_Cases_Online.pdf
+- The Syllabus Can Wait: https://hbsp.harvard.edu/inspiring-minds/the-syllabus-can-wait
