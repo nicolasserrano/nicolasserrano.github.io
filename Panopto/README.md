@@ -48,6 +48,7 @@
 - [VLC](https://www.videolan.org/)
 - [OBS Open Broadcaster Software](https://obsproject.com/) - [Version portable de OBS](https://portableapps.com/apps/music_video/obs-studio-portable)
 - [Editor de video Shotcut](https://shotcut.org/)
+- [Artículos y recursos](Articulos)
 
 <link  rel="stylesheet" href="style.css">
 <style>
@@ -60,5 +61,5 @@ html body div.container-lg.px-3.my-5.markdown-body {
 </style>
 <script>document.title = "Videos con Panopto"</script>
 
-<small>v1.14</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/Panopto/README.md) - [View](http://nicolasserrano.github.io/Panopto/)
+<small>v1.14</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/Panopto/README.md) - [View](http://nicolasserrano.github.io/Panopto/) - [File](https://github.com/nicolasserrano/nicolasserrano.github.io/blob/master/Panopto/README.md)
 
