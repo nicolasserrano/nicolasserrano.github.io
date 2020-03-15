@@ -28,7 +28,7 @@
 <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=48d8b62c-c46a-441a-af82-ab7c00a85e96">4. Permisos</a><BR>
 <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3c2c1072-7da0-4a62-99f0-ab7b00b767a5">5. Grabación  (Calidad e Innovación UNAV)</a><BR>
 <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0acf667b-3d4b-4882-957b-ab7c00aa11ca">6. Creación de carpeta y grabación 2 pantallas</a><BR>
-<a href="">7. (Edición)</a><BR>
+<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c52786da-c431-4f68-ac52-ab7f00b1a68c">7. Edición</a><BR>
 <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ab5aedd7-b642-40c3-90d5-ab7b00b767fc">8. Compartir (Calidad e Innovación UNAV)</a><BR>  
 <h3>Tutoriales avanzados</h3>
 <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e0d525ef-a60a-4004-b878-ab7c009e11ef">9. Grabación con Lightboard</a><BR>
