@@ -42,8 +42,11 @@
 - [ADI](https://aula-virtual.unav.edu/?_ga=2.223989851.1937972574.1584181306-76330474.1566228283)
 - [Panopto](https://unav.cloud.panopto.eu/) url: <input type="text" size="30" value="https://unav.cloud.panopto.eu/" />
 - [Docencia online UNAV](https://www.unav.edu/docencia-online)
+- [Asignatura docencia online UNAV(https://www.unav.edu/asignatura/tutorial-docencia-online)
+
 ### Herramientas
 - [Scripts de utilidad para gestionar los videos](Scripts)
+- [Página de incio de videoconferencia] con Instrucciones para la sesión(https://aula-virtual.unav.edu/bbcswebdav/pid-1301754-dt-content-rid-3015129_1/orgs/SESIONES/instrucciones%281%29.png)
 - [Prueba de micrófono](https://www.onlinemictest.com/)
 - [Prueba de sonido](https://www.youtube.com/watch?v=OPC92IIkrpU)
 - [VLC](https://www.videolan.org/)
