@@ -47,6 +47,7 @@
 ### Herramientas
 - [Scripts de utilidad para gestionar los videos](Scripts)
 - [Página de incio de videoconferencia con Instrucciones para la sesión](http://www.nicolasserrano.com/tools/meeting.html)
+- [Checklist de videoconferencia](/tools/checklist.html)
 - [Prueba de micrófono](https://www.onlinemictest.com/)
 - [Prueba de sonido](https://www.youtube.com/watch?v=OPC92IIkrpU)
 - [VLC](https://www.videolan.org/)
