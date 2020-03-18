@@ -46,7 +46,7 @@
 
 ### Herramientas
 - [Scripts de utilidad para gestionar los videos](Scripts)
-- [Página de incio de videoconferencia con Instrucciones para la sesión](https://aula-virtual.unav.edu/bbcswebdav/pid-1301754-dt-content-rid-3015129_1/orgs/SESIONES/instrucciones%281%29.png)
+- [Página de incio de videoconferencia con Instrucciones para la sesión](http://www.nicolasserrano.com/tools/meeting.html)
 - [Prueba de micrófono](https://www.onlinemictest.com/)
 - [Prueba de sonido](https://www.youtube.com/watch?v=OPC92IIkrpU)
 - [VLC](https://www.videolan.org/)
