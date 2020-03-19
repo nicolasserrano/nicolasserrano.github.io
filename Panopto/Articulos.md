@@ -1,3 +1,4 @@
+[nicolasserrano.com](/) / [Panopto](.) / [Articulos](#0)
 - Paper and video of Bill Gates about University of Central Florida: <https://www.gatesnotes.com/Education/UCF-Digital-Learning>
 - Active learning in Toronto: <https://hbsp.harvard.edu/inspiring-minds/goodbye-lecture-halls-hello-active-learning-spaces>
 - 8 tips for teaching online: <https://hbsp.harvard.edu/inspiring-minds/8-tips-for-teaching-online>
