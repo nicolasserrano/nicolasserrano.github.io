@@ -10,9 +10,10 @@ as=document.querySelectorAll("a.detail-title")
 res = "";
 for (i=0;i<as.length;i++) {
   if (as[i].href != ''){
-    res += "<a href='" + as[i].href + "' targe='_blank'>" + as[i].innerText + "</a><BR>\n"
+    res += "Video <a href='" + as[i].href + "' target='_blank'>" + as[i].innerText + "</a><BR>\n"
   }
 }
+console.log(res);
 ```
 
 ## Mostrar los videos como vínculo o incrustado
