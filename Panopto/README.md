@@ -52,7 +52,7 @@
 - [Prueba de sonido](https://www.youtube.com/watch?v=OPC92IIkrpU)
 - [VLC](https://www.videolan.org/)
 - [OBS Open Broadcaster Software](https://obsproject.com/) - [Version portable de OBS](https://portableapps.com/apps/music_video/obs-studio-portable)
-- [Editor de video Shotcut](https://shotcut.org/)
+- [Editor de video Shotcut](https://shotcut.org/) - [Tutorial in 10 mins](https://www.youtube.com/watch?v=P9pzmzXj03A)
 - [Artículos y recursos](Articulos)
 
 <link  rel="stylesheet" href="style.css">
