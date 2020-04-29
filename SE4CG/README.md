@@ -96,6 +96,7 @@ Complete the project and wrap up of the course.
 - [Code inComplete](https://codeincomplete.com/games/)  
 - [Render 3D Star Wars](http://www.smartjava.org/content/render-3d-star-wars-force-awakens-models-blender-and-threejs) - [demo](http://www.smartjava.org/examples/threejs-starwars/src/html/)
 - [Integration Basics by Glenn Fiedler](https://thenetworkprotocolcompany.com/post/integration_basics/)
+- [Intro to JavaScript 3D Physics using Ammo.js and Three.js](https://medium.com/@bluemagnificent/intro-to-javascript-3d-physics-using-ammo-js-and-three-js-dd48df81f591)
 
 ### Other Books
 - [O'Reilly](https://ssearch.oreilly.com/?i=1;q=game+programming;q1=Books;x1=t1&act=fc_contenttype_Books)
