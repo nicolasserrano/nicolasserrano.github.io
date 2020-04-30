@@ -8,3 +8,5 @@
 - Resources for online teaching (google spreadsheet): <https://docs.google.com/spreadsheets/d/1VT9oiNYPyiEsGHBoDKlwLlWAsWP58sGV7A3oIuEUG3k/htmlview?usp=sharing&sle=true>
 - Teaching with Cases Online: <https://s3.amazonaws.com/he-product-images/docs/Article_Teaching_With_Cases_Online.pdf>
 - The Syllabus Can Wait: <https://hbsp.harvard.edu/inspiring-minds/the-syllabus-can-wait>
+- Observatorio de Monterey: <https://observatorio.tec.mx/covid19-recursos-educativos>
+- Web de Eric Mazur <http://ericmazur.com/index.php>
