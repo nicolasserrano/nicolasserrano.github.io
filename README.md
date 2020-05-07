@@ -139,7 +139,6 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
   Despacho O-105. Edificio Urdaneta</span>
   
   <!--<iframe src="http://free.timeanddate.com/clock/i73vju9d/n31/tles4/fn6/fs16/fc9ff/tc000/bas2/bat0/bacfff/pa8/tt0/tw1/tm2/th1/tb4" frameborder="0" width="147" height="56"></iframe> -->
-  <iframe id="exmpfr" name="exmpfr" src="onlyforusebyconfiguration.php/i73vju9d/n31/tles4/fn6/fs16/fc9ff/tc000/bas2/bat0/bacfff/pa8/tt0/tw1/tm2/th1/tb4" frameborder="0" width="113" height="18" style="width: 147px; height: 55px;"></iframe>
-  
+<iframe src="http://free.timeanddate.com/clock/i73vju9d/n31/tles4/fn6/fs16/fc9ff/tc000/bas2/bat0/bacfff/pa8/tt0/tw1/tm2/th1/tb4" frameborder="0" width="147" height="58"></iframe>
 
-<small>v1.06</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md)
+<small>v1.07</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md)
