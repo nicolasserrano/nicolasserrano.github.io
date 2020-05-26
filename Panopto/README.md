@@ -43,6 +43,7 @@
 - [Panopto](https://unav.cloud.panopto.eu/) url: <input type="text" size="30" value="https://unav.cloud.panopto.eu/" />
 - [Docencia online UNAV](https://www.unav.edu/docencia-online)
 - [Asignatura docencia online UNAV](https://www.unav.edu/asignatura/tutorial-docencia-online)
+- [Materiales corporativos](https://portaldelempleado.unav.edu/herramientas/recursos-de-comunicacion-y-marketing/materiales-corporativos)
 
 ### Herramientas
 - [Scripts de utilidad para gestionar los videos](Scripts)
