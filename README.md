@@ -105,7 +105,7 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 
 ### Image edition
 
-- [Pixlr editor](https://pixlr.com/x/)
+- [Pixlr editor](https://pixlr.com/e/)
 - [Filters](https://www.befunky.com/create/photo-to-cartoon/)
 
 ### Image search
