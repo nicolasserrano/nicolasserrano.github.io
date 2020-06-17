@@ -116,6 +116,7 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 - [google](https://images.google.com/)
 - [freepik](https://www.freepik.com/search?dates=any&format=search&page=1&selection=1&sort=popular)
 - [flaticon](https://www.flaticon.com/)
+- [list of photo sites](https://www.stockphotosecrets.com/best-free-stock-photo-sites)
 ### Videos
 - [pexels](https://www.pexels.com/es-es/videos/)
 - [pixabay](https://pixabay.com/videos/)
