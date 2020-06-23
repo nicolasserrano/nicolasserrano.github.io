@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<script type="text/javascript" src="https://nicolasserrano.github.io/tools/libraries/setIframesForPanopto.js"></script>
+<link rel="stylesheet" type="text/css" href="https://nicolasserrano.github.io/tools/libraries/material.css" />
 <script>
 //window.onload = start;
 function start() {
 }
+
 function expand(id) {
   var x = document.getElementById(id);
   if (x.className.indexOf("w3-show") == -1) {
@@ -41,11 +44,13 @@ transform:translate(0, 0);
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="http://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="w3.css">
 <!-- Theme Indigo
+<link rel="stylesheet" href="http://www.w3schools.com/w3css/4/w3.css">
 https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_theme_indigo
- -->
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3-theme-indigo.css">
+ -->
+<link rel="stylesheet" href="w3-theme-indigo.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
@@ -91,6 +96,16 @@ https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_theme_indigo
 <P>&nbsp;&nbsp;&nbsp;&nbsp; Los temas de publicaci&oacute;n Web permitir&aacute;n entender como se gestionan dichos contenidos y manipularlos utilizando los distintos editores y plataformas pero teniendo control del contenido generado.</P>
 <P>&nbsp;&nbsp;&nbsp;&nbsp; Las sesiones de video tratan los distintos modos de captura y edici&oacute;n de video, desde la captura online a la edici&oacute;n con composici&oacute;n y aplicaci&oacute;n de filtros.</P>
 <P>&nbsp;&nbsp;&nbsp;&nbsp; La realidad virtual permite la generaci&oacute;n y representaci&oacute;n de objetos y entidades en 3 dimensiones, para la generaci&oacute;n de im&aacute;genes, videos o publicaci&oacute;n en la Web.</p></div>
+
+<a onclick="setVideoIcons(this)" href="javascript:void(0);">Mostrar vista previa de videos</a><select id="iframeSize" name="ifsize" size="1">
+<option value="100">100</option>
+<option value="200">200</option>
+<option value="400" selected="selected">400</option>
+<option value="600">600</option>
+<option value="720">720</option>
+<option value="800">800</option>
+<option value="1080">1080</option>
+</select>
 
 <a onclick=expandAll() style='float: right'>Expand all &nbsp;<i class="accIcon fa fa-caret-down"></i></a>
 <!-- Temas -->
@@ -198,7 +213,11 @@ Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e
 <LI class="w3-theme-l4 w3-border"> Edición de video (Shotcut) </LI>
   <div class="panel w3-container w3-border">
   Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=13602344-b15c-4371-8496-abe2011cad8d' target='_blank'>ShotCut v01</a><BR>
+  Shotcut Video Editor - Tutorial for Beginners <a href='https://www.youtube.com/watch?v=P9pzmzXj03A' target='_blank'>YouTube tutorial (filters, titles and keyframes)</a><BR>
+  <a href="https://guides.lib.uoguelph.ca/Shotcut" target='_blank'>Web tutorial</a><BR>
+  <a href="https://www.shotcut.org/tutorials/" target='_blank'>Shotcut official Tutorial Videsos</a><BR>
   </div>
+  
 </ul>
 </div>
 
