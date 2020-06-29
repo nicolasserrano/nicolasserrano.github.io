@@ -4,8 +4,17 @@
 <script type="text/javascript" src="https://nicolasserrano.github.io/tools/libraries/setIframesForPanopto.js"></script>
 <link rel="stylesheet" type="text/css" href="https://nicolasserrano.github.io/tools/libraries/material.css" />
 <script>
-//window.onload = start;
+window.onload = start;
 function start() {
+    var urlSearch = window.location.search.substring(1);
+    if (urlSearch == null || urlSearch.length == 0) {
+      urlSearch = "https://raw.githubusercontent.com/nicolasserrano/CS/master/JDBC.md";
+    }
+    ids=urlSearch.split(",");
+    var i;
+    for (i = 0; i < ids.length; i++) {
+        expandPanel(document.getElementById(ids[i]), true)
+    }
 }
 
 function expand(id) {
@@ -116,8 +125,8 @@ https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_theme_indigo
 <div id="S1" class="w3-container">
 
 <ul class="w3-ul w3-border">
-<LI class="w3-theme-l4 w3-border"> Imágenes y Fotografía</LI>
-<div id="S1.1" class="panel w3-container w3-border">
+<LI id="S1.1" class="w3-theme-l4 w3-border"> Imágenes y Fotografía</LI>
+<div class="panel w3-container w3-border">
     Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dd881b8d-18dc-491b-b6c5-abdc012c9b7d' target='_blank'>v01 Ficheros</a><BR>
     Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b84a6fc8-e833-4c9a-9802-abdc012ee0cb' target='_blank'>v02 Ficheros en Panopto</a><BR>
     Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7d1aca6d-fed3-4671-892b-abde01262535' target='_blank'>v03 Tipos de imagenes y repositorios</a><BR>
@@ -125,15 +134,15 @@ https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_theme_indigo
 </div>
 
 
-<LI class="w3-theme-l4 w3-border"> Edición de imágenes  </LI>
-<div id="S1.2" class="panel w3-container w3-border">
+<LI id="S1.2" class="w3-theme-l4 w3-border"> Edición de imágenes  </LI>
+<div class="panel w3-container w3-border">
     Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8f8aa051-8d4c-4f3b-a087-abdf00bc32d7' target='_blank'>ed01 Captura</a><BR>
     Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bcb331a3-9921-4ea8-bd2f-abdf00bdf407' target='_blank'>ed02 Editor Pixlr e</a><BR>
     Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1b25ba15-355e-4da8-82b1-abdf00c19a85' target='_blank'>ed03 Capas</a><BR>
 </div>
 
-<LI class="w3-theme-l4 w3-border"> Creación de presentaciones </LI>
-<div id="S1.2" class="panel w3-container w3-border">
+<LI id="S1.3" class="w3-theme-l4 w3-border"> Creación de presentaciones </LI>
+<div class="panel w3-container w3-border">
     Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2892396c-8b3e-4a45-b1ea-abd6006f7afe' target='_blank'>v01 Presentaciones</a><BR>
     Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ac6cbc50-6291-4a5f-9185-abe10113d586' target='_blank'>v02 Presentaciones - Internet</a><BR>
     Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f5562ee4-e2d8-4d69-b92a-abe1011817b1' target='_blank'>v03 Presentaciones Indice</a><BR>
@@ -148,9 +157,9 @@ https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_theme_indigo
 <span class="w3-xlarge"><i class="w3-margin-left fa fa-laptop"></i></span> Publicaci&oacute;n Web </div>
 <div id="S2" class="w3-container">
 <ul class="w3-ul w3-border">
-<LI class="w3-theme-l4 w3-border"> Páginas Web y HTML</LI>
+<LI id="S2.1" class="w3-theme-l4 w3-border"> Páginas Web y HTML</LI>
 
-<div id="S2.1" class="panel w3-container w3-border">
+<div class="panel w3-container w3-border">
 <p>Documento&nbsp;(p&aacute;ginas 3b,&nbsp;5a y 7b):<a href="https://aula-virtual.unav.edu/bbcswebdav/pid-1218284-dt-content-rid-2850890_1/xid-2850890_1" target="_blank">El camino a la Era Digital</a><br />
 Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2ef91361-131f-436f-beb4-ab6d011ad559" target="_blank">Elementos de la Web</a><br />
 Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=86e27b00-6515-49d2-a5f5-ab6e00f0cd08" target="_blank">Estructura de un navegador</a><br />
@@ -160,12 +169,12 @@ Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2
 Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e8c18503-3cf7-4d7f-ab45-ab7600fc04ad" target="_blank">Curso b&aacute;sico de HTML</a>&nbsp;-&nbsp; doc&nbsp;&nbsp;<a href="http://www.nicolasserrano.com/CS/HTML/CursoHTML.html" target="_blank">Curso HTML</a></p>
 </div>
 
-<LI class="w3-theme-l4 w3-border"> Estilo de páginas Web, CSS y Frameworks</LI>
-<div id="S2.2" class="panel w3-container w3-border">
+<LI id="S2.2" class="w3-theme-l4 w3-border"> Estilo de páginas Web, CSS y Frameworks</LI>
+<div class="panel w3-container w3-border">
 <p>Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=617d4e62-8495-4cf5-8ff2-ab80010fc388" target="_blank">1.&nbsp;Presentación<br></a>Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8cec7bab-8eb9-4c8f-8f4f-ab7f00bbf5f6" target="_blank">2. Introducción</a>&nbsp;-&nbsp;doc <a href="http://nicolasserrano.github.io/viscom/CSS.html#/0" target="_blank">presentación&nbsp;</a><a href="http://nicolasserrano.github.io/viscom/CSS.html#/0" target="_blank">CSS<br></a>Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6b8eadc2-9e6a-4258-b374-ab7f00c2d74e" target="_blank">3. Fuentes</a>&nbsp;- web <a href="http://www.typetester.org/" target="_blank">typetester<br></a>Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a77c0239-87f0-4ee9-9b62-ab7f00cbdb6e" target="_blank">4. Color</a>&nbsp;-&nbsp;web <a href="http://paletton.com/" target="_blank">Paletton<br></a>Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=882d4808-b7f3-419a-956a-ab7f00c6b86c" target="_blank">5. Aplicación estilo CSS en página Web</a>&nbsp;- docs: <a href="https://github.com/nicolasserrano/CS/blob/master/CSS/TestCSS_ini.html" target="_blank">html initial </a>-&nbsp;<a href="https://github.com/nicolasserrano/CS/blob/master/CSS/TestCSS_fin.html" target="_blank">html final<br></a>Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8a9ec0ed-de77-4d10-91d7-ab7f00cf2a17" target="_blank">6. Modelo de cajas</a>&nbsp;-&nbsp;web <a href="http://www.hicksdesign.co.uk/boxmodel/" target="_blank">boxmodel<br></a>Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9bb839a7-1466-4106-900a-ab7f00cdc1e9" target="_blank">7. Utilidades</a>&nbsp;-&nbsp;web <a href="http://www.csszengarden.com/" target="_blank">CSS Zen Garden<br></a>Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b1c192a3-5125-43a7-a501-ab7f00d3d296" target="_blank">8. Frameworks</a>&nbsp;-&nbsp;web <a href="https://www.w3schools.com/w3css/" target="_blank">W3.CSS</a></p> <p>doc <a href="http://www.nicolasserrano.com/CS/CSS/CSS.pdf" target="_blank">Referencia CSS<br></a></p> 
   </div>
-<LI class="w3-theme-l4 w3-border">  Interacción en páginas Web, JavaScript</LI>
-<div id="S2.3" class="panel w3-container w3-border">
+<LI id="S2.3" class="w3-theme-l4 w3-border">  Interacción en páginas Web, JavaScript</LI>
+<div class="panel w3-container w3-border">
     <p>Video <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=14071372-9a58-447d-9f03-ab97009e688e" target="_blank">1. Expresiones y variables en JavaScript</a>
         - doc <a href="https://nicolasserrano.github.io/CS/JavaScript/JavascriptOnePage.pdf" target="_blank">JavaScript in One Page</a><br>
     Video <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c5d6f172-88c8-4436-a858-ab9700a10100" target="_blank">2. Funciones en JavaScript</a><br>
@@ -192,8 +201,8 @@ Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e
 <span class="w3-xlarge"><i class="w3-margin-left fa fa-video-camera"></i></span>&nbsp; Video</div>
 <div id="S3" class="w3-container">
 <ul class="w3-ul w3-border">
-<LI class="w3-theme-l4 w3-border">   Grabación, edición y publicación de video con Panopto   &nbsp; </LI>
-  <div id="S3.1" class="panel w3-container w3-border">
+<LI id="S3.1" class="w3-theme-l4 w3-border">   Grabación, edición y publicación de video con Panopto   &nbsp; </LI>
+  <div class="panel w3-container w3-border">
     <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f8246d24-f64e-4bd2-8cc5-ab7c009cef97">1. Introducción Panopto</a><BR>
     <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3cbaf61b-810f-4a0a-a070-ab7b00b767dc">2. Instalación (Calidad e Innovación UNAV)</a><BR>
 
@@ -205,13 +214,13 @@ Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e
     <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c52786da-c431-4f68-ac52-ab7f00b1a68c">7. Edición</a><BR>
     <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ab5aedd7-b642-40c3-90d5-ab7b00b767fc">8. Compartir (Calidad e Innovación UNAV)</a><BR>  
   </div>
-<LI class="w3-theme-l4 w3-border"> Composición y grabación de video con OBS </LI>
+<LI id="S3.2" class="w3-theme-l4 w3-border"> Composición y grabación de video con OBS </LI>
   <div class="panel w3-container w3-border">
     Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7f7f9a46-1657-4ca3-a2ab-abe20103437e' target='_blank'>Grabación con OBS</a><BR>
     Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6c90c623-bb10-491b-89d4-abe20117a40e' target='_blank'>Pantalla y cámara con OBS</a><BR>
     Video <a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e0d525ef-a60a-4004-b878-ab7c009e11ef">Grabación con Lightboard</a><BR>
   </div>
-<LI class="w3-theme-l4 w3-border"> Edición de video (Shotcut) </LI>
+<LI id="S3.3" class="w3-theme-l4 w3-border"> Edición de video (Shotcut) </LI>
   <div class="panel w3-container w3-border">
   Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=13602344-b15c-4371-8496-abe2011cad8d' target='_blank'>ShotCut v01</a><BR>
   Shotcut Video Editor - Tutorial for Beginners <a href='https://www.youtube.com/watch?v=P9pzmzXj03A' target='_blank'>YouTube tutorial (filters, titles and keyframes)</a><BR>
@@ -227,13 +236,13 @@ Video&nbsp;<a href="https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e
 <div id="S4" class="w3-container">
 
 <ul class="w3-ul w3-border">
-<LI class="accordion"> La geometría de los objetos 3D </LI>
+<LI id="S4.1" class="accordion"> La geometría de los objetos 3D </LI>
   <div class="panel w3-container w3-border">
   </div>
-<LI class="accordion"> Materiales, luz y color </LI>
+<LI id="S4.2" class="accordion"> Materiales, luz y color </LI>
   <div class="panel w3-container w3-border">
   </div>
-<LI class="accordion"> Animación en 3D </LI>
+<LI id="S4.3" class="accordion"> Animación en 3D </LI>
   <div class="panel w3-container w3-border">
   </div>
 </ul>
@@ -270,7 +279,12 @@ for (i = 0; i < acc.length; i++) {
   acc[i].addEventListener("click", function () {expandPanel(this);});
 }
 
-function expandPanel(elem) {
+function expandPanel(elem, finalState) {
+    if (finalState != null) {
+        console.log("finalState: " + finalState);
+        if (finalState && elem.classList.contains("active")) return;
+        if (!finalState && !elem.classList.contains("active")) return;
+    }
     elem.classList.toggle("active");
     element_i = elem.querySelector("i.accIcon");
     element_i.classList.toggle("fa-caret-down");
@@ -283,12 +297,14 @@ function expandPanel(elem) {
     } 
 }
 
+var expandedAll = false;
 function expandAll() {
+    expandedAll = !expandedAll;
     var acc = document.querySelectorAll("#temas LI");
     var i;
 
     for (i = 0; i < acc.length; i++) {
-        expandPanel(acc[i]);
+        expandPanel(acc[i], expandedAll);
     }
 }
 </script>
@@ -305,7 +321,7 @@ function expandAll() {
     <div class="w3-center"><a  href="http://nicolasserrano.com">Nicolas Serrano</a></div>
 © Tecnun. Escuela de Ingenieros. Universidad de Navarra | P° de Manuel Lardizabal, 13. <BR>20018 Donostia-San Sebastián. Gipuzkoa (España).
 <script>document.title = "Creacion de Contenidos Digitales"</script>
-  <small>v1.06
+  <small>v1.07
         - <a href=https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/CCD.html>Edit</a>
         - <a href=http://nicolasserrano.github.io/CCD>View</a>
         - <a href=https://github.com/nicolasserrano/nicolasserrano.github.io/blob/master/CCD.html>File</a>
