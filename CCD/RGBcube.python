@@ -1,0 +1,21 @@
+import bpy
+from random import randint
+
+#how many cubes you want to add
+count =8
+f=2.0
+
+for i in range(0,count):
+  for j in range(0,count):
+    for k in range(0,count):
+      #if i == 0 or i == count - 1 or j == 0 or j == count - 1 or k == 0 or k == count - 1:
+          x = i*f
+          y = j*f
+          z = k*f
+          #mat.rgbCol = [float(i)/count,float(j)/count,float(k)/count,1]
+          mat = bpy.data.materials.new("PKHG")
+          mat.diffuse_color = [float(i)/count,float(j)/count,float(k)/count,1]
+          mat.specular_color = (200.0,1.0,100.0)
+          bpy.ops.mesh.primitive_uv_sphere_add(location=(x,y,z))
+          o = bpy.context.selected_objects[0] 
+          o.active_material = mat
