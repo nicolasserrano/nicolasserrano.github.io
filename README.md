@@ -143,4 +143,6 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
   <!--<iframe src="http://free.timeanddate.com/clock/i73vju9d/n31/tles4/fn6/fs16/fc9ff/tc000/bas2/bat0/bacfff/pa8/tt0/tw1/tm2/th1/tb4" frameborder="0" width="147" height="56"></iframe> -->
 <iframe src="http://free.timeanddate.com/clock/i73vju9d/n31/tles4/fn6/fs16/fc9ff/tc000/bas2/bat0/bacfff/pa8/tt0/tw1/tm2/th1/tb4" frameborder="0" width="147" height="58"></iframe>
 
+- [Meteo](https://www.yr.no/place/Spain/Basque_Country/San_Sebastian/) - [Image](https://www.yr.no/place/Spain/Basque_Country/San_Sebastian/avansert_meteogram.png)
+
 <small>v1.07</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md)
