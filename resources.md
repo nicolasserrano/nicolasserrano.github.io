@@ -1,7 +1,16 @@
-# Class resources
+## Tema 1. Ficheros y tablas
+Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4db44598-a189-49af-be71-ac2900a4b12c' target='_blank'>01. Ficheros CSV</a><BR>
+Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=85123650-a8b6-4a7d-a6cc-ac2900b183f3' target='_blank'>02. Diferentes formatos de CSV</a><BR>
+Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2eb208bc-1d89-435c-b72f-ac2900a98e54' target='_blank'>03. Conceptos de base de datos</a><BR>
+Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1ee48b41-b16d-4ee3-870e-ac2900ae9774' target='_blank'>04. Creacion de tabla en Access</a><BR>
+Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6e493a6c-8c55-4e17-b28c-ac2900b1f97f' target='_blank'>05. Importacion de fichero csv en Access</a>
+
+- [Práctica 1](http://nicolasserrano.github.io/CS/ADSI/Practica1)
+
+## Class resources
 - [Codex](https://q-server.tecnun.es/codex/)
 - [Socrative](https://b.socrative.com/login/teacher/)
-# Resources of ADSI
+## Resources of ADSI
 [Digital Era image](https://nicolasserrano.github.io/CS/images/digital.png)
 ## Data
 - Video Babbage Difference Engine: [video](https://www.youtube.com/watch?v=KBuJqUfO4-w&feature=youtu.be&t=51)
