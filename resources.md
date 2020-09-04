@@ -1,4 +1,6 @@
 ## Tema 1. Ficheros y tablas
+Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f9e30b99-3124-4f6d-a830-ac2c00f48444' target='_blank'>00a. Binario</a><BR>
+Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f9e30b99-3124-4f6d-a830-ac2c00f48444' target='_blank'>00b. ASCII</a><BR> - Hexadecimal editor [editor](https://hexed.it/?hl=en)
 Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4db44598-a189-49af-be71-ac2900a4b12c' target='_blank'>01. Ficheros CSV</a><BR>
 Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=85123650-a8b6-4a7d-a6cc-ac2900b183f3' target='_blank'>02. Diferentes formatos de CSV</a><BR>
 Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2eb208bc-1d89-435c-b72f-ac2900a98e54' target='_blank'>03. Conceptos de base de datos</a><BR>
