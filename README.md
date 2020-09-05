@@ -4,7 +4,7 @@
 Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [SE](http://www.unav.es/asignatura/isoftwareing/) - [IoT&IA](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/)
 ### 1<sup>st</sup> semester
 - [Hojas de cálculo](http://www.unav.edu/asignatura/hojas-calculo-resolucion-problemas-y-aplicaciones-ing-gr/)
-- [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605) - [Recursos](resources)
+- [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605) - [Recursos](https://nicolasserrano.github.io/CS/ADSI)
 - [Comunicación Visual](http://www.unav.es/asignatura/viscom/)
 - [Dirección de operaciones (MII)](https://tserver.tecnun.es/plan/asignatura?id=1000024856)
 - [Administración de empresas y proyectos de telecomunicación (MIT)](https://tserver.tecnun.es/plan/asignatura?id=1000024834)  
