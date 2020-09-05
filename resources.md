@@ -1,3 +1,6 @@
+** Versión antigua, la actual está en [Recursos de ADSI](https://nicolasserrano.github.io/CS/ADSI) **
+
+
 ## Tema 1. Ficheros y tablas
 Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f9e30b99-3124-4f6d-a830-ac2c00f48444' target='_blank'>00a. Binario</a><BR>
 Video <a href='https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f9e30b99-3124-4f6d-a830-ac2c00f48444' target='_blank'>00b. ASCII</a> - Hexadecimal editor [editor](https://hexed.it/?hl=en)<BR>
