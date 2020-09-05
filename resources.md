@@ -1,4 +1,4 @@
-** Versión antigua, la actual está en [Recursos de ADSI](https://nicolasserrano.github.io/CS/ADSI) **
+# Versión antigua, la actual está en [Recursos de ADSI](https://nicolasserrano.github.io/CS/ADSI)  
 
 
 ## Tema 1. Ficheros y tablas
