@@ -10,3 +10,4 @@
 - The Syllabus Can Wait: <https://hbsp.harvard.edu/inspiring-minds/the-syllabus-can-wait>
 - Observatorio de Monterey: <https://observatorio.tec.mx/covid19-recursos-educativos>
 - Web de Eric Mazur <http://ericmazur.com/index.php>
+- David Calle en [Aula Fnac](https://www.fnac.es/aula-fnac?OriginClick=YES&Origin=mailes_9c73329)
