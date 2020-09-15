@@ -12,3 +12,4 @@
 - Web de Eric Mazur <http://ericmazur.com/index.php>
 - David Calle en [Aula Fnac](https://www.fnac.es/aula-fnac?OriginClick=YES&Origin=mailes_9c73329)
 - Stanford [Tomorrow's Professor](https://tomprof.stanford.edu/)
+- Uso de OBS y Zoom en [Observatorio de Innovación Educativa](https://www.facebook.com/Observatoriodeinnovacioneducativa/videos/294370765339209)
