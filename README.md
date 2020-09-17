@@ -127,6 +127,7 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 ## Tools
 - [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) 
 - [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [Speach notes](https://speechnotes.co/) [Grammar](https://www.grammarcheck.net/editor/)
+- [Google Advanced Search](https://www.google.com/advanced_search)
 - [Custom print](https://www.printwhatyoulike.com/)
 - [Evernote](https://www.evernote.com/)
 - [OneDrive](https://portal.office.com)
