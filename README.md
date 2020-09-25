@@ -134,7 +134,7 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 - [OneDrive Microsoft](https://portal.office.com)
 - [Drive](https://drive.google.com/drive/my-drive)
 - [DropBox](https://www.dropbox.com/)
-- [Shortcuts](Shortcuts.md)
+- [Shortcuts](Shortcuts.html)
 
 <link  rel="stylesheet" href="style.css">
 <script>document.title = "NicolasSerrano.com"</script>
