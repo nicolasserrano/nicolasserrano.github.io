@@ -125,14 +125,16 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 - [Others](https://www.oberlo.com/blog/free-stock-video-websites)
 
 ## Tools
+- [Google Search](https://www.google.com/)  
 - [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) 
 - [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [Speach notes](https://speechnotes.co/) [Grammar](https://www.grammarcheck.net/editor/)
 - [Google Advanced Search](https://www.google.com/advanced_search)
 - [Custom print](https://www.printwhatyoulike.com/)
 - [Evernote](https://www.evernote.com/)
-- [OneDrive](https://portal.office.com)
+- [OneDrive Microsoft](https://portal.office.com)
 - [Drive](https://drive.google.com/drive/my-drive)
 - [DropBox](https://www.dropbox.com/)
+- [Shortcuts](Shortcuts.md)
 
 <link  rel="stylesheet" href="style.css">
 <script>document.title = "NicolasSerrano.com"</script>
