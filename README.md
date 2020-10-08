@@ -49,7 +49,7 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 
 ## <a href='http://nicolasserrano.com'><img src='images/web.png'></a>
 - [Universidad de Navarra](https://www.unav.edu/)
-- [Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)  
+- [Tecnun. Escuela de Ingeniería](https://tecnun.unav.edu/)  
 - [Departamento de Organización Industrial](http://tecnun.org)
 - [Grupo de investigación MENTOR](http://mentor.tecnun.es)
 - [Codex](https://q-server.tecnun.es/codex/) - [SMR](http://smr-project.eu/home/) - [EIMA](http://eimakatalogoa.eus/vufind/Author/Home?author=B%C3%A1rcena+Serrano%2C+Nicol%C3%A1s)
@@ -139,7 +139,7 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 <link  rel="stylesheet" href="style.css" />
 <script>document.title = "NicolasSerrano.com"</script>
 
-- [Tecnun. Escuela de Ingenieros](https://tecnun.unav.edu/)  
+- [Tecnun. Escuela de Ingeniería](https://tecnun.unav.edu/)  
   <span style="font-size: small;"><span style="font-family: initial;">&#9742;</span> 943 219 877 / Ext. 2487.  
   Despacho O-105. Edificio Urdaneta</span>
   
