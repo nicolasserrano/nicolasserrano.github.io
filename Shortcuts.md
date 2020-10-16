@@ -28,3 +28,5 @@
 - Increase speed: Shift + .
 - Decrease speed: Shift + ,
 - 10 seconnds backward/stop/forward: J, K, L
+
+Others in [Wired article](https://www.wired.com/story/do-everything-faster-keyboard-shortcuts-tricks-tips/)
