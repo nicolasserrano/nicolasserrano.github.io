@@ -50,7 +50,7 @@
 - [Página de incio de videoconferencia con Instrucciones para la sesión](http://www.nicolasserrano.com/tools/meeting.html)
 - [Checklist de videoconferencia](/tools/checklist.html)
 - [Prueba de micrófono](https://www.onlinemictest.com/)
-- [Prueba de sonido](https://www.youtube.com/watch?v=OPC92IIkrpU)
+- [Prueba de sonido](https://www.youtube.com/watch?v=OPC92IIkrpU) - [Prueba de estéreo](https://www.youtube.com/watch?v=e8ODm-F9-IM)
 - [VLC](https://www.videolan.org/)
 - [OBS Open Broadcaster Software](https://obsproject.com/) - [Version portable de OBS](https://portableapps.com/apps/music_video/obs-studio-portable)
 - [Editor de video Shotcut](https://shotcut.org/) - [Tutorial in 10 mins](https://www.youtube.com/watch?v=P9pzmzXj03A) - [Web tutorial](https://guides.lib.uoguelph.ca/Shotcut)
