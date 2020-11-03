@@ -13,3 +13,5 @@
 - David Calle en [Aula Fnac](https://www.fnac.es/aula-fnac?OriginClick=YES&Origin=mailes_9c73329)
 - Stanford [Tomorrow's Professor](https://tomprof.stanford.edu/)
 - Uso de OBS y Zoom en [Observatorio de Innovación Educativa](https://www.facebook.com/Observatoriodeinnovacioneducativa/videos/294370765339209)
+- Why Flipping the Classroom Is Even More Important in Large Online Courses <https://hbsp.harvard.edu/inspiring-minds/why-flipping-the-classroom-is-even-more-important-in-large-online-courses>
+- How to Design and Teach a Hybrid Class <https://hbsp.harvard.edu/inspiring-minds/how-to-design-and-teach-a-hybrid-class>
