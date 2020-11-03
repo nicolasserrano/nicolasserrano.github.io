@@ -19,6 +19,13 @@
 - Previous: Ctrl + ,
 - Mark as unread: Ctrl + u
 
+## Chrome
+- Got to address bar: Ctrl + L
+- Open console: F12
+- Sour code: Ctrl + U
+- New tab: Ctrl + Tab
+- Open last closed tab: Shift + Ctrl + Tab
+
 ## YouTube
 - Control music with keyboard: reduce window with YouTube tab to minimum and use
 - Go to tab with: Alt + Tab
