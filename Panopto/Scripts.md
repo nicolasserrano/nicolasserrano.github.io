@@ -16,6 +16,36 @@ for (i=0;i<as.length;i++) {
 console.log(res);
 ```
 
+## Script para obtener la transcripción de los subtítulos
+En el modo edición, en Subtítulos, seleccionar "Importar subtítulos" -> "Importar subtítulos automáticos".
+En la consola ejectuar:
+
+```
+as=document.querySelectorAll("div.index-event-row")
+res = "";
+for (i=0;i<as.length;i++) {
+  el = as[i].querySelector("textarea")
+  if (el != null){
+    res += as[i].querySelector("div.event-time").innerText + "\t" + el.dataset.init + "<BR>\n"
+  }
+}
+console.log(res);
+```
+
+Para obtener solo el texto sin salto de párrafo, ni indicación de tiempo:
+
+```
+as=document.querySelectorAll("div.index-event-row")
+res = "";
+for (i=0;i<as.length;i++) {
+  el = as[i].querySelector("textarea")
+  if (el != null){
+    res += el.dataset.init + " "
+  }
+}
+console.log(res);
+```
+
 ## Mostrar los videos como vínculo o incrustado
 Para mostrar los videos como vínculo (link) o incrustado (embedded), se recomienda poner los vínculos, por ejemplo,
 los obtenidos con el script anterior e incluir los siguientes vínculos.
