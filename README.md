@@ -7,12 +7,12 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 - [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605) - [Recursos](https://nicolasserrano.github.io/CS/ADSI)
 - [Comunicación Visual](http://www.unav.es/asignatura/viscom/)
 - [Dirección de operaciones (MII)](https://tserver.tecnun.es/plan/asignatura?id=1000024856)
+- [Internet de las cosas & Inteligencia Artificial](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/) [MERC](https://www.unav.edu/en/web/master-en-reputacion-corporativa/plan-de-estudios) - [Recursos](http://www.nicolasserrano.com/digital/)
 - [Administración de empresas y proyectos de telecomunicación (MIT)](https://tserver.tecnun.es/plan/asignatura?id=1000024834)  
 
 ### 2<sup>nd</sup> semester  
 - [Tecnologia Digital](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [Material](/CS/material.html)
 - [Software Engineering](http://www.unav.es/asignatura/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1130042_1&course_id=_22124_1)
-- [Internet de las cosas & Inteligencia Artificial](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/) [MERC](https://www.unav.edu/en/web/master-en-reputacion-corporativa/plan-de-estudios) - [Recursos](http://www.nicolasserrano.com/digital/)
 - [Creación de Contenido Digital](/CCD.html)
 
 ## Others
@@ -147,4 +147,4 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 <iframe src="http://free.timeanddate.com/clock/i73vju9d/n31/tles4/fn6/fs16/fc9ff/tc000/bas2/bat0/bacfff/pa8/tt0/tw1/tm2/th1/tb4" frameborder="0" width="147" height="58"></iframe>
 
 - [Meteo](https://www.yr.no/place/Spain/Basque_Country/San_Sebastian/) - [Image](https://www.yr.no/place/Spain/Basque_Country/San_Sebastian/avansert_meteogram.png)
-<small>v1.08</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md)
+<small>v1.09</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md)
