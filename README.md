@@ -53,7 +53,7 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 - [Tecnun. Escuela de Ingeniería](https://tecnun.unav.edu/)  
 - [Departamento de Organización Industrial](http://tecnun.org)
     - [Grupo de investigación MENTOR](http://mentor.tecnun.es) - [Sesiones](https://nicolasserrano.github.io/tools/MENTOR/)
-- [Codex](https://q-server.tecnun.es/codex/) - [SMR](http://smr-project.eu/home/) - [EIMA](http://eimakatalogoa.eus/vufind/Author/Home?author=B%C3%A1rcena+Serrano%2C+Nicol%C3%A1s)
+- [Codex](https://q-server.tecnun.es/codex/) - [SMR](http://smr-project.eu/home/) - [EIMA](http://eimakatalogoa.eus/vufind/Author/Home?author=Nafarroako+Unibertsitatea)
 
 ### Personal Web Pages
 - [NicolasSerrano.com](http://nicolasserrano.com)
