@@ -45,6 +45,8 @@ for (i=0;i<as.length;i++) {
 }
 console.log(res);
 ```
+## Best Practices for Adding Captions to Your Panopto Videos
+[Link a la página de University of Pittsburgh](https://www.etskb-fac.cidde.pitt.edu/panopto/best-practices-for-adding-captions-to-your-panopto-videos/)
 
 ## Mostrar los videos como vínculo o incrustado
 Para mostrar los videos como vínculo (link) o incrustado (embedded), se recomienda poner los vínculos, por ejemplo,
