@@ -12,7 +12,7 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 
 ### 2<sup>nd</sup> semester  
 - [Tecnologia Digital](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [Material](/CS/material.html)
-- [Software Engineering](http://www.unav.es/asignatura/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1130042_1&course_id=_22124_1)
+- [Software Engineering](http://www.unav.es/asignatura/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1541702_1&course_id=_26950_1)
 - [Creación de Contenido Digital](/CCD.html)
 
 ## Others
