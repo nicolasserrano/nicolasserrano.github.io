@@ -45,6 +45,23 @@ for (i=0;i<as.length;i++) {
 }
 console.log(res);
 ```
+## Script para obtener la tabla de contenidos de un video
+En el modo vista (en edición los tiempos son incluyendo las secuencias ocultas), hacer clic en Contenido.
+En la consola ejectuar:
+
+```
+// Content of a Panopto video
+tc=document.querySelectorAll("div.index-event")
+res = "";
+for (i=0;i<tc.length;i++) {
+  el = tc[i].querySelector("div.event-text").querySelector("span")
+  if (el != null){
+    res += el.innerText + "\t" + tc[i].querySelector("div.event-time").innerText + "\n"
+  }
+}
+console.log(res);
+```
+
 ## Best Practices for Adding Captions to Your Panopto Videos
 [Link a la página de University of Pittsburgh](https://www.etskb-fac.cidde.pitt.edu/panopto/best-practices-for-adding-captions-to-your-panopto-videos/)
 
