@@ -23,6 +23,8 @@
 - Got to address bar: Ctrl + L
 - Open console: F12
 - Sour code: Ctrl + U
+- Next tab: Ctrl + AvPag
+- Previous tab: Ctrl + RePag
 - New tab: Ctrl + Tab
 - Open last closed tab: Shift + Ctrl + Tab
 
@@ -34,6 +36,9 @@
 - Full screen: F
 - Increase speed: Shift + .
 - Decrease speed: Shift + ,
+- Next frame: .
+- Previous frame: ,
+- 5 seconnds backward/forward: Left / Right arrows
 - 10 seconnds backward/stop/forward: J, K, L
 
 Others in [Wired article](https://www.wired.com/story/do-everything-faster-keyboard-shortcuts-tricks-tips/)
