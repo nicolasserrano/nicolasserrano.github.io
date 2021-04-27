@@ -51,8 +51,8 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 ## <a href='http://nicolasserrano.com'><img src='images/web.png'></a>
 - [Universidad de Navarra](https://www.unav.edu/)
 - [Tecnun. Escuela de Ingeniería](https://tecnun.unav.edu/)  
-- [Departamento de Organización Industrial](http://tecnun.org)
-    - [Grupo de investigación MENTOR](http://mentor.tecnun.es) - [Sesiones](https://nicolasserrano.github.io/tools/MENTOR/)
+- [Departamento de Organización Industrial](http://tecnun.org)  
+- [Grupo de investigación MENTOR](http://mentor.tecnun.es) - [MENTOR (unav)](https://www.unav.edu/web/grupo-investigadores/mentor) - [Sesiones](https://nicolasserrano.github.io/tools/MENTOR/)
 - [Codex](https://q-server.tecnun.es/codex/) - [SMR](http://smr-project.eu/home/) - [EIMA](http://eimakatalogoa.eus/vufind/Author/Home?author=Nafarroako+Unibertsitatea)
 
 ### Personal Web Pages
