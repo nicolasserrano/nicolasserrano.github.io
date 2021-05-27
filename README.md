@@ -129,8 +129,8 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 
 ## Tools
 - [Google Search](https://www.google.com/)
--   <form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
-<input autocomplete="on" class="form-control search" name="q" placeholder="Search required="required"  type="text" size=15>
+<form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
+<input autocomplete="on" class="form-control search" name="q" placeholder="Search" required="required"  type="text" size=15>
 <button class="button" type="submit">Ok</button>
 </form>
 - [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) - [Paste image](http://www.nicolasserrano.com/tools/paste.html)
