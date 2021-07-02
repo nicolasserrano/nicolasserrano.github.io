@@ -14,6 +14,11 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 - [Tecnologia Digital](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [Material](/CS/material.html)
 - [Software Engineering](http://www.unav.es/asignatura/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1541702_1&course_id=_26950_1)
 - [Creación de Contenido Digital](/CCD.html)
+- [Google Search](https://www.google.com/)
+<form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
+<input autocomplete="on" id='search' class="form-control search" name="q" placeholder="Search" required="required"  type="text" size=15>
+<button class="button" type="submit">Ok</button>
+</form>
 
 ## Others
 - [PFG](http://www.nicolasserrano.com/ProyectosOI/PFG) - [Asignatura ADI](https://tserver.tecnun.es/plan/asignatura?id=1000025725) - [PFM](http://www.nicolasserrano.com/ProyectosOI/PFM) - [Asignatura ADI](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1020053_1&course_id=_20696_1)
@@ -128,11 +133,6 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 - [Others](https://www.oberlo.com/blog/free-stock-video-websites)
 
 ## Tools
-- [Google Search](https://www.google.com/)
-<form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
-<input autocomplete="on" class="form-control search" name="q" placeholder="Search" required="required"  type="text" size=15>
-<button class="button" type="submit">Ok</button>
-</form>
 - [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) - [Paste image](http://www.nicolasserrano.com/tools/paste.html)
 - [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) [Grammar](https://www.grammarcheck.net/editor/)
 - [Google Advanced Search](https://www.google.com/advanced_search)
@@ -154,3 +154,4 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 
 - [Meteo](https://www.yr.no/place/Spain/Basque_Country/San_Sebastian/) - [Image](https://www.yr.no/place/Spain/Basque_Country/San_Sebastian/avansert_meteogram.png)
 <small>v1.09</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md)
+<script>document.getElementById("search").focus();</script>
