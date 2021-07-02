@@ -15,7 +15,8 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 - [Tecnologia Digital](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [Material](/CS/material.html)
 - [Software Engineering](http://www.unav.es/asignatura/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1541702_1&course_id=_26950_1)
 - [Creación de Contenido Digital](/CCD.html)
-- [Google Search](https://www.google.com/)
+
+### Google Search
 <form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
 <input autocomplete="on" id='search' class="form-control search" name="q" placeholder="Search" required="required"  type="text" size=15>
 <button class="button" type="submit">Ok</button>
