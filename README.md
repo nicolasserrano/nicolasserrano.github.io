@@ -35,7 +35,7 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 - [Time Management](TimeManagement/)
 
 ## Main pages
-- [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS)
+- [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) - [files](https://github.com/nicolasserrano/CS)
 - [Digital Era image](https://nicolasserrano.github.io/CS/images/digital.png)
 - [AI](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md) -[VBA](https://www.nicolasserrano.com/tools/hojas/Excel_VBA.pdf) - [CG](https://www.nicolasserrano.com/viscom/CG.pdf) - [Presentations](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/pres.md#1)
 - [El ordenador](https://nicolasserrano.github.io/c5i/Notas)
@@ -155,5 +155,5 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 <iframe src="http://free.timeanddate.com/clock/i73vju9d/n31/tles4/fn6/fs16/fc9ff/tc000/bas2/bat0/bacfff/pa8/tt0/tw1/tm2/th1/tb4" frameborder="0" width="147" height="58"></iframe>
 
 - [Meteo](https://www.yr.no/place/Spain/Basque_Country/San_Sebastian/) - [Image](https://www.yr.no/place/Spain/Basque_Country/San_Sebastian/avansert_meteogram.png)
-<small>v1.09</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md)
+<small>v1.09</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md) [login](https://github.com/nicolasserrano/login)
 <script>document.getElementById("search").focus();</script>
