@@ -5,7 +5,7 @@ Current: [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=100
 ### 1<sup>st</sup> semester
 - [Hojas de cálculo](https://asignatura.unav.edu/hojas-calculo-resolucion-problemas-y-aplicaciones-ing-gr/) - [Recursos y VBA](https://github.com/nicolasserrano/tools/tree/master/hojas)
 - [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605) - [Recursos](https://nicolasserrano.github.io/CS/ADSI)
-- [Comunicación Visual](http://www.unav.es/asignatura/viscom/)
+- [Comunicación Visual](https://asignatura.unav.edu/viscom/)
 - [Dirección de operaciones (MII)](https://tserver.tecnun.es/plan/asignatura?id=1000024856)
 - [Internet de las cosas & Inteligencia Artificial](https://asignatura.unav.edu/internet-de-las-cosas--inteligencia-artificial/) [(MERC)](https://www.unav.edu/en/web/master-en-reputacion-corporativa/plan-de-estudios) - [Recursos](http://www.nicolasserrano.com/digital/)
 - [Administración de empresas y proyectos de telecomunicación (MIT)](https://asignatura.unav.edu/administracion-de-empresas-y-proyectos-de-telecomunicacion/)
