@@ -1,7 +1,7 @@
 
 ## Courses
 
-Current: [Cpdex](https://q-server.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [SE](http://www.unav.es/asignatura/isoftwareing/) - [IoT&IA](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/)
+Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [SE](http://www.unav.es/asignatura/isoftwareing/) - [IoT&IA](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/)
 ### 1<sup>st</sup> semester
 - [Hojas de cálculo](https://asignatura.unav.edu/hojas-calculo-resolucion-problemas-y-aplicaciones-ing-gr/) - [Recursos y VBA](https://github.com/nicolasserrano/tools/tree/master/hojas)
 - [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605) - [Recursos](https://nicolasserrano.github.io/CS/ADSI)
