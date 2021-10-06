@@ -15,6 +15,8 @@
 - Uso de OBS y Zoom en [Observatorio de Innovación Educativa](https://www.facebook.com/Observatoriodeinnovacioneducativa/videos/294370765339209)
 - Why Flipping the Classroom Is Even More Important in Large Online Courses <https://hbsp.harvard.edu/inspiring-minds/why-flipping-the-classroom-is-even-more-important-in-large-online-courses>
 - How to Design and Teach a Hybrid Class <https://hbsp.harvard.edu/inspiring-minds/how-to-design-and-teach-a-hybrid-class>
+## Studio design  
 - How I Designed My Home Teaching Studio <https://hbsp.harvard.edu/inspiring-minds/how-i-designed-my-home-teaching-studio>
 - My Home Studio Setup and Useful Tips For Teaching Business School Students (Andrew W. Lo) <https://www.youtube.com/watch?v=jaFHhQktJiw>
 - World of EdCraft: Challenges and Opportunities in Synchronous Online Teaching <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793342>
+- A Behind-the-Scenes Tech Tour for Online Teachers <https://hbsp.harvard.edu/inspiring-minds/an-educators-guide-to-online-teaching-technology>  
