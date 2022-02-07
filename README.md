@@ -54,7 +54,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 - [ADI](https://aula-virtual.unav.edu/) - [Panopto](https://unav.cloud.panopto.eu)
 - [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
 - [HAL](https://tecnunhal.github.io/)
-- [Codex](https://q-server.tecnun.es/codex/)
+- [Intranet](https://tecnun365.sharepoint.com/Sites/tecnun-intranet/SitePages/Inicio.aspx)
 
 ## <a href='http://nicolasserrano.com'><img src='images/web.png'></a>
 - [Universidad de Navarra](https://www.unav.edu/)
