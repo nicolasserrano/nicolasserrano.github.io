@@ -21,3 +21,5 @@
 - World of EdCraft: Challenges and Opportunities in Synchronous Online Teaching <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793342>
 - A Behind-the-Scenes Tech Tour for Online Teachers <https://hbsp.harvard.edu/inspiring-minds/an-educators-guide-to-online-teaching-technology>  
 - MKBHD Studio Tour <https://www.youtube.com/watch?v=pkuxIy3kFZM>  
+
+- Transparent slide presentations <https://jan-bobolz.de/presentation/video-behind-slides.html>
