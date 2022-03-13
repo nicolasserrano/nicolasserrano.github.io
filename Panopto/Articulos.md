@@ -23,3 +23,5 @@
 - MKBHD Studio Tour <https://www.youtube.com/watch?v=pkuxIy3kFZM>  
 
 - Transparent slide presentations <https://jan-bobolz.de/presentation/video-behind-slides.html>
+- PPT NDI transfers PowerPoint presentations <https://github.com/ykhwong/ppt-ndi>
+
