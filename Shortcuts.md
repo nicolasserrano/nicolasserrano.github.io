@@ -1,6 +1,7 @@
 ## Windows
 - Next application: Alt + Tab
 - File Explorer: W + E
+- Chrome: Ctrl + Alt + C
 - Minimize all: W + M
 
 ## Excel
@@ -18,6 +19,9 @@
 - Next: Ctrl + .
 - Previous: Ctrl + ,
 - Mark as unread: Ctrl + u
+
+## File Explorer
+- Go to folder in left panel: Ctrl + Shift + E
 
 ## Chrome
 - Got to address bar: Ctrl + L
@@ -42,3 +46,13 @@
 - 10 seconnds backward/stop/forward: J, K, L
 
 Others in [Wired article](https://www.wired.com/story/do-everything-faster-keyboard-shortcuts-tricks-tips/)
+
+
+# Windows Configuration
+- startup folder:  
+  Win + R > shell:startup
+
+- startup folder for "All users":  
+  Win + R > shell:common startup
+  
+  
