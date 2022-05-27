@@ -136,7 +136,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 
 ## Tools
 - [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) - [Paste image](http://www.nicolasserrano.com/tools/paste.html) - [Edit](http://www.nicolasserrano.com/viscom/edit.html) - [URL](http://www.nicolasserrano.com/viscom/URL.html)
-- [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
+- [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [Dictionary](https://dictionary.cambridge.org/dictionary/english/) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
 - [Google Advanced Search](https://www.google.com/advanced_search)
 - [Custom print](https://www.printwhatyoulike.com/)
 - [Evernote](https://www.evernote.com/)
