@@ -4,7 +4,7 @@
 Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [SE](http://www.unav.es/asignatura/isoftwareing/) - [IoT&IA](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/)
 ### 1<sup>st</sup> semester
 - [Hojas de cálculo](https://asignatura.unav.edu/hojas-calculo-resolucion-problemas-y-aplicaciones-ing-gr/) - [Recursos y VBA](https://github.com/nicolasserrano/tools/tree/master/hojas)
-- [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605) - [Recursos](https://nicolasserrano.github.io/CS/ADSI)
+- [Tecnologia de la Información](https://tserver.tecnun.es/plan/asignatura?id=92183582) - [Recursos](https://nicolasserrano.github.io/CS/ADSI)
 - [Comunicación Visual](https://asignatura.unav.edu/viscom/) - [Recursos](http://www.nicolasserrano.com/CCD.html)
 - [Dirección de operaciones (MII)](https://tserver.tecnun.es/plan/asignatura?id=1000024856)
 - [Internet de las cosas & Inteligencia Artificial](https://asignatura.unav.edu/internet-de-las-cosas--inteligencia-artificial/) [(MERC)](https://www.unav.edu/en/web/master-en-reputacion-corporativa/plan-de-estudios) - [Recursos](http://www.nicolasserrano.com/digital/)
@@ -29,10 +29,17 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 - [Creación de videos con Panopto en Tecnun](http://www.nicolasserrano.com/Panopto/)
 
 ### Previous courses
+- [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605) - [Recursos](https://nicolasserrano.github.io/CS/ADSI)
 - [Estadística Industrial](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18539_1&url=) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
 - [Finanzas de la Empresa](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18382_1&url=)
 - [Computer Graphics](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1078884_1&course_id=_21325_1&mode=reset)
 - [Time Management](TimeManagement/)
+
+## Tools
+- [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) - [Paste image](http://www.nicolasserrano.com/tools/paste.html) - [Edit](http://www.nicolasserrano.com/viscom/edit.html) - [Pixlr editor](https://pixlr.com/e/)
+- [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [Dictionary](https://dictionary.cambridge.org/dictionary/english/) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
+- Microsoft: [OneDrive](https://portal.office.com)
+- Google: [Drive](https://drive.google.com/drive/my-drive) - [GMail](https://mail.google.com/) - [Photos](https://photos.google.com/?tab=oq&pageId=none) - [Drive Unav](http://drive.unav.es/) 
 
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) - [files](https://github.com/nicolasserrano/CS)
@@ -134,14 +141,10 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 - [videvo](https://www.videvo.net/stock-video-footage/)
 - [Others](https://www.oberlo.com/blog/free-stock-video-websites)
 
-## Tools
-- [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) - [Paste image](http://www.nicolasserrano.com/tools/paste.html) - [Edit](http://www.nicolasserrano.com/viscom/edit.html) - [URL](http://www.nicolasserrano.com/viscom/URL.html)
-- [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [Dictionary](https://dictionary.cambridge.org/dictionary/english/) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
+## Other tools
 - [Google Advanced Search](https://www.google.com/advanced_search)
 - [Custom print](https://www.printwhatyoulike.com/)
 - [Evernote](https://www.evernote.com/)
-- [OneDrive Microsoft](https://portal.office.com)
-- [Drive](https://drive.google.com/drive/my-drive) - [GMail](https://mail.google.com/) - [Drive Unav](http://drive.unav.es/) 
 - [DropBox](https://www.dropbox.com/)
 - [Shortcuts](Shortcuts.md)  
 <link  rel="stylesheet" href="style.css" />
@@ -157,3 +160,5 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 - [Meteo](https://www.yr.no/place/Spain/Basque_Country/San_Sebastian/) - [Image](https://www.yr.no/place/Spain/Basque_Country/San_Sebastian/avansert_meteogram.png)
 <small>v1.09</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md) [login](https://github.com/nicolasserrano/login)
 <script>document.getElementById("search").focus();</script>
+
+<div id='r' class='resources'><hr></div>
