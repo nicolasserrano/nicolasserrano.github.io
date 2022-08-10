@@ -28,13 +28,6 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 - [Games](https://nicolasserrano.github.io/Games/) 
 - [Creación de videos con Panopto en Tecnun](http://www.nicolasserrano.com/Panopto/)
 
-### Previous courses
-- [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605) - [Recursos](https://nicolasserrano.github.io/CS/ADSI)
-- [Estadística Industrial](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18539_1&url=) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
-- [Finanzas de la Empresa](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18382_1&url=)
-- [Computer Graphics](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1078884_1&course_id=_21325_1&mode=reset)
-- [Time Management](TimeManagement/)
-
 ## Tools
 - [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) - [Paste image](http://www.nicolasserrano.com/tools/paste.html) - [Edit](http://www.nicolasserrano.com/viscom/edit.html) - [Pixlr editor](https://pixlr.com/e/)
 - [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [Dictionary](https://dictionary.cambridge.org/dictionary/english/) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
@@ -98,6 +91,13 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 ### Resources of Spreadsheets
 - Visicalc [simulator](https://www.pcjs.org/apps/pcx86/1981/visicalc/)
 - Popular electronics [cover](https://en.wikipedia.org/wiki/Altair_8800#/media/File:Popular_Electronics_Cover_Jan_1975.jpg)
+
+### Previous courses
+- [Análisis y Diseño de Sistemas de Información](https://tserver.tecnun.es/plan/asignatura?id=1000025605) - [Recursos](https://nicolasserrano.github.io/CS/ADSI)
+- [Estadística Industrial](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18539_1&url=) - [Material en github](https://nicolasserrano.github.io/practicaDatos/) 
+- [Finanzas de la Empresa](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18382_1&url=)
+- [Computer Graphics](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1078884_1&course_id=_21325_1&mode=reset)
+- [Time Management](TimeManagement/)
 
 ## Resources
 ### Learning
