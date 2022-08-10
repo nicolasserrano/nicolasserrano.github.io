@@ -33,6 +33,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 - [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [Dictionary](https://dictionary.cambridge.org/dictionary/english/) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
 - Microsoft: [OneDrive](https://portal.office.com)
 - Google: [Drive](https://drive.google.com/drive/my-drive) - [GMail](https://mail.google.com/) - [Photos](https://photos.google.com/?tab=oq&pageId=none) - [Drive Unav](http://drive.unav.es/) 
+- [Notion](https://www.notion.so/)
 
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) - [files](https://github.com/nicolasserrano/CS)
