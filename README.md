@@ -148,6 +148,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 - [Evernote](https://www.evernote.com/)
 - [DropBox](https://www.dropbox.com/)
 - [Shortcuts](Shortcuts.md)  
+- [VPN](https://www.fortinet.com/support/product-downloads#vpn) - [Configuration:](https://unav.atlassian.net/servicedesk/customer/portal/5/article/886953)   
 <link  rel="stylesheet" href="style.css" />
 <script>document.title = "NicolasSerrano.com"</script>
 
