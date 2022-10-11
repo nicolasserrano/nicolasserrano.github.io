@@ -159,7 +159,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
   <!--<iframe src="http://free.timeanddate.com/clock/i73vju9d/n31/tles4/fn6/fs16/fc9ff/tc000/bas2/bat0/bacfff/pa8/tt0/tw1/tm2/th1/tb4" frameborder="0" width="147" height="56"></iframe> -->
 <iframe src="http://free.timeanddate.com/clock/i73vju9d/n31/tles4/fn6/fs16/fc9ff/tc000/bas2/bat0/bacfff/pa8/tt0/tw1/tm2/th1/tb4" frameborder="0" width="147" height="58"></iframe>
 
-- [Meteo](https://www.yr.no/place/Spain/Basque_Country/San_Sebastian/) - [Image](https://www.yr.no/place/Spain/Basque_Country/San_Sebastian/avansert_meteogram.png)
+- [Meteo](https://www.yr.no/en/forecast/daily-table/2-3110044/Spain/Basque%20Country/Gipuzkoa/Donostia%20/%20San%20Sebastian) - [Image](https://www.yr.no/content/2-3110044/meteogram.svg)
 <small>v1.09</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md) [login](https://github.com/nicolasserrano/login)
 <script>document.getElementById("search").focus();</script>
 
