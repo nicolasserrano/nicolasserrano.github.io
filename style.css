@@ -11,6 +11,14 @@ div.markdown-body:first-child h1 {
   .markdown-body div.resources {
     column-span: all;
   }
+    
+ .markdown-body div#r1.resources hr {
+    height: 0em;
+    padding: 0;
+    margin: 0px 0;
+    background-color: #e1e4e8;
+    border: 0;
+}
 
   div.markdown-body h1, div.markdown-body h2, div.markdown-body h3 {
     margin-top: 0;
