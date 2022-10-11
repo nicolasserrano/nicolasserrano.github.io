@@ -1,3 +1,4 @@
+<div id="r1" class="resources"><hr></div>
 ## Courses
 
 Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [SE](http://www.unav.es/asignatura/isoftwareing/) - [IoT&IA](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/)
@@ -76,7 +77,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 - [Blog (no activo)](http://www.nicolasserrano.com/)  
 
 
-<div id='r' class='resources'><hr></div>
+<div id='r2' class='resources'><hr></div>
 
 ## Courses
 - [Codex](https://q-server.tecnun.es/codex/)
