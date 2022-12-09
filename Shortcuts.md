@@ -45,6 +45,9 @@
 - 5 seconnds backward/forward: Left / Right arrows
 - 10 seconnds backward/stop/forward: J, K, L
 
+## Notion
+- Abrir o cerrar todos los toggle list (▶)
+
 Others in [Wired article](https://www.wired.com/story/do-everything-faster-keyboard-shortcuts-tricks-tips/)
 
 
