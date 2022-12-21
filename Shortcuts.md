@@ -46,7 +46,7 @@
 - 10 seconnds backward/stop/forward: J, K, L
 
 ## Notion
-- Abrir o cerrar todos los toggle list (▶)
+- Abrir o cerrar todos los toggle list (▶): Ctrl + Alt + T
 
 Others in [Wired article](https://www.wired.com/story/do-everything-faster-keyboard-shortcuts-tricks-tips/)
 
