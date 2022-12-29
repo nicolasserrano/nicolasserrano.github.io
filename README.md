@@ -51,9 +51,9 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 
 ### Reference Web Pages
 - [Tecnun](http://www.tecnun.es/) - [Alumnos](https://tecnun.unav.edu/alumnos) - [Profesores](https://tecnun.unav.edu/profesores-pas) - [Asesoramiento](https://www.unav.es/Asesoramiento/pages/listados/list.jsf) - [Tu&Co](https://www.magisnet.com/2021/11/el-programa-tuco-de-la-unav-mejora-el-asesoramiento-del-alumno-con-el-desarrollo-de-competencias/) - [Aulas](https://tecnun.unav.edu/profesores-pas/reserva-de-aulas) - [Actas](https://www.unav.es/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html)
-- [Calendario 2023-2024](https://unclic.unav.edu/n673/calendario-academico/) - [Calendario 2023](https://unclic.unav.edu/wp-content/uploads/2022/11/Calendario-laboral-Tecnun-2023.pdf#page=3)
-- [Calendario 2022-2023](https://tecnun.unav.edu/documents/20757644/38697592/Calendario2022-23.pdf) - [Calendario 2022](https://unclic.unav.edu/wp-content/uploads/2021/11/Tecnun.pdf#page=3)
-- [Calendario 2021-2022](https://mcusercontent.com/23a8eb7c9f75ab60b4a3fb472/files/09f57790-bf01-4d35-b9ad-6794f4aaf4a7/CalendarioAcad%C3%A9micoWEB2122_003_.pdf) - [Calendario 2021](https://unclic.unav.edu/n598/calendario-laboral/)
+- Calendarios:
+- [Curso 2023-2024](https://unclic.unav.edu/n673/calendario-academico/) - [Año 2023](https://unclic.unav.edu/wp-content/uploads/2022/11/Calendario-laboral-Tecnun-2023.pdf#page=3)
+- [Curso 2022-2023](https://tecnun.unav.edu/documents/20757644/38697592/Calendario2022-23.pdf) - [Guía](https://tecnun.unav.edu/documents/20757644/38697592/guia-castellano-22.pdf)- [Año 2022](https://unclic.unav.edu/wp-content/uploads/2021/11/Tecnun.pdf#page=3)
 - [ADI](https://aula-virtual.unav.edu/) - [Panopto](https://unav.cloud.panopto.eu)
 - [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
 - [HAL](https://tecnunhal.github.io/)
@@ -162,7 +162,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 <iframe src="http://free.timeanddate.com/clock/i73vju9d/n31/tles4/fn6/fs16/fc9ff/tc000/bas2/bat0/bacfff/pa8/tt0/tw1/tm2/th1/tb4" frameborder="0" width="147" height="58"></iframe>
 
 - [Meteo](https://www.yr.no/en/forecast/daily-table/2-3110044/Spain/Basque%20Country/Gipuzkoa/Donostia%20/%20San%20Sebastian) - [Image](https://www.yr.no/en/content/2-3110044/meteogram.svg)
-<small>v1.09</small> [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md) [login](https://github.com/nicolasserrano/login)
+<small>v1.09</small> [Anteriores](anteriores.md) [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md) [login](https://github.com/nicolasserrano/login)
 <script>document.getElementById("search").focus();</script>
 
 <div id='r' class='resources'><hr></div>
