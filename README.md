@@ -14,7 +14,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 
 ### 2<sup>nd</sup> semester  
 - [Tecnologia Digital](https://asignatura.unav.edu/infor2oi) - [Material](/CS/material.html)
-- [Software Engineering](https://asignatura.unav.edu/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1722898_1&course_id=_29034_1&mode=reset)
+- [Software Engineering](https://asignatura.unav.edu/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1983493_1&course_id=_33995_1&mode=reset)
 - [Sistemas de Comunicación Distribuidos](https://asignatura.unav.edu/scomunicadistring)
 
 ### Google Search
