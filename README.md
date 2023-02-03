@@ -32,7 +32,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 
 ### Tools
 - [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) - [Paste image](http://www.nicolasserrano.com/tools/paste.html) - [Edit](http://www.nicolasserrano.com/viscom/edit.html) - [Pixlr editor](https://pixlr.com/e/)
-- [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [Dictionary](https://dictionary.cambridge.org/dictionary/english/) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
+- [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [DeepL-Write](https://www.deepl.com/write) - [Dictionary](https://dictionary.cambridge.org/dictionary/english/) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
 - Microsoft: [OneDrive](https://portal.office.com)
 - Google: [Drive](https://drive.google.com/drive/my-drive) - [GMail](https://mail.google.com/) - [Photos](https://photos.google.com/?tab=oq&pageId=none) - [Drive Unav](http://drive.unav.es/) 
 - [Notion](https://www.notion.so/)
