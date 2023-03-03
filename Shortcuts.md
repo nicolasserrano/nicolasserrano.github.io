@@ -1,6 +1,7 @@
 ## Windows
 - Next application: Alt + Tab
 - File Explorer: W + E
+- Taskbar: W + T, (← →)
 - Chrome: Ctrl + Alt + C
 - Minimize all: W + M
 
@@ -8,7 +9,7 @@
 - Go left: Ctrl + ->
 - Go down: Ctrl + down arrow
 - Select: Shift + ->
-- Select until End: Ctrl + Shift + ->
+- Select until End: Ctrl + Shift + →
 - Next Sheet: Ctrl + Av. Pag.
 - Prev Sheet: Ctrl + Re. Pag.
 
