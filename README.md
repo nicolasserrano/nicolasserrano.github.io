@@ -55,7 +55,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 - Calendarios:
 - [Curso 2023-2024](https://unclic.unav.edu/n673/calendario-academico/) - [Año 2023](https://unclic.unav.edu/wp-content/uploads/2022/11/Calendario-laboral-Tecnun-2023.pdf#page=3)
 - [Curso 2022-2023](https://tecnun.unav.edu/documents/20757644/38697592/Calendario2022-23.pdf) - [Guía](https://tecnun.unav.edu/documents/20757644/38697592/guia-castellano-22.pdf)- [Año 2022](https://unclic.unav.edu/wp-content/uploads/2021/11/Tecnun.pdf#page=3)
-- [ADI](https://aula-virtual.unav.edu/) - [Panopto](https://unav.cloud.panopto.eu)
+- [ADI 2024](https://gacademica.unav.edu/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html) -[ADI](https://aula-virtual.unav.edu/) - [Panopto](https://unav.cloud.panopto.eu)
 - [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
 - [HAL](https://tecnunhal.github.io/)
 - [Intranet](https://tecnun365.sharepoint.com/Sites/tecnun-intranet/SitePages/Inicio.aspx)
