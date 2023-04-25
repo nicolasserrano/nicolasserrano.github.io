@@ -51,11 +51,11 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 - [CSS](https://nicolasserrano.github.io/CS/CSS/CSS.pdf)
 
 ### Reference Web Pages
-- [Alumnos](https://tecnun.unav.edu/alumnos) - [Profesores](https://tecnun.unav.edu/profesores-pas) - [Asesoramiento](https://www.unav.es/Asesoramiento/pages/listados/list.jsf) - [Tu&Co](https://www.magisnet.com/2021/11/el-programa-tuco-de-la-unav-mejora-el-asesoramiento-del-alumno-con-el-desarrollo-de-competencias/) - [Intercambio](https://tecnun.unav.edu/documents/20757644/32472383/Manual_Programa_intercambio2022-23_GRADOS.pdf) - [Horarios y exámenes](https://tecnun.unav.edu/estudiantes/calendarios-y-examenes) - [Aulas](https://tecnun.unav.edu/profesores-pas/reserva-de-aulas) - [Actas](https://www.unav.es/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html) - [Recursos](recursos)
+- [Alumnos](https://tecnun.unav.edu/alumnos) - [Profesores](https://tecnun.unav.edu/profesores-pas) - [Asesoramiento](https://www.unav.es/Asesoramiento/pages/listados/list.jsf) - [Tu&Co](https://www.magisnet.com/2021/11/el-programa-tuco-de-la-unav-mejora-el-asesoramiento-del-alumno-con-el-desarrollo-de-competencias/) - [Intercambio](https://tecnun.unav.edu/documents/20757644/32472383/Manual_Programa_intercambio2022-23_GRADOS.pdf) - [Horarios y exámenes](https://tecnun.unav.edu/estudiantes/calendarios-y-examenes) - [Aulas](https://tecnun.unav.edu/profesores-pas/reserva-de-aulas) - [Actas 2024](https://gacademica.unav.edu/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html) - [Actas](https://www.unav.es/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html) - [Recursos](recursos)
 - Calendarios:
 - [Curso 2023-2024](https://unclic.unav.edu/n673/calendario-academico/) - [Año 2023](https://unclic.unav.edu/wp-content/uploads/2022/11/Calendario-laboral-Tecnun-2023.pdf#page=3)
 - [Curso 2022-2023](https://tecnun.unav.edu/documents/20757644/38697592/Calendario2022-23.pdf) - [Guía](https://tecnun.unav.edu/documents/20757644/38697592/guia-castellano-22.pdf)- [Año 2022](https://unclic.unav.edu/wp-content/uploads/2021/11/Tecnun.pdf#page=3)
-- [ADI 2024](https://gacademica.unav.edu/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html) -[ADI](https://aula-virtual.unav.edu/) - [Panopto](https://unav.cloud.panopto.eu)
+- [ADI](https://aula-virtual.unav.edu/) - [Panopto](https://unav.cloud.panopto.eu)
 - [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
 - [HAL](https://tecnunhal.github.io/)
 - [Intranet](https://tecnun365.sharepoint.com/Sites/tecnun-intranet/SitePages/Inicio.aspx)
