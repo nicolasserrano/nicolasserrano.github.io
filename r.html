@@ -75,14 +75,13 @@
         urlSearch = "https://raw.githubusercontent.com/nicolasserrano/CS/master/JDBC.md";
       }
       
+      xmlhttp.open("GET",urlSearch,true);
       // via Cache-Control header:
       xmlhttp.setRequestHeader("Cache-Control", "no-cache, no-store, max-age=0");
-    
       // fallbacks for IE and older browsers:
       xmlhttp.setRequestHeader("Expires", "Tue, 01 Jan 1980 1:00:00 GMT");
       xmlhttp.setRequestHeader("Pragma", "no-cache");
       
-      xmlhttp.open("GET",urlSearch,true);
       xmlhttp.send();
     }
 
