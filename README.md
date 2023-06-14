@@ -32,7 +32,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 
 ### Tools
 - [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) - [Paste image](http://www.nicolasserrano.com/tools/paste.html) - [Edit](http://www.nicolasserrano.com/viscom/edit.html) - [Pixlr editor](https://pixlr.com/e/)
-- [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [ChatGPT](https://chat.openai.com/) [DeepL-Write](https://www.deepl.com/write) - [Dictionary](https://dictionary.cambridge.org/dictionary/english/) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
+- [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [ChatGPT](https://chat.openai.com/) - [DeepL-Write](https://www.deepl.com/write) - [Dictionary](https://dictionary.cambridge.org/dictionary/english/) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
 - Microsoft: [OneDrive](https://portal.office.com)
 - Google: [Drive](https://drive.google.com/drive/my-drive) - [GMail](https://mail.google.com/) - [Photos](https://photos.google.com/?tab=oq&pageId=none) - [Drive Unav](http://drive.unav.es/) 
 - [Notion](https://www.notion.so/)
@@ -40,7 +40,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) - [files](https://github.com/nicolasserrano/CS)
 - [Digital Era image](https://nicolasserrano.github.io/CS/images/digital.png)
-- [Presentations](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/pres.md#1) - [AI](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md) -[VBA](https://www.nicolasserrano.com/tools/hojas/Excel_VBA.pdf) - [CG](https://www.nicolasserrano.com/viscom/CG.pdf) - [OpenAI API (ChatGPT](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/pres.md#1)
+- [Presentations](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/pres.md#1) - [AI](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md) -[VBA](https://www.nicolasserrano.com/tools/hojas/Excel_VBA.pdf) - [CG](https://www.nicolasserrano.com/viscom/CG.pdf) - [OpenAI API (ChatGPT](http://www.nicolasserrano.com/r?http://www.nicolasserrano.com/digital/APIChatGPT.md)
 - [El ordenador](https://nicolasserrano.github.io/c5i/Notas)
 - [JavaScript](https://nicolasserrano.github.io/CS/JavaScript) [Execise JavaScript and JSON](https://nicolasserrano.github.io/CS/Java/JavaScriptJSON)
 - [Command Prompt](https://nicolasserrano.github.io/CS/Cmd)
