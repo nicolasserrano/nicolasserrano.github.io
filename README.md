@@ -32,7 +32,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 
 ### Tools
 - [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) - [Paste image](http://www.nicolasserrano.com/tools/paste.html) - [Edit](http://www.nicolasserrano.com/viscom/edit.html) - [Pixlr editor](https://pixlr.com/e/)
-- [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [DeepL-Write](https://www.deepl.com/write) - [Dictionary](https://dictionary.cambridge.org/dictionary/english/) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
+- [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [ChatGPT](https://chat.openai.com/) [DeepL-Write](https://www.deepl.com/write) - [Dictionary](https://dictionary.cambridge.org/dictionary/english/) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
 - Microsoft: [OneDrive](https://portal.office.com)
 - Google: [Drive](https://drive.google.com/drive/my-drive) - [GMail](https://mail.google.com/) - [Photos](https://photos.google.com/?tab=oq&pageId=none) - [Drive Unav](http://drive.unav.es/) 
 - [Notion](https://www.notion.so/)
@@ -40,7 +40,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) - [files](https://github.com/nicolasserrano/CS)
 - [Digital Era image](https://nicolasserrano.github.io/CS/images/digital.png)
-- [AI](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md) -[VBA](https://www.nicolasserrano.com/tools/hojas/Excel_VBA.pdf) - [CG](https://www.nicolasserrano.com/viscom/CG.pdf) - [Presentations](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/pres.md#1)
+- [Presentations](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/pres.md#1) - [AI](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md) -[VBA](https://www.nicolasserrano.com/tools/hojas/Excel_VBA.pdf) - [CG](https://www.nicolasserrano.com/viscom/CG.pdf) - [OpenAI API (ChatGPT](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/pres.md#1)
 - [El ordenador](https://nicolasserrano.github.io/c5i/Notas)
 - [JavaScript](https://nicolasserrano.github.io/CS/JavaScript) [Execise JavaScript and JSON](https://nicolasserrano.github.io/CS/Java/JavaScriptJSON)
 - [Command Prompt](https://nicolasserrano.github.io/CS/Cmd)
@@ -51,7 +51,7 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 - [CSS](https://nicolasserrano.github.io/CS/CSS/CSS.pdf)
 
 ### Reference Web Pages
-- [Alumnos](https://tecnun.unav.edu/alumnos) - [Profesores](https://tecnun.unav.edu/profesores-pas) - [Asesoramiento](https://www.unav.es/Asesoramiento/pages/listados/list.jsf) - [Tu&Co](https://www.magisnet.com/2021/11/el-programa-tuco-de-la-unav-mejora-el-asesoramiento-del-alumno-con-el-desarrollo-de-competencias/) - [Intercambio](https://tecnun.unav.edu/documents/20757644/32472383/Manual_Programa_intercambio2022-23_GRADOS.pdf) - [Horarios y exámenes](https://tecnun.unav.edu/estudiantes/calendarios-y-examenes) - [Aulas](https://tecnun.unav.edu/profesores-pas/reserva-de-aulas) - [Actas 2024](https://gacademica.unav.edu/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html) - [Actas](https://www.unav.es/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html) - [Recursos](recursos)
+- [Alumnos](https://tecnun.unav.edu/alumnos) - [Profesores](https://tecnun.unav.edu/profesores-pas) - [Asesoramiento](https://www.unav.es/Asesoramiento/pages/listados/list.jsf) - [Tu&Co](https://www.magisnet.com/2021/11/el-programa-tuco-de-la-unav-mejora-el-asesoramiento-del-alumno-con-el-desarrollo-de-competencias/) - [mentores](https://mentores.unav.edu/) - [Intercambio](https://tecnun.unav.edu/documents/20757644/32472383/Manual_Programa_intercambio2022-23_GRADOS.pdf) - [Horarios y exámenes](https://tecnun.unav.edu/estudiantes/calendarios-y-examenes) - [Aulas](https://tecnun.unav.edu/profesores-pas/reserva-de-aulas) - [Actas 2024](https://gacademica.unav.edu/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html) - [Actas](https://www.unav.es/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html) - [Recursos](recursos)
 - Calendarios:
 - [Curso 2023-2024](https://unclic.unav.edu/n673/calendario-academico/) - [Año 2023](https://unclic.unav.edu/wp-content/uploads/2022/11/Calendario-laboral-Tecnun-2023.pdf#page=3)
 - [Curso 2022-2023](https://tecnun.unav.edu/documents/20757644/38697592/Calendario2022-23.pdf) - [Guía](https://tecnun.unav.edu/documents/20757644/38697592/guia-castellano-22.pdf)- [Año 2022](https://unclic.unav.edu/wp-content/uploads/2021/11/Tecnun.pdf#page=3)
