@@ -3,14 +3,9 @@
 
 Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [SE](http://www.unav.es/asignatura/isoftwareing/) - [IoT&IA](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/)
 ### 1<sup>st</sup> semester
-- [Hojas de cálculo](https://asignatura.unav.edu/hojas-calculo-resolucion-problemas-y-aplicaciones-ing-gr/) - [Recursos y VBA](https://github.com/nicolasserrano/tools/tree/master/hojas)
-- [Tecnologia de la Información](https://tserver.tecnun.es/plan/asignatura?id=92183582) - [Recursos](https://nicolasserrano.github.io/CS/ADSI)
-- [Comunicación Visual](https://asignatura.unav.edu/viscom/) - [Recursos](http://www.nicolasserrano.com/CCD.html)
-- [Dirección de operaciones (MII)](https://tserver.tecnun.es/plan/asignatura?id=1000024856)
-- [Internet de las cosas & Inteligencia Artificial](https://asignatura.unav.edu/internet-de-las-cosas--inteligencia-artificial/) [(MERC)](https://www.unav.edu/en/web/master-en-reputacion-corporativa/plan-de-estudios) - [Recursos](http://www.nicolasserrano.com/digital/)
+- [Tecnologia de la Información](https://tserver.tecnun.es/plan/asignatura?id=92183582) - [ADI](https://aula-virtual.unav.edu/ultra/courses/_43216_1/outline) - [Recursos](https://nicolasserrano.github.io/CS/ADSI)
 - [Administración de empresas y proyectos de telecomunicación (MIT)](https://asignatura.unav.edu/administracion-de-empresas-y-proyectos-de-telecomunicacion/)
 - [Digital Technologies (MINT)](https://asignatura.unav.edu/digital-technologies-mint/)
-- [Cloud Computing (MIA}](https://asignatura.unav.edu/cloud-computing-mia/)
 
 ### 2<sup>nd</sup> semester  
 - [Tecnologia Digital](https://asignatura.unav.edu/infor2oi) - [Material](/CS/material.html)
@@ -102,6 +97,11 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 - [Finanzas de la Empresa](https://aula-virtual.unav.edu/webapps/blackboard/execute/launcher?type=Course&id=_18382_1&url=)
 - [Computer Graphics](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1078884_1&course_id=_21325_1&mode=reset)
 - [Time Management](TimeManagement/)
+- [Hojas de cálculo](https://asignatura.unav.edu/hojas-calculo-resolucion-problemas-y-aplicaciones-ing-gr/) - [Recursos y VBA](https://github.com/nicolasserrano/tools/tree/master/hojas)
+- [Comunicación Visual](https://asignatura.unav.edu/viscom/) - [Recursos](http://www.nicolasserrano.com/CCD.html)
+- [Dirección de operaciones (MII)](https://tserver.tecnun.es/plan/asignatura?id=1000024856)
+- [Internet de las cosas & Inteligencia Artificial](https://asignatura.unav.edu/internet-de-las-cosas--inteligencia-artificial/) [(MERC)](https://www.unav.edu/en/web/master-en-reputacion-corporativa/plan-de-estudios) - [Recursos](http://www.nicolasserrano.com/digital/)
+- [Cloud Computing (MIA}](https://asignatura.unav.edu/cloud-computing-mia/)
 
 ## Resources
 ### Learning
