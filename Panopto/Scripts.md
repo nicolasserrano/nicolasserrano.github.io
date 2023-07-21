@@ -5,6 +5,19 @@ Estos scritps permiten facilitar la gestión de los videos de Panopto, pero no s
 ## Script para lista de videos de una carpeta de Panopto
 Para obtener la lista de videos de una carpeta de Panopto, se pude ejecutar el siguiente código en la consola del navegador:
 
+**Markdown**
+```
+as=document.querySelectorAll("a.detail-title")
+res = "";
+for (i=0;i<as.length;i++) {
+  if (as[i].href != ''){
+    res += "[Video " + as[i].innerText + "](" + as[i].href + ")\n\r"
+  }
+}
+console.log(res);
+```
+
+**HTML**
 ```
 as=document.querySelectorAll("a.detail-title")
 res = "";
