@@ -126,12 +126,14 @@ Current: [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD
 ### Image edition
 
 - [Pixlr editor](https://pixlr.com/e/)
+- [Boxy svg](https://boxy-svg.com/)
 - [Filters](https://www.befunky.com/create/photo-to-cartoon/)
 
 ### Image search
 - [unsplash](https://unsplash.com/)
 - [pexels](https://www.pexels.com/)
 - [pixabay](https://pixabay.com/)
+- [openclipart (svg)](https://openclipart.org/)
 - [vectorstock](https://www.vectorstock.com/)
 - [google](https://images.google.com/)
 - [freepik](https://www.freepik.com/search?dates=any&format=search&page=1&selection=1&sort=popular)
