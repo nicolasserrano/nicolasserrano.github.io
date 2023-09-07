@@ -3,7 +3,7 @@
 
 Current: [Woffu](https://midatel.woffu.com/#/login) - [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [SE](http://www.unav.es/asignatura/isoftwareing/) - [IoT&IA](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/)
 ### 1<sup>st</sup> semester
-- [Tecnologia de la Información](https://tserver.tecnun.es/plan/asignatura?id=92183582) - [ADI](https://aula-virtual.unav.edu/ultra/courses/_43216_1/outline) - [Recursos](https://nicolasserrano.github.io/CS/ADSI)
+- [Tecnologia de la Información](https://asignatura.unav.edu/INFORM-08333-2324.pdf) - [ADI](https://aula-virtual.unav.edu/ultra/courses/_43216_1/outline) - [Material](https://nicolasserrano.github.io/CS/ADSI)
 - [Administración de empresas y proyectos de telecomunicación (MIT)](https://asignatura.unav.edu/administracion-de-empresas-y-proyectos-de-telecomunicacion/)
 - [Digital Technologies (MINT)](https://asignatura.unav.edu/digital-technologies-mint/)
 
