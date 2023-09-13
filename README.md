@@ -127,6 +127,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [Codex](https://codex.tecn
 ### Image edition
 
 - [Pixlr editor](https://pixlr.com/e/)
+- [Whiteboard](https://whiteboard.office.com/)
 - [Boxy svg](https://boxy-svg.com/)
 - [Filters](https://www.befunky.com/create/photo-to-cartoon/)
 
