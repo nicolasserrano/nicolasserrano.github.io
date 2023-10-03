@@ -60,6 +60,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [Codex](https://codex.tecn
 - [Universidad de Navarra](https://www.unav.edu/)
 - [Tecnun. Escuela de Ingeniería](https://tecnun.unav.edu/)
 - [Biblioteca](https://tecnun.unav.edu/profesores-e-investigacion/biblioteca) - [JCR](https://jcr-clarivate-com.ezproxy.unav.es/jcr/home)
+- [Portal del empleado](https://portaldelempleado.unav.edu/portada)
 - [Departamento de Organización Industrial](http://tecnun.org)  
 - [Grupo de investigación MENTOR](http://mentor.tecnun.es) - [MENTOR Space](https://mentor-tecnun.github.io/Mentor_Space.pdf) - [MENTOR (unav)](https://www.unav.edu/web/grupo-investigadores/mentor) - [Publications](https://nicolasserrano.github.io/tools/MENTOR/Publications) - [Sesiones](https://nicolasserrano.github.io/tools/MENTOR/) - [Presentation](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/tools/MENTOR/Presentation2023.md#1)
 - [Codex](https://q-server.tecnun.es/codex/) - [SMR](http://smr-project.eu/home/) - [EIMA](http://eimakatalogoa.eus/vufind/Author/Home?author=Nafarroako+Unibertsitatea)
