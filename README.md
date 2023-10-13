@@ -71,7 +71,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [Codex](https://codex.tecn
 - [ORCID ID](http://orcid.org/0000-0001-6926-6331)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=Z0ZKrBIAAAAJ)
 - [Research Gate](https://www.researchgate.net/profile/Nicolas_Serrano)
-- [Unav page](https://www.unav.edu/web/investigacion/nuestros-investigadores/detalle-investigadores-cv?investigadorId=31161&investigador=Serrano Barcena, Nicolas)  
+- [Unav page](https://www.unav.edu/web/investigacion/nuestros-investigadores/detalle-investigadores-cv?investigadorId=31161)  
 - [LinkedIn](https://www.linkedin.com/in/nicolasserranobarcena) 
 - [GitHub page](https://github.com/nicolasserrano) - [Repositories](https://github.com/nicolasserrano?tab=repositories) 
 - [Artículos de opinión](opinion)
