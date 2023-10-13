@@ -16,7 +16,7 @@
 - Uso de OBS y Zoom en [Observatorio de Innovación Educativa](https://www.facebook.com/Observatoriodeinnovacioneducativa/videos/294370765339209)
 - Why Flipping the Classroom Is Even More Important in Large Online Courses <https://hbsp.harvard.edu/inspiring-minds/why-flipping-the-classroom-is-even-more-important-in-large-online-courses>
 - How to Design and Teach a Hybrid Class <https://hbsp.harvard.edu/inspiring-minds/how-to-design-and-teach-a-hybrid-class>
-- [Video en Daniel](https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cd6070ff-8050-444c-8252-b07500e48374) - [Video en NS](https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=232e937a-6ba1-4acf-8d76-b0810108c621) - [Video es](https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e644bdbd-0a69-4ddb-9854-ab7c016ace3c)
+- [Video en Daniel](https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cd6070ff-8050-444c-8252-b07500e48374) - [Video en NS](https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cf73244a-3002-40d3-ad3e-b09a00de36f5) - [Video es](https://unav.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e644bdbd-0a69-4ddb-9854-ab7c016ace3c)
 ## Studio design  
 - How I Designed My Home Teaching Studio <https://hbsp.harvard.edu/inspiring-minds/how-i-designed-my-home-teaching-studio>
 - My Home Studio Setup and Useful Tips For Teaching Business School Students (Andrew W. Lo) <https://www.youtube.com/watch?v=jaFHhQktJiw>
