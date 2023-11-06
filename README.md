@@ -36,7 +36,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [Codex](https://codex.tecn
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) - [files](https://github.com/nicolasserrano/CS)
 - [Digital Era image](https://nicolasserrano.github.io/CS/images/digital.png)
-- [Presentations](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/pres.md#1) - [AI](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md) -[VBA](https://www.nicolasserrano.com/tools/hojas/Excel_VBA.pdf) - [CG](https://www.nicolasserrano.com/viscom/CG.pdf) - [OpenAI API (ChatGPT](http://www.nicolasserrano.com/r?http://www.nicolasserrano.com/digital/APIChatGPT.md)
+- [Presentations](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/pres.md#1) - [AI](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md) -[VBA](https://www.nicolasserrano.com/tools/hojas/Excel_VBA.pdf) - [CG](https://www.nicolasserrano.com/viscom/CG.pdf) - [OpenAI API (ChatGPT)](http://www.nicolasserrano.com/r?//www.nicolasserrano.com/digital/APIChatGPT.md)
 - [El ordenador](https://nicolasserrano.github.io/c5i/Notas)
 - [JavaScript](https://nicolasserrano.github.io/CS/JavaScript) [Execise JavaScript and JSON](https://nicolasserrano.github.io/CS/Java/JavaScriptJSON)
 - [Command Prompt](https://nicolasserrano.github.io/CS/Cmd)
