@@ -1,2 +1,2 @@
-- [Viajes](https://www.unav.edu/web/area-economica/servicios/comprar/viajes-y-alojamientos)
+- [Viajes](https://www.unav.edu/web/area-economica/portal-de-compras/viajes-y-alojamientos)
 - [Congresos y cursos](https://unav.atlassian.net/servicedesk/customer/portal/7/article/63143977)
