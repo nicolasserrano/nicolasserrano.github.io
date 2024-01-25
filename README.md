@@ -1,7 +1,7 @@
 <div id="r1" class="resources"><hr></div>
 ## Courses
 
-Current: [Woffu](https://midatel.woffu.com/#/login) - [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [SE](http://www.unav.es/asignatura/isoftwareing/) - [IoT&IA](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/)
+Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual.unav.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_262_1) - [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [SE](http://www.unav.es/asignatura/isoftwareing/) - [IoT&IA](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/)
 ### 1<sup>st</sup> semester
 - [Tecnologia de la Información](https://asignatura.unav.edu/INFORM-08333-2324.pdf) - [ADI](https://aula-virtual.unav.edu/ultra/courses/_43216_1/outline) - [Material](https://nicolasserrano.github.io/CS/ADSI)
 - [Administración de empresas y proyectos de telecomunicación (MIT)](https://asignatura.unav.edu/administracion-de-empresas-y-proyectos-de-telecomunicacion/)
@@ -47,7 +47,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [Codex](https://codex.tecn
 - [CSS](https://nicolasserrano.github.io/CS/CSS/CSS.pdf)
 
 ### Reference Web Pages
-- [Alumnos](https://tecnun.unav.edu/alumnos) - [Profesores](https://tecnun.unav.edu/profesores-pas) - [Asesoramiento](https://www.unav.es/Asesoramiento/pages/listados/list.jsf) - [Tu&Co](https://www.magisnet.com/2021/11/el-programa-tuco-de-la-unav-mejora-el-asesoramiento-del-alumno-con-el-desarrollo-de-competencias/) - [mentores](https://mentores.unav.edu/) - [Intercambio](https://tecnun.unav.edu/documents/20757644/32472383/Manual_Programa_intercambio2022-23_GRADOS.pdf) - [Aulas](https://tecnun.unav.edu/profesores-pas/reserva-de-aulas) - [Horarios y exámenes](https://tecnun.unav.edu/estudiantes/calendarios-y-examenes) - [Actas 2024](https://gacademica.unav.edu/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html) - [Recursos](recursos)
+- [Alumnos](https://tecnun.unav.edu/alumnos) - [Profesores](https://tecnun.unav.edu/profesores-pas) - [Asesoramiento](https://www.unav.es/Asesoramiento/pages/listados/list.jsf) - [Tu&Co](https://www.magisnet.com/2021/11/el-programa-tuco-de-la-unav-mejora-el-asesoramiento-del-alumno-con-el-desarrollo-de-competencias/) - [mentores](https://mentores.unav.edu/) - [Intercambio](https://tecnun.unav.edu/documents/37625596/0/manual-programa-intercambio-2023-24-GRADOS.pdf) - [Aulas](https://tecnun.unav.edu/profesores-pas/reserva-de-aulas) - [Horarios y exámenes](https://tecnun.unav.edu/estudiantes/calendarios-y-examenes) - [Actas](https://gacademica.unav.edu/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html) - [Recursos](recursos)
 - Calendarios:
 - [Curso 2023-2024](https://tecnun.unav.edu/documents/20757644/44824088/calendario-23-24-completo.pdf) - [Año 2023](https://unclic.unav.edu/wp-content/uploads/2022/11/Calendario-laboral-Tecnun-2023.pdf#page=3), [Año 2024](https://campus1952.unav.edu/documents/56290244/74164090/Calendario+laboral+2024+-+TECNUN.pdf/bb3e4dad-1db2-fd47-c70d-ff1aefc15258)
 - [Curso 2022-2023](https://tecnun.unav.edu/documents/20757644/38697592/Calendario2022-23.pdf) - [Guía](https://tecnun.unav.edu/documents/20757644/38697592/guia-castellano-22.pdf)- [Año 2022](https://unclic.unav.edu/wp-content/uploads/2021/11/Tecnun.pdf#page=3)
