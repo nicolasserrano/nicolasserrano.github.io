@@ -157,7 +157,8 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 - [Evernote](https://www.evernote.com/)
 - [DropBox](https://www.dropbox.com/)
 - [Shortcuts](Shortcuts.md)  
-- [VPN](https://www.fortinet.com/support/product-downloads#vpn) - [Configuration:](https://unav.atlassian.net/servicedesk/customer/portal/5/article/886953)   
+- [VPN](https://www.fortinet.com/support/product-downloads#vpn) - [Configuration:](https://unav.atlassian.net/servicedesk/customer/portal/5/article/886953)
+- [YouTube](https://www.youtube.com/) - [YouTube transcript](https://youtubetranscript.com/)   
 <link  rel="stylesheet" href="style.css" />
 <script>document.title = "NicolasSerrano.com"</script>
 
