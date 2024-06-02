@@ -149,7 +149,12 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 - [pixabay](https://pixabay.com/videos/)
 - [videezy](https://www.videezy.com/)
 - [videvo](https://www.videvo.net/stock-video-footage/)
+- [vecteezy](https://es.vecteezy.com/)
 - [Others](https://www.oberlo.com/blog/free-stock-video-websites)
+### IA
+- [leonardo.ai](https://leonardo.ai/)
+- [invideo](https://invideo.io/studio)
+- [firefly](https://firefly.adobe.com/)
 
 ## Other tools
 - [Google Advanced Search](https://www.google.com/advanced_search)
