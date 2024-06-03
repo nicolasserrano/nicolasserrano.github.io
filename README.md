@@ -19,7 +19,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 </form>
 
 ## Others
-- [Creación de Contenido Digital](/CCD.html)
+- [Creación de Contenido Digital](/CCD.html) - [Informática para la investigación](https://www.nicolasserrano.com/CCD/II_2024.html)
 - [PFG](http://www.nicolasserrano.com/ProyectosOI/PFG) - [Asignatura ADI](https://tserver.tecnun.es/plan/asignatura?id=1000025725) - [PFM](http://www.nicolasserrano.com/ProyectosOI/PFM) - [Asignatura ADI](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1020053_1&course_id=_20696_1) - [Gestión de PFC](https://www.informat.ceit.es/WebGPFC/Index.asp)
 - [Winter program](https://tecnunhal.github.io/2020-01-WinterProgram) - [Tecnun](https://tecnun.unav.edu/winter-program/course-description) - [Content](SE4CG/)
 - [Games](https://nicolasserrano.github.io/Games/) 
