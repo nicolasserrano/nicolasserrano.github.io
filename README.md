@@ -3,12 +3,12 @@
 
 Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual.unav.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_262_1) - [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [SE](http://www.unav.es/asignatura/isoftwareing/) - [IoT&IA](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/)
 ### 1<sup>st</sup> semester
-- [Tecnologia de la Información](https://asignatura.unav.edu/INFORM-08333-2324.pdf) - [ADI](https://aula-virtual.unav.edu/ultra/courses/_43216_1/outline) - [Material](https://nicolasserrano.github.io/CS/ADSI)
+- [Tecnologia de la Información](https://nicolasserrano.github.io/CS/ADSI)
 - [Administración de empresas y proyectos de telecomunicación (MIT)](https://asignatura.unav.edu/administracion-de-empresas-y-proyectos-de-telecomunicacion/)
 - [Digital Technologies (MINT)](https://asignatura.unav.edu/digital-technologies-mint/)
 
 ### 2<sup>nd</sup> semester  
-- [Tecnologia Digital](https://asignatura.unav.edu/infor2oi) - [Material](/CS/material.html)
+- [Tecnologia Digital](/CS/material.html)
 - [Software Engineering](https://asignatura.unav.edu/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1983493_1&course_id=_33995_1&mode=reset)
 - [Sistemas de Comunicación Distribuidos](https://asignatura.unav.edu/scomunicadistring) - [Material](https://calm-mars-439.notion.site/Material-SCD-d231d51a871f4abfa86d434432343b0e)
 
