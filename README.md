@@ -144,6 +144,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 - [flaticon](https://www.flaticon.com/)
 - [rawpixel](https://www.rawpixel.com/)
 - [list of photo sites](https://www.stockphotosecrets.com/best-free-stock-photo-sites)
+- [icons reference](https://www.w3schools.com/icons/icons_reference.asp)
 ### Videos
 - [pexels](https://www.pexels.com/es-es/videos/)
 - [pixabay](https://pixabay.com/videos/)
