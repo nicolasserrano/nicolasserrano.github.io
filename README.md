@@ -154,12 +154,14 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 - [Others](https://www.oberlo.com/blog/free-stock-video-websites)
 ### IA
 - [leonardo.ai](https://leonardo.ai/)
+- [![](https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://designer.microsoft.com&size=16)designer](https://designer.microsoft.com/)
 - [![](https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.recraft.ai&size=16)recraft](https://www.recraft.ai/)
 - [invideo](https://invideo.io/studio)
 - [firefly](https://firefly.adobe.com/)
 
 ## Other tools
 - [Google Advanced Search](https://www.google.com/advanced_search)
+- [Icon of Web](https://www.google.com/s2/favicons?domain=www.dominio.com)
 - [Custom print](https://www.printwhatyoulike.com/)
 - [Evernote](https://www.evernote.com/)
 - [DropBox](https://www.dropbox.com/)
