@@ -1,4 +1,4 @@
-<div id="r1" class="resources"><hr></div>
+ch<div id="r1" class="resources"><hr></div>
 ## Courses
 
 Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual.unav.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_262_1) - [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [SE](http://www.unav.es/asignatura/isoftwareing/) - [IoT&IA](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/)
@@ -27,7 +27,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 
 ### Tools
 - [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) - [Paste image](http://www.nicolasserrano.com/tools/paste.html) - [Edit](http://www.nicolasserrano.com/viscom/edit.html) - [Pixlr editor](https://pixlr.com/e/) - [Compare diff](https://editor.mergely.com/)
-- [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [ChatGPT](https://chat.openai.com/) - [DeepL-Write](https://www.deepl.com/write) - [Dictionary](https://dictionary.cambridge.org/dictionary/english/) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
+- [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [ChatGPT](https://chat.openai.com/) -[Claude](https://claude.ai/) - [DeepL-Write](https://www.deepl.com/write) - [Dictionary](https://dictionary.cambridge.org/dictionary/english/) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
 - Microsoft: [OneDrive](https://portal.office.com)
 - Google: [Drive](https://drive.google.com/drive/my-drive) - [GMail](https://mail.google.com/) - [Photos](https://photos.google.com/?tab=oq&pageId=none) - [Drive Unav](http://drive.unav.es/)
 - [Escritorio virtual](https://portalvdi.unav.es/uds/page/services) - [Instrucciones](https://unav.atlassian.net/servicedesk/customer/portal/5/article/279773185)
