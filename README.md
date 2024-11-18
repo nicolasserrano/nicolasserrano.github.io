@@ -1,4 +1,4 @@
-ch<div id="r1" class="resources"><hr></div>
+<div id="r1" class="resources"><hr></div>
 ## Courses
 
 Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual.unav.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_262_1) - [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [SE](http://www.unav.es/asignatura/isoftwareing/) - [IoT&IA](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/)
