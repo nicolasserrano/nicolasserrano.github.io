@@ -52,8 +52,8 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 
 ### Reference Web Pages
 - [Alumnos](https://tecnun.unav.edu/alumnos) - [Profesores](https://tecnun.unav.edu/profesores-pas) - [Asesoramiento](https://www.unav.es/Asesoramiento/pages/listados/list.jsf) - [Tu&Co](https://www.magisnet.com/2021/11/el-programa-tuco-de-la-unav-mejora-el-asesoramiento-del-alumno-con-el-desarrollo-de-competencias/) - [mentores](https://mentores.unav.edu/) - [Intercambio](https://tecnun.unav.edu/documents/20757644/103885462/manual-intercambio-grados-25-26.pdf) - [Aulas](https://tecnun.unav.edu/profesores-pas/reserva-de-aulas) - [Horarios y exámenes](https://tecnun.unav.edu/estudiantes/calendarios-y-examenes) - [Actas](https://gacademica.unav.edu/profesor/servlet/es/unav/ga/comun/seguridadProfesor/Identificacion.html) - [Recursos](recursos)
-- Calendarios:
-- [Curso 2024-2025](https://tecnun.unav.edu/documents/20757644/103885462/tecnun-calendario-fechas-clave-24-25.pdf/) - [Año 2024](https://campus1952.unav.edu/documents/56290244/136313922/Calendario+laboral+-+TECNUN+2025.pdf/a2bbe02a-7818-5f37-074c-31234538c68c?t=1731679663076#page=3)
+- Calendarios: [Curso 2024-2025](https://tecnun.unav.edu/documents/20757644/103885462/tecnun-calendario-fechas-clave-24-25.pdf/) - [Año 2024](https://campus1952.unav.edu/documents/56290244/136313922/Calendario+laboral+-+TECNUN+2025.pdf/a2bbe02a-7818-5f37-074c-31234538c68c?t=1731679663076#page=3)  
+
 <!--
 - [Curso 2023-2024](https://tecnun.unav.edu/documents/20757644/44824088/calendario-23-24-completo.pdf) - [Año 2023](https://unclic.unav.edu/wp-content/uploads/2022/11/Calendario-laboral-Tecnun-2023.pdf#page=3), [Año 2024](https://campus1952.unav.edu/documents/56290244/74164090/Calendario+laboral+2024+-+TECNUN.pdf/bb3e4dad-1db2-fd47-c70d-ff1aefc15258)
 - [Curso 2022-2023](https://tecnun.unav.edu/documents/20757644/38697592/Calendario2022-23.pdf) - [Guía](https://tecnun.unav.edu/documents/20757644/38697592/guia-castellano-22.pdf)- [Año 2022](https://unclic.unav.edu/wp-content/uploads/2021/11/Tecnun.pdf#page=3)
