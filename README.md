@@ -36,6 +36,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 ### IA
 - [ChatGPT](https://chat.openai.com/) -[Claude](https://claude.ai/) - [Mistral](https://chat.mistral.ai/chat)
 - [Elon toolbox](https://studentguidetoai.org/the-ai-toolbox/) - [Teaching Effectively](https://www.teachingeffectivelywithchatgpt.org/) - [Ethan Mollick](https://www.moreusefulthings.com/)
+- [Storm](https://storm.genie.stanford.edu/) - [Notebook LM](https://notebooklm.google/)
 
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) - [files](https://github.com/nicolasserrano/CS)
@@ -174,7 +175,8 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 - [DropBox](https://www.dropbox.com/)
 - [Shortcuts](Shortcuts.md)  
 - [VPN](https://www.fortinet.com/support/product-downloads#vpn) - [Configuration:](https://unav.atlassian.net/servicedesk/customer/portal/5/article/886953)
-- [YouTube](https://www.youtube.com/) - [YouTube transcript](https://youtubetranscript.com/)   
+- [YouTube](https://www.youtube.com/) - [YouTube transcript](https://youtubetranscript.com/)
+- [Biblioteca municipal](https://www.donostiakultura.eus/es/bibliotecas) - [Koldo Mitxelena](https://kmk.gipuzkoa.eus/es/catalogo)
 <link  rel="stylesheet" href="style.css" />
 <script>document.title = "NicolasSerrano.com"</script>
 
