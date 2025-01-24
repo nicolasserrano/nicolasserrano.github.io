@@ -34,7 +34,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 - [Notion](https://www.notion.so/)
 
 ### IA
-- [ChatGPT](https://chat.openai.com/) -[Claude](https://claude.ai/) - [Microsoft Copilot](https://m365.cloud.microsoft/chat) - [Mistral](https://chat.mistral.ai/chat)
+- [ChatGPT](https://chat.openai.com/) -[Claude](https://claude.ai/) - [Microsoft Copilot](https://m365.cloud.microsoft/chat) - [Mistral](https://chat.mistral.ai/chat) - [DeepSeek](https://chat.deepseek.com/)
 - [Elon toolbox](https://studentguidetoai.org/the-ai-toolbox/) - [Teaching Effectively](https://www.teachingeffectivelywithchatgpt.org/) - [Ethan Mollick](https://www.moreusefulthings.com/)
 - [Storm](https://storm.genie.stanford.edu/) - [Notebook LM](https://notebooklm.google/)
 
