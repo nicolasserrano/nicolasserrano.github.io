@@ -138,6 +138,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 
 - [Pixlr editor](https://pixlr.com/e/)
 - [Whiteboard](https://whiteboard.office.com/)
+- [Excalidraw](https://excalidraw.com/)
 - [Boxy svg](https://boxy-svg.com/)
 - [Filters](https://www.befunky.com/create/photo-to-cartoon/)
 
