@@ -17,6 +17,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 <input autocomplete="on" id='search' class="form-control search" name="q" placeholder="Search" required="required"  type="text" size=15>
 <button class="button" type="submit">Ok</button>
 </form>
+<div id="version"</div>
 
 ## Others
 - [Creación de Contenido Digital](/CCD.html) - [Informática para la investigación](https://www.nicolasserrano.com/CCD/II_2024.html)
@@ -193,6 +194,13 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 
 - [Meteo](https://www.yr.no/en/forecast/daily-table/2-3110044/Spain/Basque%20Country/Gipuzkoa/Donostia%20/%20San%20Sebastian) - [Image](https://www.yr.no/en/content/2-3110044/meteogram.svg)
 <small>v1.09</small> [Anteriores](anteriores.md) [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md) [login](https://github.com/nicolasserrano/login)
-<script>document.getElementById("search").focus();</script>
+<script>
+  document.getElementById("search").focus();
+  fetch('Message?id=db2&f=AJAX')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('version').innerHTML = data;
+            });
+</script>
 
 <div id='r' class='resources'><hr></div>
