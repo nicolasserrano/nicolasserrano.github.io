@@ -200,7 +200,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 
 <script>
   document.getElementById("search").focus();
-  fetch('Message?id=db2' + '&f=AJAX')
+  fetch('https://codex.tecnun.es/codex/Message?id=db2' + '&f=AJAX')
             .then(response => response.text())
             .then(data => {
                 document.getElementById('version').innerHTML = data;
