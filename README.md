@@ -17,7 +17,6 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 <input autocomplete="on" id='search' class="form-control search" name="q" placeholder="Search" required="required"  type="text" size=15>
 <button class="button" type="submit">Ok</button>
 </form>
-<div id="version"></div>
 
 ## Others
 - [Creación de Contenido Digital](/CCD.html) - [Informática para la investigación](https://www.nicolasserrano.com/CCD/II_2024.html)
@@ -200,10 +199,5 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 
 <script>
   document.getElementById("search").focus();
-  fetch('https://codex.tecnun.es/codex/Message?id=db2' + '&f=AJAX')
-            .then(response => response.text())
-            .then(data => {
-                document.getElementById('version').innerHTML = data;
-            });
 </script>
 <div id='r' class='resources'><hr></div>
