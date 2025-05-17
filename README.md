@@ -17,7 +17,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 <input autocomplete="on" id='search' class="form-control search" name="q" placeholder="Search" required="required"  type="text" size=15>
 <button class="button" type="submit">Ok</button>
 </form>
-<div id="version"</div>
+<div id="version"></div>
 
 ## Others
 - [Creación de Contenido Digital](/CCD.html) - [Informática para la investigación](https://www.nicolasserrano.com/CCD/II_2024.html)
