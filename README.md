@@ -193,14 +193,17 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 <iframe src="//free.timeanddate.com/clock/i73vju9d/n31/tles4/fn6/fs16/fc9ff/tc000/bas2/bat0/bacfff/pa8/tt0/tw1/tm2/th1/tb4" frameborder="0" width="147" height="58"></iframe>
 
 - [Meteo](https://www.yr.no/en/forecast/daily-table/2-3110044/Spain/Basque%20Country/Gipuzkoa/Donostia%20/%20San%20Sebastian) - [Image](https://www.yr.no/en/content/2-3110044/meteogram.svg)
-<small>v1.09</small> [Anteriores](anteriores.md) [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md) [login](https://github.com/nicolasserrano/login)
+
+<small>v1.09</small>
+
+[Anteriores](anteriores.md) [Edit](https://github.com/nicolasserrano/nicolasserrano.github.io/edit/master/README.md) [login](https://github.com/nicolasserrano/login)
+
 <script>
   document.getElementById("search").focus();
-  fetch('Message?id=db2&f=AJAX')
+  fetch('Message?id=db2' + '&f=AJAX')
             .then(response => response.text())
             .then(data => {
                 document.getElementById('version').innerHTML = data;
             });
 </script>
-
 <div id='r' class='resources'><hr></div>
