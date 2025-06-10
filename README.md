@@ -169,6 +169,9 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 - [![](https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.recraft.ai&size=16)recraft](https://www.recraft.ai/)
 - [invideo](https://invideo.io/studio)
 - [firefly](https://firefly.adobe.com/)
+- [music](https://suno.com/me)
+- [Avatares HeyGen](https://www.heygen.com/)
+- [Text to speach (ElevenLabs)](https://elevenlabs.io/)
 
 ## Other tools
 - [Google Advanced Search](https://www.google.com/advanced_search)
