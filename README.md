@@ -122,6 +122,10 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 - [Resources](onlineLearning)
 
 ### Technology
+#### Tools
+- [VS Code Dev](https://vscode.dev/)
+- [Cloud Shell Editor](https://shell.cloud.google.com/)
+- [Google Cloud](https://console.cloud.google.com)
 #### Channels
 - [ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A)
 - [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
