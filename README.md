@@ -147,6 +147,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 - [SVG Edit](https://svgedit.netlify.app/editor/index.html)
 - [Boxy svg](https://boxy-svg.com/)
 - [Filters](https://www.befunky.com/create/photo-to-cartoon/)
+- [Mermaid](https://mermaid.live/)
 
 ### Image search
 - [unsplash](https://unsplash.com/)
