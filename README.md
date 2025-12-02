@@ -60,7 +60,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 - [Curso 2022-2023](https://tecnun.unav.edu/documents/20757644/38697592/Calendario2022-23.pdf) - [Guía](https://tecnun.unav.edu/documents/20757644/38697592/guia-castellano-22.pdf)- [Año 2022](https://unclic.unav.edu/wp-content/uploads/2021/11/Tecnun.pdf#page=3)
 -->
 - [ADI](https://aula-virtual.unav.edu/) - [Panopto](https://unav.cloud.panopto.eu)
-- [Plan de estudios Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H)
+- Plan de estudios [Organización Industrial](https://www.unav.edu/web/grado-en-ingenieria-en-organizacion-industrial/plan-de-estudios#p_56_INSTANCE_TtbhyJ2YCe0H) - [Sistemas de Telecomunicacion](https://www.unav.edu/web/grado-en-ingenieria-en-sistemas-de-telecomunicacion/plan-de-estudios) - [Inteligencia Artificial](https://www.unav.edu/web/grado-en-ingenieria-en-inteligencia-artificial/plan-de-estudios)
 - [HAL](https://tecnunhal.github.io/)
 - [Intranet](https://tecnun365.sharepoint.com/Sites/tecnun-intranet/SitePages/Inicio.aspx)
 
