@@ -75,6 +75,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 
 ### Personal Web Pages
 - [NicolasSerrano.com](http://nicolasserrano.com)
+- [Web of Science](https://www.webofscience.com/wos/author/record/V-7304-2017)
 - [ResearcherId (Publons)](https://publons.com/researcher/1997529/nicolas-serrano/)
 - [ORCID ID](http://orcid.org/0000-0001-6926-6331)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=Z0ZKrBIAAAAJ)
