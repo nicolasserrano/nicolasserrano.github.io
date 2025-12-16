@@ -171,6 +171,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 - [Others](https://www.oberlo.com/blog/free-stock-video-websites)
 ### IA
 - [leonardo.ai](https://leonardo.ai/)
+- [pixelcut](https://www.pixelcut.ai/es)
 - [![](https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://designer.microsoft.com&size=16)designer](https://designer.microsoft.com/)
 - [![](https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.recraft.ai&size=16)recraft](https://www.recraft.ai/)
 - [invideo](https://invideo.io/studio)
