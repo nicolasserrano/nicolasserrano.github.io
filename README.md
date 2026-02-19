@@ -135,7 +135,8 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 - [MIT Technology Review](https://forms.technologyreview.com/the-download/)
 - [WIRED](https://www.wired.com/newsletter/)
 - [The New York Times](https://www.nytimes.com/newsletters/bits)
-- [deeplearning.ai](https://www.deeplearning.ai/#text-5)
+- [DeepLearning.Ai (Andrew Ng)](https://www.deeplearning.ai/#text-5)
+- [One Useful Thing (Ethan Mollick)]([https://www.deeplearning.ai/#text-5](https://www.oneusefulthing.org/))
 
 ## Images
 
