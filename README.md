@@ -9,6 +9,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 
 ### 2<sup>nd</sup> semester  
 - [Tecnologia Digital](/CS/material.html)
+- [Visualizacion de datos](https://asignatura.unav.edu/visualizacion-de-datos/) - [Material](https://mentor-tecnun.github.io/TD_2025/content.html)
 - [Software Engineering](https://asignatura.unav.edu/isoftwareing/) - [Resources](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_1983493_1&course_id=_33995_1&mode=reset)
 - [Sistemas de Comunicación Distribuidos](https://asignatura.unav.edu/scomunicadistring) - [Material](https://calm-mars-439.notion.site/Material-SCD-d231d51a871f4abfa86d434432343b0e)
 
