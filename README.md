@@ -1,7 +1,7 @@
 <div id="r1" class="resources"><hr></div>
 ## Courses
 
-Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual.unav.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_262_1) - [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [SE](http://www.unav.es/asignatura/isoftwareing/) - [IoT&IA](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/)
+Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual.unav.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_262_1) - [Codex](https://codex.tecnun.es/codex/ItemList) - [SE4CG](SE4CG/) - [TD](https://tserver.tecnun.es/plan/asignatura?id=1000025466) - [SE](http://www.unav.es/asignatura/isoftwareing/) - [IoT&IA](http://www.unav.edu/asignatura/internet-de-las-cosas--inteligencia-artificial/) - [Monet](https://www.nicolasserrano.com/CS/tools/youtube2.html?https://youtu.be/ziUJgYzKNI8?si=CxU9IZKAmDAeU7dP)
 ### 1<sup>st</sup> semester
 - [Tecnologia de la Información](https://nicolasserrano.github.io/CS/ADSI)
 - [Administración de empresas y proyectos de telecomunicación (MIT)](https://asignatura.unav.edu/administracion-de-empresas-y-proyectos-de-telecomunicacion/)
