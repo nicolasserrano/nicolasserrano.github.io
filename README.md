@@ -171,6 +171,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 - [videvo](https://www.videvo.net/stock-video-footage/)
 - [vecteezy](https://es.vecteezy.com/)
 - [Others](https://www.oberlo.com/blog/free-stock-video-websites)
+- [Video_downloader](https://www.freemake.com/es/free_video_downloader_splendid/)
 ### IA
 - [leonardo.ai](https://leonardo.ai/)
 - [pixelcut](https://www.pixelcut.ai/es)
