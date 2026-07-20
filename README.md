@@ -30,12 +30,12 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 - [White](http://www.nicolasserrano.com/viscom/white.html) - [Pad](http://www.nicolasserrano.com/viscom/pad.html) - [Paste image](http://www.nicolasserrano.com/tools/paste.html) - [Edit](http://www.nicolasserrano.com/viscom/edit.html) - [Pixlr editor](https://pixlr.com/e/) - [Compare diff](https://editor.mergely.com/) - [YouTube](https://www.nicolasserrano.com/CS/tools/youtube.html)
 - [Translation](https://translate.google.es/) - [DeepL](https://www.deepl.com/translator) - [DeepL-Write](https://www.deepl.com/write) - [Dictionary](https://dictionary.cambridge.org/dictionary/english/) - [Euskera](https://www.euskadi.eus/traductor/) - [Speach notes](https://speechnotes.co/) - [Natural Readers](https://www.naturalreaders.com/online/) - [Grammar](https://www.grammarcheck.net/editor/) - [RAE](https://dle.rae.es/)
 - Microsoft: [OneDrive](https://portal.office.com)
-- Google: [Drive](https://drive.google.com/drive/my-drive) - [GMail](https://mail.google.com/) - [Photos](https://photos.google.com/?tab=oq&pageId=none) - [Drive Unav](http://drive.unav.es/)
+- Google: [Drive](https://drive.google.com/drive/my-drive) - [GMail](https://mail.google.com/) - [Meet](https://meet.google.com/) - [Calendar](https://calendar.google.com/) - [Photos](https://photos.google.com/?tab=oq&pageId=none) - [Drive Unav](http://drive.unav.es/)
 - [Escritorio virtual](https://portalvdi.unav.es/uds/page/services) - [Instrucciones](https://unav.atlassian.net/servicedesk/customer/portal/5/article/279773185)
 - [Notion](https://www.notion.so/)
 
 ### IA
-- [ChatGPT](https://chat.openai.com/) -[Claude](https://claude.ai/) - [Geminir](https://gemini.google.com/) - [Microsoft Copilot](https://m365.cloud.microsoft/chat) - [Mistral](https://chat.mistral.ai/chat) - [DeepSeek](https://chat.deepseek.com/)
+- [ChatGPT](https://chat.openai.com/) -[Claude](https://claude.ai/) - [Gemini](https://gemini.google.com/) - [Microsoft Copilot](https://m365.cloud.microsoft/chat) - [Mistral](https://chat.mistral.ai/chat) - [DeepSeek](https://chat.deepseek.com/)
 - [Elon toolbox](https://studentguidetoai.org/the-ai-toolbox/) - [Teaching Effectively](https://www.teachingeffectivelywithchatgpt.org/) - [Ethan Mollick](https://www.moreusefulthings.com/)
 - [Storm](https://storm.genie.stanford.edu/) - [Notebook LM](https://notebooklm.google/)
 
