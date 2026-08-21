@@ -37,7 +37,7 @@ Current: [Woffu](https://midatel.woffu.com/#/login) - [ADI](https://aula-virtual
 ### IA
 - [ChatGPT](https://chat.openai.com/) -[Claude](https://claude.ai/) - [Gemini](https://gemini.google.com/) - [Microsoft Copilot](https://m365.cloud.microsoft/chat) - [Mistral](https://chat.mistral.ai/chat) - [DeepSeek](https://chat.deepseek.com/)
 - [Elon toolbox](https://studentguidetoai.org/the-ai-toolbox/) - [Teaching Effectively](https://www.teachingeffectivelywithchatgpt.org/) - [Ethan Mollick](https://www.moreusefulthings.com/)
-- [Storm](https://storm.genie.stanford.edu/) - [Notebook LM](https://notebooklm.google/)
+- [Storm](https://storm.genie.stanford.edu/) - [Notebook LM](https://notebooklm.google/) - [Ejemplos](https://www.nicolasserrano.com/digital/IngenIA/ejemplos/)
 
 ## Main pages
 - [https://nicolasserrano.github.io/CS](https://nicolasserrano.github.io/CS) - [files](https://github.com/nicolasserrano/CS)
